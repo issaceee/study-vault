@@ -1,3 +1,4 @@
+aaaaa
 
 Writeup on how we were taught to study literature:
 - TEM - Technique, effect, meaning - for every piece of analysis
