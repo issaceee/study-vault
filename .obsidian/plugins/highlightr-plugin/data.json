@@ -1,0 +1,26 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Cyan": "#ABF7F7A6",
+    "Grey": "#CACFD9A6",
+    "Red": "#e07a7a",
+    "Yellow": "#f2c94c",
+    "Green": "#6abf69",
+    "Purple": "#9b8fe3",
+    "Blue": "#5aaed6",
+    "Pink": "#e89bbd",
+    "Orange": "#f2a65a"
+  },
+  "highlighterOrder": [
+    "Cyan",
+    "Grey",
+    "Red",
+    "Yellow",
+    "Green",
+    "Purple",
+    "Blue",
+    "Pink",
+    "Orange"
+  ]
+}

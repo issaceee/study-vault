@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "z. Assets/source_notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "z. Assets/source_notes/@{{citekey}}.md",
+      "imageOutputPathTemplate": "z. Assets/Images/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "modern-humanities-research-association-notes",
+      "templatePath": "z. Assets/Templates/source-notes.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

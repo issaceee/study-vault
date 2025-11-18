@@ -1,0 +1,961 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Hi, folks. Uh. Hi, folks.
+
+Hello. Let's see if I can get the microphone to be a vaguely sensible angle for somebody as short as me.
+
+Okay, so for those of you who haven't met me already, I'm Helen Appleton.
+
+And for the next four weeks,
+
+I'm going to be doing these lectures which are introducing you to the context of the old English set texts for prelims paper two.
+
+So we have four Old English set texts, as I'm sure you all know. Dream of the road, a Bit of Beowulf, Wanderer and the Battle of Malden.
+
+And you're going to have much more detailed commentary lectures on all of those in Hilary.
+
+I'm thinking much more about the poetics and style specifically.
+
+So these four lectures are going to be much more about cultural and literary context.
+
+And hopefully with these and with Daniel's lectures on the poetics, you'll be all kind of equipped for thinking in detail about commentary next term.
+
+So I'm going to sew each one of these on the context of each of the commentary texts,
+
+but hopefully it will also give you some things that you want to think about for your essays.
+
+So this week we're starting with dream of the root or The vision of the cross, as it's called in some editions.
+
+So dream of the reach survives to us in a single manuscript called The Kelly Book,
+
+and it's called The Holy Book because it is located in virtually in northern Italy.
+
+We're not entirely sure how a manuscript that's completely written in Old English ended up in the north of Italy,
+
+but it's been there since the early medieval period, and it's very likely that it was carried with a pilgrim on their way to Rome,
+
+because Pacelli is on the pilgrimage route,
+
+and we have lots of evidence for English travellers going backwards and forwards to Rome throughout the early medieval period.
+
+The book. We we often talk about it as one of our great poetic codices, one of our books, uh, principal books of Old English poetry.
+
+But actually a lot of the manuscript is prose, and it's Old English homilies.
+
+So Old English preaching texts and the poems in the book are interspersed in between them.
+
+So we start off with five prose homilies, and then we have the poem Andreas,
+
+which is about Saint Andrew going as an apostle to an island inhabited by cannibals called the murmur.
+
+Donations. And then he has to rescue the prisoners that they're going to eat and then, um,
+
+convert the moment Ionians through this terrifying combination of of fire and flood and preaching fates of the apostles,
+
+is also about the apostles, but it's more or less like a poem that deals with all of them in sequence.
+
+And that's by one of the few named poets whose name we can actually attached to their works.
+
+And that's Coonamble. And then we're back into homilies, um, for another chunk of the manuscript, and then we get Soul and Body one,
+
+which is one of the two poems in Old English in which the soul returns to the body after death,
+
+and it's the soul of a sinful person, and it berates the body for having led astray during life.
+
+And we have another sort of fragmentary Homer etic poem.
+
+And then we get dream of the rood, which is our set text, and then we get another chunk of homilies.
+
+And then the poem Eleanor, which is about the finding of the true cross.
+
+So Saint Helena, the mother of the Emperor Constantine, going to the Holy Land and trying to identify the True Cross and retrieve it for Rome.
+
+And then the manuscript ends with a text that's usually called homily 23, but is actually an abbreviated version of the life of Saint Kislak,
+
+who's an, uh, saint from the Fenland in Lincolnshire, who gets taken bodily to [INAUDIBLE] and then rescued by his mentor, Saint Bartholomew.
+
+So all very exciting stuff at the end of the book there.
+
+So it's quite an eclectic manuscript and its purpose isn't clear to us.
+
+It differs from the other major collections, both of Old English poetry and of Old English homilies that we have surviving from this period,
+
+because it has this mixture of preaching material and poetic material, and the preaching material doesn't seem to be in any obvious logical order.
+
+It's not following the church calendar for the year, which is what we tend to see in these big manuscripts of homilies.
+
+There's also some repetition of material there, more than one homily for the same occasion in the book.
+
+So the kind of rationale for selection is tricky to work out.
+
+And. Although it's the work of one scribe, we know that there's a huge amount of, um, different material coming in, um, to this manuscript.
+
+So it's the one scribe is copying multiple sources. Um.
+
+I mean, we could just do. What?
+
+Um, Don Spragg, who's the editor of the weekly homilies, does and kind of gives up, um, and says that it's basically random.
+
+Um, but perhaps it's more productive to try and think about the book in the way that Eamon Carrigan has done.
+
+He talks about it as an example of a monastic genre of ascetic florals, a kind of assemblages of ascetic texts.
+
+And he describes as one man's book. So he thinks about it as a personal manuscript that belonged to an individual pilgrim and
+
+was spiritually edifying for them to take as travel reading on their journey to Rome.
+
+And Francis Lenihan has also talked about it in this way, thinking about it as a manuscript which expresses the mixed life.
+
+So a mixture of contemplation and teaching.
+
+So two different kinds of spiritual work, and that perhaps fits extremely well for thinking about the dream of the rood.
+
+Don Scruggs analysis of the book, um, tells us that it's put together, as I said,
+
+over a period of time, and it's put together from at least five different sources.
+
+And it also seems to be a project that changed structure partway through.
+
+So when we look at the manuscript, we can see points where, um, whatever the original plan was, was adjusted, and we get evidence of that.
+
+With the opening of The Dream of the Reed. So here is in the manuscript.
+
+Um, we don't have any laser pointers in this building, and there is absolutely no way that I can reach up to that.
+
+But hopefully you can see the capital H of, um, at the beginning over there on the right hand side.
+
+So this is from the digitised version of the Michelli book, which there's a link to on the handout,
+
+which is available to all of you on canvas, so you can go and browse through it at your leisure.
+
+So if we look at it, you can see that the opening of the poem and the first chunk, um,
+
+is spaced differently from the continuation of the poem over on the right hand side of the image here.
+
+And this shows that there's been a change of plan because the poem straddles two different booklets.
+
+So medieval manuscripts are made up of individual booklets, individual choirs assembled together.
+
+Um, the poem dream of the road bridges between two of those booklets.
+
+And as you can see, delineation, the number of lines on the page, changes between the two sides.
+
+What we don't know is whether, um, the left hand side was copied first and then the plan changed, or whether the right hand side was copied first,
+
+and then they realised they'd got space at the end of the other booklet to fit the beginning of the poem in.
+
+And so they did that. But we can see this kind of work in progress.
+
+Changes of ideas happening here, but also, as you can see from looking at dream of the rood in its manuscript context,
+
+Old English poetry is not laid out in its manuscripts as it is in our editions in Mitchell and Robinson.
+
+So you'll notice that the punctuation is really minimal,
+
+but probably most obviously that we don't have it set out in neat, poetic lines with big wide spaces.
+
+Your. As for the half lines, we have it written fairly continuously.
+
+Across the page. And this is a cultural norm.
+
+So Latin poetry is usually limited in verse lines.
+
+Old English is written out using different conventions.
+
+Um, and if you're interested in the way that first is written out,
+
+you can have a look at Rachel Burns's new book, thinking about the way that they they set out.
+
+But it's important to remember when you're thinking about these commentary texts,
+
+how much editorial intervention there has been in the text that you're working with in Mitchell Robinson.
+
+So you don't want to be commenting on things like punctuation because they are not integral to the poem.
+
+Those are editorial choices. So this is the Shelley book.
+
+Produced. In southern England around the year 970, and we date medieval manuscripts largely based on the style of handwriting.
+
+So there are changes in scribal hands over time, and that enables us to sort of localise the production.
+
+It's written in a later West Saxon dialect of Old English, which is what we'd expect from a manuscript from the later 10th century.
+
+But when we look at the texts within it, including dream of the rood,
+
+we see linguistic features that don't belong to that West Saxon dialect, which suggests that the texts.
+
+Uh, earlier, perhaps quite a lot earlier than the manuscript, and that they potentially came from a different part of what becomes England.
+
+Although, of course, Old English poetry is also conservative because it's alliterative.
+
+And so there's all these kind of complicating factors in terms of thinking about the dates of our poems.
+
+And generally speaking, unless we actually have a specific reference to a historical event in a text,
+
+we're making these relatively subjective judgements about dating based on language based on meta.
+
+But occasionally we do have more than one copy of a text, and we have an earlier copy.
+
+And potentially that's what we have with dream of the read.
+
+So this is not a manuscript. This is a monumental stone cross, the Red cross, um, which was probably made in the eighth century.
+
+Um, has visual narratives on several of the sides.
+
+But on this particular side, you can see here uninhabited vine scroll.
+
+And this is really, really typical, um, of sculpture of this period, all the lovely little creatures nibbling on, on fruits.
+
+And originally this would have been brightly coloured.
+
+The creatures would probably have had glass eyes, so it would have been a really visually arresting monument.
+
+So which I've put a little pin in the map for you is now in Scotland.
+
+It's in, um, Dumfries and Galloway.
+
+But that area of Scotland was part of the Kingdom of Northumbria in the eighth century, when we think the cross was carved.
+
+So it's part of, of that sort of Northumbrian cultural world.
+
+And the reason the, um, dreamers throughout and the River cross are connected is the runic letters that hopefully you can see
+
+running alongside of the vine scrolls in the borders seem to be quoting parts of the dream of the rood.
+
+So this is item two on the handout, the whole of it. But for example, the runes say Christie was on the road, Sara H was made, so drove it.
+
+So it does seem to be deemed rude, but it's also clearly in an earlier form of Old English and in a different dialect of Old English.
+
+And it's also only quoting the parts where the cross is speaking.
+
+So the relationship between dream of the as we have it in the book and the Russell Cross is potentially quite complicated.
+
+It's very, very difficult to date. The runic inscription, um, is it eighth century like the sculpture?
+
+Is it something that someone has added later to the cross?
+
+Because the other cross is only quoting parts of dream, the rood where the cross is speaking.
+
+Does whoever carved this onto the cross know the same version of the poem that survives to us?
+
+Lots of lots of questions.
+
+It's a really beautiful and significant monument with lots of visual storytelling, as well as that quotation from dream of the rood.
+
+So you get scenes on the, um, from the New Testament Annunciation, the crucifixion.
+
+Um, we also get scenes that come from saints lives, the hermits Saint Paul and Anthony, on one face of it,
+
+and, um, the beasts adoring Christ, which is a sort of conventional iconography, but not in Scripture.
+
+So it's a really, really significant visual monument. So you can think a lot about the the interaction between text and image with the Red cross.
+
+But we also have another object that connects to dream of the red.
+
+And it's another cross. You will detect. Detect a theme.
+
+So this is an object that, um, post dates the Michelli book.
+
+So this is the Brussels cross and it's called that because it's in Brussels.
+
+As you can see, we're really imaginative with our naming of both texts and objects.
+
+It's, uh. Silver gilded procession, Rick Ross.
+
+So it's a really, really big cross that is designed to be carried at the front of a liturgical procession on a big pole.
+
+So it's kind of an enormous thing that people would follow along.
+
+Behind and around the outside of the Brussels Cross is an inscription which tells us it's dedication.
+
+And again, this is on your handout number three,
+
+if you want to have a look at it later and it says track Maumee road is manana Yale it's Regina bear defender blue.
+
+Damn it, that's road head. I'll work in an awful world.
+
+His brother Crystal love for Alf Richardson.
+
+Well, he had a brother. So we have a text, um, with a little prose text that frames a couple of lines that seem to come from dream of the road,
+
+um, which dedicates this cross. Um, it's produced by two brothers.
+
+I feel modern as a world, um, as a sort of commemoration for the their deceased brother Alfred.
+
+And it has this little again, a quote from the cross speaking fraud is banana around the outside.
+
+So we have this sort of another physical cross quoting the speaking cross of the poem.
+
+So we have a monumental stone cross creating it.
+
+We have a procession, we cross, but there are loads of other different kinds of cross that we get in surviving from early medieval England.
+
+So the cross is an incredibly important symbol for early medieval Christianity,
+
+and it's something that people would have encountered all over the place in all kinds of situations and in various different scales.
+
+Um, so as well as those large crosses, we also have kind of small individual crosses that people would have worn as devotional jewellery.
+
+And again, this is referenced within the poem. But this is a little pectoral cross um from Trumpington.
+
+It's now in Cambridge. Um, universe of museums I think. So a very small little object, but exquisitely manufactured with gold and uncut garnets.
+
+And you can see where we're missing some of the garnets.
+
+The gold beneath the inset garnets has been scored to make, um, it extra sort of reflective of light.
+
+So it's a very sort of bright and shiny and illuminated, um, little object.
+
+Really, really beautiful craftsmanship. So loads of different kinds of crosses being evoked within the poem.
+
+So really connecting the text to the material world to the visual culture of its audience.
+
+So let's have a look a bit further at the road and think about what actually happens in it.
+
+So here we have, roughly speaking, the structure of the poem.
+
+So we begin with the opening address from our dreamer.
+
+Um, and the classic opening word what? Which begins so many old English poems.
+
+And the dreamer tells us that they're going to tell us about their dream.
+
+And then we're told their vision of a tree, which shifts in appearance and is gold and jewelled and bloody.
+
+And we have this very confusing assemblage of visual imagery, which is quite difficult for us to construct into a coherent whole, very deliberately.
+
+And the dreamer is understandably quite troubled by this confusing vision.
+
+But then the tree starts to speak. And then in the centre of the problem, we move into the words of the tree of the Bam.
+
+The cross, the rood and the cross narrates for us its history, beginning with being cut down from its, um, original um.
+
+Sort of home and then being fashioned into a cross all the way through the crucifixion,
+
+we get the burial of Christ, we get the burial of the crosses, and it's recovery and adornment.
+
+So you can read these kind of connections across the manuscript. We get this miniature version of this narrative and dream of the rood,
+
+and then a much more extended treatment of the finding of the True Cross in Eleanor later in the manuscript.
+
+And then, um, the cross explains its role as a symbol.
+
+So it's the narrative of its life, and then it's its function, and then it tells the dreamer how to respond,
+
+the vision and the dreamers instructed to tell all people about the vision they've had,
+
+so that those people can also benefit from the cross and be amongst the righteous on the day of judgement.
+
+And then the end of the poem gives us the dreamers response.
+
+So they pray to the cross, and they look forward to death, and to departing from this world and enjoying the joys of heaven.
+
+And then the poem ends with the dreamer articulating that they have placed their hope in Christ,
+
+and then describing the harrowing of how when Christ, um, descends into [INAUDIBLE] and rescues the souls that have been trapped there.
+
+So that's, um. The sequence of the poems we have very deliberately confusing beginning.
+
+We have narrative that kind of clarifies what's going on. We then have instruction about what to do with the narrative,
+
+and then we have at the end our little dream of modelling for us how we should respond to what's happened earlier in the poem,
+
+and why it's a sort of spiritually valuable exercise.
+
+So that's looking at Jamie, the read as a whole. So now I thought I'd look at some of the contexts for aspects of dream of the root.
+
+And I'm going to start by thinking about dreams, because we're told very, um, clearly at the beginning of the poem, what each Swiss anarchist said.
+
+Shangri-La. I'm going to talk about the best, the choicest of dreams.
+
+There are huge number of dreams. Um. Out there in the the culture of early medieval England.
+
+Obviously, it's a very Christian culture and there are numerous examples of dreams in biblical context.
+
+You can think about the dreams of Pharaoh, dreams of Nebuchadnezzar.
+
+Um, and so they have all of that sort of Christian, um, spiritual framework for dreams available to them.
+
+There are also, um, various dream and visionary texts with very specific English context in both Latin and Old English.
+
+Um, so a little Latin poem de about a verse is quite a lot of visions in it.
+
+Um, from much later than dream of the read. We have the in Old English the vision of lay a rich who's very pious alderman.
+
+He has several visionary experiences. Um, but we also have a really specific association between dreams and Old English poetry.
+
+And that comes from Bede's story of the poet Cadman.
+
+So this is a story that B tells us in book four of his ecclesiastical history, and he sort of explains the origins of Old English religious verse.
+
+And he tells us the story of the monk cabman, um, who's in the monastery at Whitby in Northumbria.
+
+So the key kind of intellectual and cultural centre, and the place from which a lot of this early Old English verse seems to originate.
+
+And we're told, um. That cabman, you know, isn't an educated man.
+
+Um, and he feels very kind of inadequate about his ability to perform at the feast.
+
+So B tells us that when they have a feast at the monastery, um, and everybody's supposed to sort of sing something in earnest,
+
+it's kind of you do your little party because, um, Cadman, uh, tends to kind of do a runner at that point.
+
+Um, and Hide and Beat tells us that on one occasion, cabman um has seen seeing the harp coming his way,
+
+and he's gone and hidden out in, um, with the cattle, um, in in the barn.
+
+In the bar, because he's responsible for looking after the cattle.
+
+And that also tells us a bit about cabin status within the monastery.
+
+He's somebody who's doing the farming. He's doing the practical work.
+
+He's not somebody who's doing the intellectual work or copying manuscripts in scriptorium.
+
+To be tells us that cabinet has gone off to hide with the cattle and then beat says, And I'm giving you coal grade from miners.
+
+Translation of of the Latin.
+
+In due time he stretched himself out and went to sleep, whereupon he dreamt that someone stood by him, saluted him, and called him by name.
+
+Cadman. He said, sing me something. Cabman answered, I cannot sing.
+
+That is why I left the feast and came here, because I could not sing.
+
+Once again the speaker said. Nevertheless you must sing to me.
+
+What must I sing? Said Cadman. Sing, he said, about the beginning of created things.
+
+Thereupon cabman began to sing verses which he had never heard before, in praise of God the creator.
+
+And of course, that gives us our most copied, most widely disseminated, most widely known Old English poem.
+
+Um. Cabman had long hair. And now should we praise um, which is all about the creation.
+
+So we have embedded in old English poetic culture.
+
+Um, dreams and dreaming and ideas of poetry and revelation.
+
+So that gives us a context for dreaming the read.
+
+As a dream. So now back to the rude part of the poem with the double.
+
+Um, thinking about depictions of crosses again.
+
+So there are a lot of, as I was suggesting, there are a lot of context and allusions to different types of cross all the way through.
+
+I'm dream of the route. Um. And there's a huge variety of crosses surviving from early medieval material
+
+culture that gives us some idea of how rich and diverse cross imagery could be.
+
+Um, this is a lovely little, um, ivory reliquary cross, which, as you can see, the Lamb of God in the centre.
+
+They're carrying a cross. So it's a cross within a cross. And then you've got the symbols of the four evangelists at the end of each limb.
+
+So we have these sort of material crosses that people would interact with,
+
+that they'd wear, that they'd handle, that they'd see in processions and in church.
+
+Um, but we also obviously get in dream of the rood, the image of, um, crosses in the sky.
+
+And our dreamer tells us that she saw a silly trail on lift land.
+
+And it seemed to me I saw most wonderful tree raised in the air.
+
+So what do we do with images of crosses in the sky?
+
+Um. There's a lovely cross in the sky for you. Um, from a mausoleum in Ravenna.
+
+So this is a late antique masterpiece mosaic and a very beautiful building from the fifth century.
+
+And Ravenna is a place that people from early medieval England would have visited.
+
+Um. There's, as I said, there's lots of travel to Rome.
+
+There's lots of interactions with Italy and late antique art, and in particular the art of Ravenna.
+
+We can see influencing the art that's produced in early medieval England.
+
+And again, you can see the evangelists symbols there, um, surrounding the cross.
+
+So crosses in the sky like this one.
+
+Arguably the most famous cross in the sky in the Christian tradition is the vision of the Emperor Constantine,
+
+which is obviously very important to Christianity because it leads to Christianity becoming
+
+the religion of Imperial Rome and institutionalised and growth and all of those things.
+
+So the story of the vision of Constantine, summarised briefly, is that before the battle of the Milvian Bridge,
+
+which is an incredibly important battle for Constantine's career, which took place in 83 um 312, Constantine had a vision of the cross.
+
+And so this is the battle that Constantine wins, and which then enables him to become sort of sole ruler of the Roman Empire.
+
+And we're told, um, that he has this, this vision which appears to him.
+
+And one of the texts of that comes from the actor Syriac.
+
+I'll just read you the translation. And we're told that same night a most splendid man came and roused him, and said, Constantine, do not fear,
+
+but look up into the heavens, and behold, and looking up into the sky, he saw the sign of the cross of Christ made out of bright light.
+
+And above were written the words in this conquer.
+
+So the cross appears to Constantine. He adopts it as his symbol for the battle.
+
+He's been victorious in the battle. And then, because it's the cross of Christ, he adopts Christianity.
+
+And Christianity sort of becomes the religion of Rome.
+
+So goes the narrative of the vision of Constantine. And this is an incredibly well known story across the early medieval Christian world.
+
+So thinking about crosses in the sky for a reader dream, the reader is going to bring up those associations with the vision of Constantine.
+
+But the cross in the sky isn't necessarily a positive image.
+
+It's also a potential sign of the oncoming apocalypse.
+
+Although that's perhaps more common in later texts.
+
+So we might have a situation where a very early reader of dream of the rood is going to be thinking about the vision of Constantine.
+
+But a reader of dream of the rood encountering it in the book might find a cross in the sky somewhat more concerning,
+
+because they're more used to seeing it in that kind of apocalyptic context.
+
+And we get a sort of clearer explication of that in another Old English poem found in another one of our major manuscripts,
+
+the Exeter Book, which I'll talk about more in a couple of weeks. And this is a poem called Christ's Three.
+
+It's the third poem in that manuscript on Christ again. Really good at imaginative titles, anyway.
+
+It's a poem about Judgement Day. But Christ three um tells us, um, that Judgement Day is coming and it lists all of the things that you can see,
+
+all of the trumpets and the fire and the troops. Um, and then it says, one of the things that you can see is on sale Hay Road, Rectory Road.
+
+Riches. Tobacco. None. Um.
+
+And the high cross raised upright, um, as a beacon of power.
+
+So it's very much one of the kind of final significant signs of the apocalypse in that section of Christ.
+
+Three. So crosses in the sky can be quite frightening things.
+
+And we also know that people really did see crosses in the sky.
+
+So we have this entry from the Anglo-Saxon Chronicle, um, for the year seven, seven, four, which talks about looking up to the sky, um, and seeing um.
+
+A cross hair of fewer than a mile on half.
+
+Okay. And before you think that this is little early medieval people hallucinating things.
+
+This is a solar flare. And we've got quite a lot of evidence from other sources that that this cross did genuinely appear.
+
+And this is a description of a solar flare from the Chronicle.
+
+Likewise, when the Chronicle talks about seeing fiery dragons in the sky, um, that's it.
+
+Describing looking at the northern lights, which, of course, we all failed to see last night because it was incredibly cloudy again.
+
+Um, so we have to sort of think about, you know, they are sort of writing scientifically about what they're seeing,
+
+but they're doing it often through, um, imagery.
+
+That is sort of more culturally familiar anyway. So some poor people did see A cross in the sky in seven, seven, four.
+
+But I digress. Um, let's get back to material crosses that we can actually handle.
+
+So. With dream of the rood.
+
+We have this intangible cross in the sky that's potentially existing, um, at the apocalypse, the vision of Constantine kind of moving across time.
+
+And it creates this kind of question of kind of when is now, when is the present of the poem?
+
+But that cross is also a material cross, and we have this confusing blend of material and immaterial things in the poem as it
+
+moves between the concrete and the abstract in a way that's deliberately designed,
+
+um, to induce confusion and wonder and convey the marvel of the cross.
+
+Um, so we get, for example, this very material description of the cross in Dream of the rood.
+
+Um, you say it's Wilderness trail. While the aware of that, we in the machine and a year older.
+
+Jim must have done very well in this trail.
+
+And this is an image that seems very much like, um, an altar cross misses a reconstruction of the cross from the Staffordshire Hoard,
+
+which obviously survives to us all, kind of twisted and, um,
+
+crushed because it's being valued for its, uh, its metal content rather than its religious symbolism.
+
+Um, but that's, that's Vikings we. So we have the sense that the poem is evoking for us potentially.
+
+Um, and across. And so thinking about how crosses were treated in churches, how people thought about the materials that made up a church cross,
+
+might be helpful for us in understanding the dream of the rood.
+
+And we do have a formula that describes how you consecrate a cross,
+
+which helps us to understand how you're supposed to think about materials that make up.
+
+And this is a little formula that survives in a manuscript that we call the Pontifical of Egbert.
+
+And he was the Archbishop of York in the sort of mid eighth century.
+
+And a pontifical is a sort of manuscript that collects various different formulas and writes and things that it would be useful for a bishop to know.
+
+It's kind of, you know, helpful aide memoire, um, guide assemblage of bishop stuff.
+
+And it talks about how you consecrate a cross and it's a little Latin text that
+
+you're supposed to sort of say over the cross as part of the consecration ritual.
+
+And it translates as, let the splendour of your only begotten son radiate here in gold.
+
+Let the glory of his passion shine forth in the wood.
+
+Let the redemption of all death glow in the cross and the purification of our life in the splendour of the crystal.
+
+So as it's consecrating, as the Bishop is consecrating the cross,
+
+the bishop is addressing all of the material elements that make up the cross, but explaining and articulating their spiritual significance.
+
+So although this is a very expensive, very prestige object. That ornament, that artifice, is all about conveying a spiritual message.
+
+It's about looking as dream of the reed tells us through the gold.
+
+So we have in dream the route across in the sky a gold cross.
+
+But we also have the cross as a bleeding tree.
+
+And we get lots of descriptions of the blood in the poem.
+
+You know, I'm always tempted when I'm reading dream of the read to think about the description of the five gems and the five wounds of Christ.
+
+Especially because when you look at the way that garnet is often used, the gemstone is obviously blood red.
+
+But that does seem to be a later sort of devotional tradition than dream of the Red.
+
+So, um, these sort of fives are still up for for discussion.
+
+Anyway, so we have this image, um, of the blood appearing in dream of the Reed.
+
+Um, um, our dreamer sees, um, the tree, um, and that it adds and sweat and then sweet run off.
+
+So we have this image of the tree bleeding on its right side, um, reflecting, um, the wound from the Spear of Longinus.
+
+Um. Christ. And.
+
+Bleeding trees. So yes, echoing the wings of Christ, but again, also giving us an image that has these connotations of apocalypse, of Judgement Day.
+
+And this is turning back to Christ three again to explain it.
+
+So bleeding trees can be an image of the apocalypse.
+
+Um, the Christi post three saying that we are spam monarch blue the term be running under Kingdom creator and teacher sap.
+
+We have to swath. So again, evoking the wounds of Christ, but potentially being read by its audience as some apocalyptic imagery.
+
+Um, so again, this is playing around within the poem about these kind of questions of temporality.
+
+When is the dreamer? When is their dream happening? Um, how are they supposed to to understand and interpret it?
+
+So we're moving through the life of the cross in the poem, through the life of Christ, but also through the life of the world.
+
+Um, and this, this shift in the, you know, this shifting, complex imagery in the cross,
+
+in the poem and in the visual and spiritual culture of early medieval England,
+
+you have this, this sort of sense of kind of slippage between material and spiritual, um, between the present and between other times.
+
+Um, crosses are really polyvalent objects. And we get another example of ways of thinking about the cross in quite complicated ways.
+
+In one of the riddles from the Exeter Book.
+
+So I'm not going to talk about this text in detail because I don't really got time.
+
+But it's on your handout and you can sort of think about it at length later.
+
+So this is quite a complicated little riddle. And one of the suggested solutions to it is the word bam.
+
+Because Bama's word, as we know from Jim, the root is um.
+
+A tree. It's a beam of wood. It's a beam of light.
+
+It's also a cross. And that potentially accounts for this very slippery speaking object in the riddle.
+
+And we call speaking objects praise of a pair. So it's a device that's obviously really, really common in the book.
+
+Riddles. Loads of them are first person I am this. I'm saying what it has to say, what I'm called.
+
+But it's also, of course, what we get in dream of the root when the cross speaks to us directly.
+
+So this little riddle is potentially giving us an image of a cross throughout its life, or Bam, throughout its life as a tree,
+
+and then a a beam or a fire, and then a sort of wooden object, potentially a cross being passed around.
+
+And then a kind of great cross at the end that the people, uh, being devoted to.
+
+So the dream of the rood, with its interesting sort of first person speaking objects,
+
+is very much part of this kind of big cultural tradition of speaking objects.
+
+Let me see. In the expert riddles we see on lots of surviving bits of material culture.
+
+You can have a look at the Alfred Jewel in the Ashmolean Museum, which said it says on its Alfred you welcome.
+
+Alfred commanded me to be made. We also have lots of little, little bits of jewellery that have little things on.
+
+One of my favourites is we have a little ring and it has a little written inscription inside,
+
+and the little runic inscription says I am ring, which is great.
+
+I just enjoy speaking objects. So it's not always of great spiritual significance, but clearly in dream of the read.
+
+Um, it is. So that's sort of thinking a lot about the cross.
+
+So now it's probably time to think about the way that the poem portrays Christ and various contract contexts for that.
+
+So what's obviously quite distinctive when you first read dream of the read, actually, if you've been reading gospel accounts of the crucifixion,
+
+is that we get this very martial, very heroic, very active portrayal of Christ and all of the suffering,
+
+all of the passivity is transferred onto the cross.
+
+And sometimes you see in an older criticism or in questionable websites, or you hear people saying that this is all about, you know,
+
+producing a version of Christ that appeals to these Northern Germanic people who like heroism and like violence and for whom,
+
+you know, turning the other cheek and blessed are the meek was just not going to cut it.
+
+And it's very, very true that, um, what we know of pre-Christian, um, Northern Germanic cultures,
+
+uh, that they are heroic and that heroic Christ might well be appealing for that reason.
+
+But it's important to remember that this is something that we find across the Christian world.
+
+So I'm back to Ravenna again with this sixth century, um, mosaic of Christ and the beast.
+
+And you can see that he's wearing, um, his kind of late antique military garb.
+
+Um, he's got his cross raised, um, like a, like a weapon or a battle standard.
+
+So this is a very sort of, um, military. Christ, he's squatting, um, a lion and an asp at the bottom there.
+
+So this heroic Christ is something that's very widely spread idea.
+
+And we do see that in at the root, of course, we have this image of Christ as the young harlot,
+
+um, the young hero who actively, um, climbs onto the cross and sets out to, to liberate mankind.
+
+And as the the great scholar raised me Wolf.
+
+Um, he was at Somerville. So those views at Somerville.
+
+Um, you are following in Rosemary Wolf's impressive footsteps.
+
+Rosemary Wolf, um, has a very important article on Jamie The Reach, which is on your reading list.
+
+And usually your teachers will tell you not to read old criticism.
+
+You know, we plead and beg you to please read stuff that's written in the last kind of,
+
+you know, 15 years or so and try and be up to date with the field. But there are some seminal articles that are worth going back to.
+
+And Rosemary Wolf's is one of them. And she talks about how the dream of the kind of remarkable achievement is the way that it balances, um,
+
+triumph and suffering and the kind of paradoxical fusion of those and the crucifixion that's created by
+
+the alternation between this radiant cross and the plain blood covered cross in the midst in the prelude.
+
+And then secondly, and much more subtly and powerfully by the two figures of the heroic, virtuous warrior on the passive, enduring cross.
+
+So it's really important for us to remember when we're dealing with Old English poetry and we're dealing with, uh,
+
+heroic Christs and our martial saints, um, that we, you know, this is something that happens across the Christian world.
+
+Um, you know, people historically got very excited about, um, pre-Christian religions.
+
+That's very good. Eric Stanley, um, back on the hunt for Anglo-Saxon paganism, basically,
+
+it's very hard to find because there isn't really any because all the literature is very Christian.
+
+So we have to kind of step back from that and say that. Yes. Um, early medieval English Christianity is syncretic.
+
+It has absorbed things from folk beliefs, from pre-Christian traditions.
+
+But also our poems are produced by and for an elite, and that cultural elite is extremely Christian.
+
+So we do have Gregory the Great writing about new sprinkling holy water on pre-Christian shrines.
+
+But it's also important to remember that that's Gregory, writing from Italy.
+
+So we shouldn't see anything distinctly English about that repurposing.
+
+And as this Ravenna image shows, um, even in the late antique periods,
+
+you've got these kind of classical and late antique martial ideas being adopted by the church.
+
+So when we get our sort of heroic Christ and our martial saints in Old English, um, what we're getting is poets leaning,
+
+albeit with local tastes and local vocabulary and local kind of cultural
+
+conventions into very established models that are widespread across the church.
+
+And Rosemary's other really key idea that she raises in her article is about the nature of Christ and the theology of the poem.
+
+And this is quite a complex thing to to work through.
+
+But basically she's pointing out, um, that.
+
+This is a poet who's producing something that's potentially very theologically significant.
+
+So yes, you can dream, read, dream of the read as presenting the crucifixion in a way that is broadly culturally appealing, with, um,
+
+suffering cross explaining why suffering is valuable, heroic Marshal Christ demonstrating, um, Christianity as salvation for mankind.
+
+But you could also read it as engaging with relatively contemporary theological debates about what Christ is,
+
+how Christ works, and one of the key debates the early church works through is.
+
+What is the nature of Christ? What is Christ's will? Is Christ human, or is Christ divine, or is Christ both human and divine?
+
+And the answer you end up with is this.
+
+The idea of hyperspace is that Christ has two natures, human and divine, and they are united in the one person that becomes the Orthodox view.
+
+And what Wolf argues is that you can read dream of the readers engaging with this,
+
+that in sort of separating Christ out between the cross and Christ, but also uniting them back together again.
+
+The poet is playing around with these very, sort of current, very intellectual theological debates.
+
+So yes, it's a poem that appeals to a broad audience, but it's also a poem that appeals to a very,
+
+very intellectually sophisticated audience in its treatment of suffering and heroism.
+
+So it's operating on multiple levels. And you can see other examples of thinking about Christ in two ways across the corpus.
+
+This is, um, an 11th century crozier, and you can see on one side we have the suffering Christ,
+
+but on the other side, like that Ravenna mosaic, we've got Christ triumphant and trampling on the beasts.
+
+So that in some ways is the genius of of the root. It's a poem that uses suffering and heroism to think about, um, Christ on multiple levels.
+
+So I want now to turn to thinking about the end dream of the route,
+
+which is often the bit that people don't want to get for the commentary, because it's the least sort of ornamented part of the poem.
+
+It's the poem that describes heaven, which of course we can't understand because we are on earth.
+
+As these two images of the Ascension show the classic disappearing Christ there.
+
+I'm from the Winchester School in the Tiberius Psalter and the Harrowing of [INAUDIBLE],
+
+which is a narrative which is extra biblical but extremely widely known in early medieval Europe.
+
+So, as I said, the idea of the harrowing is of Christ breaking open how and rescuing the souls of
+
+the virtuous patriarchs who've been waiting there until he's able to rescue them.
+
+And so we get a sort of allusive reference to it in The poem of the sea, your fast, the victory fast sun.
+
+And we get more details of the harrowing in the prose corpus, for example.
+
+And I've put it this on the handout, there's a an apocryphal homily based on the vision of Nicodemus,
+
+which talks very explicitly about Christ coming and breaking open [INAUDIBLE].
+
+So this is a very widely known idea that the poet engages with.
+
+And so we get this switch from sort of confusion to homily to very preaching and to the poem about how we should respond to division.
+
+Um, and about Judgement Day and the hiring of [INAUDIBLE].
+
+So one of the questions that that stylistic change might make us ask is.
+
+Are we dealing with one poet or two?
+
+Because as I was saying, when we look at the cross, it's only quoting from the earlier part of the poem.
+
+It's only quoting the speaking cross. There's been lots of debate about the ending.
+
+Um, and sometimes people have been extremely harsh on the ending, for example, as way back in 1905.
+
+Um describes the ending as um.
+
+Very bad, basically. And he said that we conclude that it was either come here by accident or that the poet's judgement was at fault.
+
+Now it's very important to avoid value judgements in your work.
+
+Um, so please don't write in that style.
+
+Um, but it's worth thinking about what has kind of triggered that statement from Kirk.
+
+And obviously the poem does have an effect of unity is really good to have a very confusing,
+
+very complex beginning and then a very clear, um, statement of how you're supposed to respond to that at the end.
+
+And obviously, that means also that dreamer wakes up when you have a frame. But potentially there is something going on with this ending.
+
+And say more recently, Leonard Knight authors looked at it in terms of its language and metre,
+
+and has suggested quite persuasively that it seems to be rather later than the rest of the text.
+
+Um. But what he also points out is that this is not sort of just chucking something on the end, that if this is a second poet,
+
+they're reusing lines from earlier in the poem that constructing all these very careful envelopes and repetitions.
+
+So what they're doing is. A pre apprehending and probably admiring the language and content of the earlier poet.
+
+So maybe it's a later ending, but it's a thoughtful addition.
+
+Why do we have it? Who knows? Maybe we just had the vision with no frame.
+
+Maybe. There was a copy that was missing the ending, and this was created to patch that gap.
+
+We have other examples of patches and additions to Old English poetry, where they're clearly dealing with a defective manuscript.
+
+So. Don't dismiss the ending.
+
+It is integral to the poem as we have it in the book. It's doing useful literary work,
+
+but also don't use that Homer letter ending to read dream of the read as a poem that's clearly directed at a bunch of very recently converted people.
+
+Because potentially this is an ending that's coming from a point when everybody has been Christian for about 300 years.
+
+But I do think it's really intriguing to think about this potential for there being two poets,
+
+because it means that the dream of the root is then a poem that embeds its own reception history within it.
+
+We can see how somebody read dream of the rood in the ending of dream three.
+
+What are you supposed to do with this amazing, dazzling, confusing, polyvalent vision of the cross?
+
+And I wanted to end with that idea of reception, because, of course,
+
+one of the things that you can do for this paper is write about the reception of these early medieval texts.
+
+And so for my final slide, I'd just like to show you two, um, 20th century artists engaging with Dream of Three.
+
+So on the left here is poet and artist David Jones,
+
+who engages with dream of the rood and thinks about it visually and textually in his poem um, Another Martyr from 1952.
+
+And here on the right is, is Lawrence Wisner, who's a famous glass engraver.
+
+Those of you who are at Balliol, there's some bits of Whistler glass, um, in Balliol that you can potentially go and see.
+
+He scratched some things on some windows in the old school.
+
+Uh, anyway, as this is a beautiful memorial window that he created in Dorset, um, based, as you can see on dream of the Reed.
+
+They're trying to capture the plain bleeding, suffering cross.
+
+And also that amazing, ornamented and dazzling cross on that side there.
+
+So with that beautiful image, that vision of the cross, I will leave the dream of the rood for this week and next week we are onto Beowulf.
+
+Exciting stuff.
+

@@ -1,0 +1,19 @@
+{
+  "pathToPandoc": "",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1763500545949
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/modern-humanities-research-association-author-date.csl",
+  "cslStylePath": "",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

@@ -1,0 +1,935 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good afternoon everyone. Hi everyone.
+
+Let's make a start. My name is Fergus McGhee and this is a lecture for prelims paper 1b, introduction to literature.
+
+And it's on the subject of paraphrase. Paraphrase is one of the most ancient tools in the critic's toolbox.
+
+We're going to consider the history of paraphrase, the long tradition of hostility towards it in literary criticism,
+
+and whether it might nonetheless have its virtues and its uses.
+
+So to do this, we need to grapple with some fairly fundamental questions about literary study. Questions that may seem simple,
+
+but that turn out to have quite profound consequences for the ways in which we think and write about literature.
+
+Questions like how do we decide what a text is about?
+
+What is the relationship between form and content?
+
+How do we, as critics, find the words that will clarify and enrich and enliven our experience of literature
+
+and open that experience to others? And how might techniques of paraphrase change what we see and what we hear in a text, for better or worse?
+
+Well, let's begin with a definition. Paraphrase simply means this.
+
+Rendering the sense of some piece of language, could be an expression, a sentence, a poem, or even a whole book, in different words.
+
+A paraphrase, then, is a rewording.
+
+The critic Jeff Donovan suggests that the most tireless purveyors of paraphrase today are the search engines working in
+
+reverse as they seek to channel the enormous variety of queries towards the sites that everyone means or discovers they mean.
+
+So here is a typical example. Okay, so this suggests why we might want to be a little bit wary of paraphrase.
+
+Or at the very least, we should be alert to the intentions manifest in paraphrase to what it's being used for.
+
+Now, those uses might vary considerably, and they're not always as nefarious as this one.
+
+Writing in the first century,
+
+the Roman rhetorician Quintilian recommended that students of rhetoric should paraphrase poetry as part of their training as orators.
+
+The lofty inspiration of verse serves to elevate the orator style,
+
+and the bold license of poetic language does not preclude our attempting to render the same words in the language natural to prose.
+
+Nay, we may add the figure of oratory to the thoughts expressed by the poet, make good his omissions, and prudent his diffuse ness.
+
+But I would not have paraphrase restrict itself to the bare interpretation of the original.
+
+Its duty is rather to rival and vie with the original in the expression of the same thoughts.
+
+So here we have the idea of recasting the poet's thoughts into prose, invigorating and even improving upon them in the process.
+
+What results is a kind of interpretation of the original. You're explaining something in your own words,
+
+but there's also the intention here of trying to outdo the original to give the same thoughts, a rival expression.
+
+In the early modern period, the most important paraphrases in English were those of scriptural texts such as the paraphrase of the New Testament,
+
+which Erasmus had performed in Latin, and which was then translated into English by Nicholas Udall and others in the 16th century.
+
+Here the paraphrase is not offered in competition with the original.
+
+That would be quite bold, given that the author is understood to be Almighty God.
+
+Instead, it's about making a text plain and easy to understand.
+
+So Udall writes in his preface, for a paraphrase is a plain setting forth of a text or sentence more at large,
+
+with such circumstance of more and other words, as may make the sentence open, clear, plain, and familiar,
+
+which otherwise should perchance seem bare, unfruitful, hard, strange, rough, obscure, and dark.
+
+To understand it. And you can see the list of synonyms here actually performing the task of paraphrase that he's describing.
+
+And what is this but a kind of exposition? Yeah. And that of the most pithy and effectual sort.
+
+Paraphrase here is about accessibility. Making something understandable to as wide an audience as possible.
+
+But it's also about rhetorical forcefulness, about landing a message, bringing it home to readers hearts and minds.
+
+In both these cases, then paraphrase is not something mechanical or value neutral.
+
+It's laden with particular values and intentions.
+
+And I point that up because a lot of muddled thinking about paraphrase and contemporary
+
+critical discussions arises from the failure to recognise the importance of use and value.
+
+So if we ask is paraphrase useful? Well, it depends on what you're trying to do with it.
+
+And that in turn shows us what you value about the text.
+
+So these early rationales for paraphrase are particularly useful because the issue
+
+of value is very much more on the surface than it often is in modern discussions.
+
+Let's take a look at the poet John Dryden's preface to his own reworking, his reworking of Shakespeare's play Troilus and Cressida,
+
+which was published just eight years or so, uh, after Shakespeare's play was first performed.
+
+Dryden writes,
+
+the tongue in general is so much refined since Shakespeare's time that many of his words and more of his phrases are scarce intelligible,
+
+and of those which we understand.
+
+Some are ungrammatical, others coarse, and his whole style is so pestered with figurative expressions that it is as affected as it is obscure.
+
+Yet. After all, because the play was Shakespeare's and that there appeared in some places, all of it the admirable genius of the author,
+
+I undertook to remove that heap of rubbish under which many excellent thoughts lay wholly buried.
+
+So Dryden believes he has refined Shakespeare's language and made it more intelligible.
+
+He's extracted some excellent thoughts from the scrap heap of Shakespeare's overblown artifice,
+
+his coarse and ungrammatical expressions, his deplorable affectations and obscurities.
+
+Now, needless to say, Dryden's judgement here has not stood the test of time.
+
+A sense of what constitutes correct taste and good manners.
+
+It's certainly a very narrow one.
+
+Or his assumption that nothing at all valuable is lost in the course of his pruning and placings is not very convincing.
+
+You may have come across a modern series of books called Shakespeare Made Easy.
+
+And the idea there is to translate or paraphrase Shakespeare's plays into simple modern English.
+
+So, for example, Hamlet's great lines. Thus conscience does make cowards of us all.
+
+And thus the native hue of resolution is sickly. Draw with the pale cast of thought becomes.
+
+That's why our intelligence makes us all cowards, and why our determination,
+
+normally so healthy looking, takes on a sickly power through thinking overmuch about precise details.
+
+It's a real surprise to find, upon counting, that this paraphrase is exactly the same length as the original, because Shakespeare's punchy,
+
+poetic rhythms have been replaced with cumbersome prose in which the much more uneven distribution of
+
+stressed syllables and the laboriously parenthetical syntax give an impression of painful explanation.
+
+Well, it's because of this, and also because of that, and in brackets this rather than confident declaration.
+
+Thus it does, and thus it is what is lost in the transition from conscience to intelligence,
+
+resolution to determination, thought to thinking native to normal.
+
+All these new terms have a slightly different force and a slightly different range of associations.
+
+And of course, it's not just a matter of examining the individual word changes.
+
+Cowards loses its accusing emphasis when it's no longer bitingly obliterated with conscience and the metaphor
+
+of resolution as having a complexion fearfully pallid or healthily ruddy is much more vivid and immediate.
+
+When we're presented with a metaphorical image, before we're told what it's an image of.
+
+As in Shakespeare, the native hue of resolution.
+
+To say that a face takes on a sickly pallor is a rather cool and detached observation,
+
+compared to the agitated, imaginative ness of saying that it's sick,
+
+or a phrase which seems to animate the sickness with a malicious agency and express all the fascination of disgust.
+
+We could go on and on here, even comparing such tiny details as how with has become through in the final line,
+
+and what that does to make it land different. The trouble with this paraphrase, then, is that it hasn't thought nearly enough about precise details.
+
+Looking at examples like this, we can begin to see why there's been a strong tradition of hostility towards paraphrase and literary criticism,
+
+not least on the part of poets themselves. Now this hostility often gets pinned on the 19th century.
+
+The philosopher Peter Kivi says it reeks of romanticism.
+
+And you might think, well, so what? But in fact,
+
+while the Romantics certainly have a big part to play in this story is a lazy historical generalisation to
+
+suppose that everyone was perfectly comfortable with the practice of paraphrase prior to the 19th century.
+
+In fact, an anxiety about paraphrase has existed across many different times and cultures.
+
+Take, for example, the fascinating debate in medieval Islam around the doctrine of the inadmissibility of the Quran.
+
+Ejaz ul Koran. The idea here being that the Koran cannot be successfully imitated, no one can match it for beauty and power.
+
+Which leads to the idea that the particular words and sentences of the Koran are not simply containers for precious thoughts,
+
+which would make the language of the Koran itself disposable. We've got the thoughts, so we no longer need the wrappings they came in,
+
+but rather that it matters very much how those thoughts are shaped and dramatised in its language.
+
+And this is an idea developed in a very sophisticated way by the 11th century Persian grammarian Al George.
+
+As Laura Harb explains, androgyny locates the source of beauty in speech in three elements the idea itself,
+
+the individual words chosen in the phrase that expresses it, and the way these words are strung together.
+
+All these elements come together to create a unique image or form of a given idea, something he calls Seurat al mana, the image or form of meaning.
+
+So I mentioned this as a way of troubling the assumption that worries about paraphrase, uh, are a uniquely modern phenomenon.
+
+Let's take another example. Here is the English Renaissance scholar Roger Asham.
+
+In 1570. It is a bold comparison indeed.
+
+To think to say better than that is best. Such turning of the best into worse is much like the turning of good wine out of a fair,
+
+sweet flagon of silver into a foul, musty bottle of leather, or to turn pure gold and silver into foul brass and copper.
+
+You'll notice the ashes moves from the idea that language is a more or less beautiful vessel for a particular content,
+
+to the idea that changing the language actually changes the substance of what's said.
+
+It changes gold and silver into brass and copper.
+
+It's a kind of reverse alchemy.
+
+And that brings us to the romantic poet Coleridge, who offers one of the most memorable articulations of unease about paraphrase.
+
+It would be scarce the more difficult, he says, to push a stone out from the pyramids with a bare hand,
+
+then to alter a word or the position of a word in Milton or Shakespeare in their most important works,
+
+at least without making the author say something else or something worse.
+
+And he does say. Now there are two interesting claims here.
+
+One is that altering the words or the position of the words can make a text say something else than it does say.
+
+The other is that this is a sign of literary excellence.
+
+It's only very rarely, Coleridge says, perhaps only in the most important works of Milton and Shakespeare, that this holds true.
+
+So let's take these claims and turn and put them to the test.
+
+The first claim is that apparently even even apparently insignificant words or apparently
+
+insignificant choices like the position of a word can contribute to what attack says.
+
+Now I want to detach that from Coolidge's second claim,
+
+because it's not difficult to show that this is a case in a very complex passage from Milton or Shakespeare,
+
+as we saw earlier with with hamlet Made Easy. I want to make things a bit harder for myself to test Coleridge's claim against a more difficult case.
+
+So let's take a really downright plain speaking poem.
+
+How about some a houseman? This is I to my perils.
+
+I to my perils of cheat and charmer. Came clad in armour by stars.
+
+Benign hope lies to mortals. And most believe her.
+
+But man's deceiver was never mine. The thoughts of others were light and fleeting.
+
+Of lovers meeting or luck or fame. Mine were of trouble and mine were steady.
+
+So I was ready when trouble came. The critic Christopher Ricks writes that everyone seems to take it for granted that
+
+husband's poems unwaveringly endorse the pessimistic beliefs which they assert.
+
+To me, his poems are remarkable for the ways in which rhythm and style temper or mitigate or criticise what,
+
+in bold paraphrase the poem would be saying.
+
+So I suppose the paraphrase here would be something like other people are easily taken in, but I've always expected the worst of folk.
+
+So I was well equipped for danger when it inevitably arrived.
+
+Rick's remarks. The poem says a glum, cramping thing, but how does it say it?
+
+Um, sorry, I don't have this on the screen. How does it say it? With gaiety and wit.
+
+The. Ah, if you like, utterly inappropriate.
+
+Instead of the steady tramp of military fortitude, there's the exquisite interlacing of a dance instead of granite rhymes.
+
+There is a subtle effrontery and insouciance that links charmer and armour,
+
+and in so doing opposes something to the simple sturdiness, the inaugurated hopelessness of armour.
+
+It says that the thoughts of others were light and fleeting, while mine were of trouble.
+
+But whatever the poem may say in its natural human wish to find armour for itself, to find steadiness, this cannot be the case.
+
+The movement itself is light and fleeting, and not just in the lines about others.
+
+Rick shows us here, as elsewhere in his work, how to be alert to the ways in which word choice,
+
+syntax, linear tone, imagery, rhythm, rhyme all richly contribute to how meaning is perceived.
+
+Shaping ebbs and flows of feeling, inflecting an utterance with a particular social or conceptual nuance,
+
+dramatising modulations of moods, conflicts of attitude, invisible assumptions, glinting hesitations.
+
+Coleridge made this explicit with reference to word choice I include in the meaning of a word, he explains, not only its corresponding object,
+
+but likewise all the associations which it recalls for language is framed to convey, not the object alone,
+
+but likewise the character, mood, and intentions of the person who is representing it.
+
+So language both particularised as things like character, mood and intention.
+
+And through the associations it recalls, embeds these in a rich and volatile medium, shared across persons and across time.
+
+George Eliot makes a very similar point very elegantly in an essay from the 1850s.
+
+Suppose she writes that the effort which has been again and again made to construct a universal language on a rational basis,
+
+has at length succeeded, and that you have a language which has no uncertainty, no winds of idiom, no compass forms,
+
+no fitful shimmer of many huge significance, no hoary arc isms familiar with forgotten years,
+
+a patent deodorise and non resonant language which affects the purpose of communication as perfectly and rapidly as algebraic signs.
+
+Your language may be a perfect medium of expression to science, but will never express life, which is a great deal more than science.
+
+It's not impossible to imagine such language says. It's just that its uses might be rather limited.
+
+And we'll need to keep going back to this question of use.
+
+But first, let's deal with Coleridge's other point that resistance, to paraphrase, is a mark of literary quality.
+
+As we saw for Coleridge, it's a mark of very high quality indeed.
+
+It is barely possible, he said, to attain the ultimatum, which I have ventured to propose as the infallible test of a blameless style,
+
+namely its untranslatable ness in words of the same language without injury to the meaning.
+
+Let me get to the 20th century.
+
+It's more common to claim the untranslatable Merce, or resistance, to paraphrase, is the hallmark of literary ness or poetry as such.
+
+So not just the greatest poetry, but any poetry worthy to name.
+
+Here's the Russian poet mandelstam in 1933, where one finds commends your ability with paraphrase.
+
+There the sheets have not been rumpled. Their poetry has not, so to speak.
+
+Spent the night. Similarly, in a very influential essay of 1947 titled The Heresy of Paraphrase, the American critic Clarence Brookes,
+
+one of the so-called New Critics who shaped the teaching of English literature in the mid-20th century,
+
+insisted on the resistance which any good poem sets up against all attempts.
+
+To paraphrase it. I think we can see what they're getting out here.
+
+We've all read poems. Maybe we've even written poems that feel flabby or banal or clumsily expressed poems,
+
+some of whose elements maybe seem incongruous or redundant in some way.
+
+Perhaps they're so desperate to get a message across that they repeat themselves in a lumbering or overbearing manner.
+
+Or maybe they're so desperate to be artistic that the patterns they make seem simply empty or mechanical.
+
+Maybe the poets just shoving, in a word, here to fill up the metre, a word there to match a rhyme, or if it's free verse,
+
+maybe the line ending seemed random and inane,
+
+as though there's no discernible reason for chopping up the lines except to say, look at me, I'm a poem.
+
+But even in these cases, I want to suggest the very sloppiness is part of the way we experience the poem.
+
+And I say poem, but this applies to any kind of literature.
+
+So I want to challenge the second half of code, which is arguments, by running a little experiment.
+
+I've gone in search of a really awful poem, and I want to see to what extent a bad poem might resist paraphrase as much as a good one.
+
+So here's my victim. This is the first stanza of the Victorian writer John Closest poem.
+
+And have we lost another friend? As you can see, it's introduced as composed in respectful memory of Mrs. Yaka.
+
+And there's an epigraph from the Bible. There is one glory of the sun and another glory of the moon, and another glory of the stars.
+
+For one star different from another star in glory. So acute up here for something very profound, very moving.
+
+This is an elegy with high metaphysical ambitions.
+
+Mystical ambitions, perhaps. And what we get is this.
+
+And have we lost another friend? How sad. The news to tell.
+
+Alas, poor Mrs. York has gone. Hark to the tolling bell!
+
+Alas! How many now? Drop off? What numbers are unwell?
+
+Another mortal born away. Hark to the tolling bell.
+
+Now, I think this is quite fabulously bad, but I don't think it's bad because we can paraphrase it.
+
+Its clanging crassness, its achieve tactless ness is very much accomplished by the way in which it's said.
+
+We feel it in the disjunction between, on the one hand, the official earnestness of the dedication and the solemnity and cosmic scope of the epigraph.
+
+And on the other hand, the jaunty ness of the metre,
+
+the pathetic swings of tone from the casual flippancy of drop off to the pompous poetical ness of another mortal born away,
+
+or the way that poor Mrs. York is swiftly left behind for the emotional detachment and statistical abstract ness of what numbers are well.
+
+There's the embarrassing theatricality and artificial feeling of all those straining exclamation marks, alas, which give it almost a camp air.
+
+If you know Susan Sontag's definition of camp as failed seriousness,
+
+so that we feel almost a kind of tenderness for the way it tries so excruciatingly hard to live up
+
+to the moment while betraying a chilly nonchalance underneath these elaborate mourning clothes.
+
+Then there's the clunky gesture of chiming Hark to the tolling bell, Hark to the tolling bell.
+
+And even the way it begins. And have we lost another friend?
+
+Makes this speaker sound more peeved than dismayed. To lose one friend may be a misfortune, but to lose such numbers off them looks like carelessness.
+
+In other words, the particular faults of this poem would not be captured by simple paraphrase.
+
+We can only detect its faults by paying attention to the kinds of features that paraphrase tends to screen out.
+
+In Coleridge's terms, the poem is untranslatable without injury to the meaning, although that doesn't seem to guarantee its success.
+
+Now, one could, of course, make the argument that this is a highly ironic or satirical poem.
+
+Maybe John Carlos couldn't stand the sight of Mrs. Parker the metre after all.
+
+So it was a somewhat inquiring emphasis on friend in that first line.
+
+And have we lost another friend? As if to say, well, was she a friend?
+
+But this again would mean that its success depends on something quite different from whether it can be paraphrased.
+
+And in fact, one finds Victorian reviewers applying Coleridge's criterion all the time, not as evidence of poetic success, but proof of failure.
+
+A review of one particularly gruesome effort, Witheringly observed that no language can do justice to the Prince of Panama by Captain Adderly Slay.
+
+But its own it speaks all too damningly for itself.
+
+There's nothing else to be said.
+
+So this suggests that our ability to paraphrase a poem is not an indication of its quality, however tempting that thought might be.
+
+It's perhaps more helpful to think of our ability to paraphrase a poem, a function of the kind of attention we choose to give it.
+
+As the philosopher Peter Lamarque puts it, specifications of what a poem is about.
+
+Common degrees of fine grained ness according to the interest served in making the specification.
+
+Just say that again. Specifications of what a poem is about.
+
+Common degrees of fine greenness according to the interest served in making the specification.
+
+So if you wanted to know which side won the football match last night,
+
+you're probably not deeply concerned whether the headline reads Garner, slaughter Blues or Maresca squad outclassed by Arsenal.
+
+Although a literary critic could furnish you with a stunningly sensitive and perceptive account of the difference between these two statements.
+
+But the critics good services wouldn't really be called for if all you wanted to know was who won the match?
+
+With the poem. By contrast, I mean a gloss or summary would be a rotten substitute for the poet's careful arrangement of particular words,
+
+because it's the very experience of those words that's meant to be relished and savoured and pondered and lived with.
+
+So the question is always what do we want from paraphrase? What are we using it to do and what do we want from poetry?
+
+And how much of what we want from poetry is served by the technique of paraphrase?
+
+Modernist poetry is particularly instructive in this regard,
+
+because it's constantly reminding us that poems are playing a different game with language than a newspaper report or contract,
+
+or an act of Parliament. How, for instance, we won't go about paraphrasing this poem by EE Cummings when by now and tree by leaf,
+
+she laughed his joy, she cried, his grief followed by snow and stir by still anyone's.
+
+And it was all to her.
+
+In a poem like this, meaning it clearly isn't some kernel that can be extracted from the shell of the poem and rearranged in a paraphrase,
+
+but neither is meaning absent. We might want to say that meaning in this poem is constantly emergent and in flux.
+
+Words are pushed out of their ordinary habits and committers in wild and unexpected ways.
+
+With a poem like this, we might need to ask not what is this poem about?
+
+But how is this poem discovering?
+
+In other words, as Angela Leighton inquires, how does the poem reorganise the very ways in which we might discover it?
+
+Adam Phillips suggests that there is or there can be a difference between reading something intelligible and reading
+
+something that has a powerful effect between words as as procurers of experiences and words as consolidators of knowledge.
+
+Poems like Cummings warn us off the idea that poetry is just a fancy way of saying plain things,
+
+as the rhymes, rhythms and metaphors were just ways of sprucing up plain and simple thoughts.
+
+And if we value the experience of poetry, that's something we might take to heart in encountering any poem,
+
+not just the highly experimental like Cummings. The great 20th century philosopher Ludwig Wittgenstein advises as never to forget that a poem,
+
+even though it is composed in the language of information, is not used in the language game of giving information.
+
+That's not the point. Or, as the critic William Empson puts it, you can get nothing from literature without in some degree, enjoying it.
+
+It is no use treating it as a mere mass of information, because then you don't get the essential information.
+
+Every reader has to remake it in his own feelings.
+
+No one else, including any I chatterbot can feel it for you.
+
+So where does all this leave? Paraphrase. Well, it clarifies what it can and can't do for poetry.
+
+As Peter Covey writes, it's a criterion of success is reproduction of the poem's total effect on the reader.
+
+It is nonsensical because it demands of paraphrase, something that never was the object of the exercise in the first place.
+
+Paraphrase isn't designed to replace the poem or to measure up to it in every possible dimension.
+
+Nevertheless, the modest claim that we can say in plain words,
+
+more or less what the content of a poem is, seems an unobjectionable one in many, if not all cases.
+
+Brooks, himself the great antagonist of paraphrase, acknowledges this.
+
+The point is, surely not, he writes, that we cannot describe adequately enough for many purposes what the poem in general is about.
+
+The rape of the Loch is about the foibles of an 18th century bell.
+
+Now, this might not be a particularly subtle description of Alexander Pope's poem.
+
+There's plenty about the poem it doesn't capture. We might quibble even with what it does say.
+
+And we certainly wouldn't trade in Pope's poem for this threadbare little statement about it, but it's a reasonable description.
+
+Which can't necessarily be said for this lovely little summary of The Wizard of Oz that appeared in a newspaper some years ago.
+
+Transported to a surreal landscape. A young girl kills the first person she meets and then teams up with three strangers to kill again.
+
+You might be just a bit disappointed with the film if that's what you go in expecting.
+
+So the very fact or paraphrases can be more or less reasonable, more or less informative suggests that paraphrase itself is not a chimaera.
+
+It's possible to paraphrase well or to paraphrase badly.
+
+In this case, deliberately bad day for comic effect.
+
+But to go back to Brooks, he says, we can very properly use paraphrases as pointers and as shorthand references,
+
+provided that we know what we are doing right. But it is highly important that we know what we are doing.
+
+Absolutely. And that we see plainly that the paraphrase is not the real core of meaning, which constitutes the essence of the poem.
+
+Notice at the end here I think that Brooks leads us astray. And so, in my view,
+
+it's unfortunate that his essay has become so prominent in the discussion of
+
+paraphrase because it makes proper caution about paraphrase too easy to dismiss.
+
+Take his expressions, the real core of meaning and the essence of the poem.
+
+Elsewhere. In the same essay, he talks about the internal and essential structure which prompts the question
+
+is this thing a formal structure or a metaphysical essence or a meaning?
+
+And what's a core of meaning? It sounds like it's buried somewhere mysterious.
+
+Brooks can't actually point to any of these things.
+
+They don't pick out anything about the poem, so he gives the impression that he's concerned with something peculiarly occult.
+
+Even more unfortunately, this talk of something inner or core reproduces the very same conceptual blunder that he accuses the naive
+
+paraphrases with making this idea that the poem's words are just a wrapper for the goodies they enclose.
+
+The great Shakespearean critic A.C. Bradley showed how he might avoid that kind of binary thinking by
+
+suggesting that we think of the poem as a unity in which you can no more separate a substance and a form,
+
+than you can separate living blood and the life in the blood.
+
+This unity has, if you like, various aspects or sides, but they are not factors or parts.
+
+If you try to examine the one, the substance of the form, you find it is also the other.
+
+So form and substance or form and content, as we tend to say nowadays or for Bradley, things we can distinguish for the purposes of analysis.
+
+But when we do so, we need to think of them as different aspects of the poem, rather than two separate elements that are somehow welded together.
+
+It's a subtle distinction, but an important one. He's suggesting that when we think about content, about what's the poem that the text is about,
+
+we should be thinking about the exact way in which it's shaped in this particular text.
+
+And when we're thinking about form, we ought to think about what precisely is achieved by the text,
+
+formal features as they interact with each other and as they unfold in our reading of the text.
+
+What the poet George often calls the order of disclosure upon which the poem depends.
+
+A poem isn't a static object. It's something that unfolds in time, and the order of unfolding affects the meaning.
+
+Now, there's no hesitation in Bradley about whether the unity of form and content is a property of the poem, or even.
+
+And here's the ghost of Coleridge, a property of great poetry.
+
+Or whether, as I suggested, we might think of this unity as a kind of heuristic, that is,
+
+as a condition that we impute to the poem an assumption that we apply in order to enjoy it as poetry.
+
+This is to make a claim about value rather than a claim about language.
+
+I'm proudly staked his claim firmly in this ground when he declares that poetry is an end in itself is worth having on its own account.
+
+It has an intrinsic value. Now, this is not to say, of course, that it doesn't have any other kind of value.
+
+Literature can have all sorts of kinds of value moral, historical, conceptual, political, philosophical,
+
+but broadly wants to say that the value of poetry is not exhausted by its payoffs in these terms,
+
+saying that a poem has intrinsic value in this way needn't mean turning it into an object of worship, before which we kneel in reverential silence.
+
+On the contrary, it means coming to recognise the strange feeling that poems live, in John Wilkinson's words,
+
+that they are entities sponsoring life in their readers emotional, cognitive and creative.
+
+It is in fact, the recognition that the text has so much more to say to us than our narrow instrumental agendas often allowed.
+
+As Michelle Chorley's writes in a challenging essay. When disciplines marshal their tools to interrogate a work of art.
+
+We are right to wonder whether this commotion indeed serves a better, deeper, or more nuanced understanding of that work,
+
+as is repeatedly claimed, or whether what we call an approach is not, in fact, a manner of avoidance.
+
+What makes anyone approach useful is also precisely what marks its limitations.
+
+That is, it overall organises our attention, and the risk is that we start seeing literature as a quarry to be mined.
+
+For a wish list of things we've drawn up in advance, rather than allowing it to inspire and to change the questions we ask of it.
+
+Paraphrase can pander to our least imaginative, critical impulses,
+
+offering a way to make the text fit some preordained argument or theory and robbing it of all its rebellious strangeness.
+
+But here's the twist because it paraphrase caters to our laziest instincts as critics.
+
+I want to argue it can also make us better readers, and not just better readers of literature for its own sake,
+
+in Bradley's terms, but better readers of literary contributions to moral, political, and historical inquiry.
+
+Because the quality and distinctiveness of criticism, its contribution to those inquiries,
+
+depends upon the extent to which it remains answerable to fine grained,
+
+evocative, unambiguous games of meaning that distinguished literature as a cultural practice of writing and reading.
+
+As Terry Eagleton writes a neoclassical poem which exploits the order, symmetry and equipoise of the heroic couplet,
+
+a naturalistic drama which is forced to gesture offstage to realities it cannot credibly bring into view
+
+a novel which gobbles its time sequence or shifts dizzyingly from one character's viewpoint to another.
+
+All these are instances of artistic form as itself the bearer of moral or ideological meaning.
+
+And this is true also at a more fine grained level than Eagleton imagines.
+
+Here, a turn of phrase the structure of a sentence, a fractured dialogue, a flash of irony,
+
+a tone, or an atmosphere can all be the bearers of moral or ideological meaning.
+
+Paraphrase was one of the favourite critical tools of the critic William Empson,
+
+best known for his virtuoso close readings that characterise his first book, Seven Types of Ambiguity, published in 1930.
+
+Rather than using paraphrase to simplify or condense the sense of a text,
+
+he uses it to tease out ambiguities to try out different interpretations of a passage,
+
+not through third person commentary that we used to,
+
+but by adopting the first person perspective of the poem's speaker or the poem's implied author, who might be slightly different, of course.
+
+So here's an example from Seven Types of Ambiguity. Empson takes a seemingly very simple set of anonymous lines from the Oxford Book of English Verse.
+
+Cupid is winged and doth range our country. So my love doth change.
+
+But change ye earth, or change ye sky. Yet I will love her till I die.
+
+Cupid is winged and doth range her country. So my love doth change.
+
+But change the earth or change his sky. Yet I will love her till I die.
+
+And then he offers the following catalogue of paraphrases. I will love her though.
+
+She moves from this part of the earth to one out of my reach. I will love her though.
+
+She goes to live under different skies. I will love her though she moves from this earth and sky to another planet.
+
+I will love her though. She moves into a social or intellectual sphere where I cannot follow.
+
+I will love her though. She alters the earth and sky. I have got no though she destroys the bubble of worship in which I am now living.
+
+By showing herself unworthy to be its object. I will love her, though, being yet worthy of it.
+
+By going away, she changes my earth into desire and unrest, and my heaven into despair.
+
+I will love her even if she has both power and will, to upset both the orderly ideals of men in general,
+
+heaven and society as a system of society in general earth.
+
+She may alter the earth and sky she has now by abandoning her faith or in just punishment, becoming outcast and still will.
+
+I love her. She may change my earth by killing me.
+
+But till it comes I will go on loving. Your paraphrase opens a widening vista of possibilities for us to measure against our experience of the text.
+
+It acts like one of Brooks's handy pointers, but goes beyond it.
+
+By awakening us to the wide range of ways, we might take these deceptively straightforward words.
+
+It doesn't betray the poem's complexity. It opens it up.
+
+We don't move from the thickly embedded crosscurrents of a personal utterance towards a dedicated account of thought content.
+
+Rather, as Helen Saving Siren writes in Empson.
+
+Abstract thought tends to be given the form of a conversational remark structured around personal pronouns that imply speakers.
+
+Colloquial paraphrase offers a way in which to explain poems without falling into the
+
+discursive traps of explanation and without forfeiting the possibilities for nuance tone,
+
+including stridency, its often stridency and Empson and swift social judgement that are inherent in the voice.
+
+This use of paraphrase helps us to hear aspects of the poem anew.
+
+It invites us with a canny or ironic twinkle, to measure the distance of its articulation from that of the poem,
+
+as much as to admire its scrupulous fidelity to it, but it has further uses.
+
+Take this example from Ibsen's later book Some Versions of Pastoral.
+
+Amazon quotes a couple of lines from Andrew Marvell famous poem The Garden.
+
+The speaker is talking about having retired from the busy life of the town to a country garden.
+
+Meanwhile, the mind from pleasure less withdraws into its happiness.
+
+Meanwhile, the mind from pleasure less withdraws into its happiness.
+
+He then gets two ways of taking these rather complicated lines.
+
+From pleasure less either from the lessening of pleasure.
+
+We are quiet in the country that are dullness,
+
+gives us sober and self knowing happiness more intellectual than that of the overstimulated pleasures of the town.
+
+Or made less by this pleasure. The pleasures of the country give a repose and intellectual release.
+
+Which make me less intellectual, make my mind less worrying and introspective.
+
+So, in other words, he's saying we can read the term less as modifying either pleasure or the mind.
+
+And rather than asking us to choose between these alternatives.
+
+Empson observes that the ambiguity gives two meanings to pleasure,
+
+corresponding to Marvel's Puritan ambivalence about it and to the opposition between pleasure and happiness.
+
+The ambiguity which these paraphrases exfoliate reveals something about the wider conflict of attitudes and ideologies which this poem expresses well,
+
+needn't dig behind or between the words to get to those conflicts they're hiding in plain sight.
+
+Once we have the eyes to see them, or rather, the ears to hear them, a good paraphrase can give us such ears.
+
+John Keats complains in one of his letters that speaking has the advantage of writing because one cannot write a wink or not,
+
+or a grin or pass of the lips or smile. Lord.
+
+One cannot put one's fingers to one's nose or jerky in the ribs, or lay hold your button in writing.
+
+But in all the most lively and titillate parts of my letter, you must not fail to imagine me as the epic poet.
+
+Say, now, here, now there now is one foot pointed at the ceiling, now with another.
+
+Now with my pen on my ear. With my elbow in my mouth. Oh my friends, you lose.
+
+The action and attitude is everything. And yet does not the word mum go for one's finger beside the nose?
+
+I hope it does. Keats's thought runs on itself here at the end,
+
+implicitly recognising the irony that all the while he is complaining about the inadequacy of print to convey an attitude and attitude,
+
+remember means, first of all, a physical posture or stance, and by extension a mental or emotional disposition.
+
+Keats is evoking light lightly, artfully, compellingly, with the resources of language alone, an intensely present and characterful sense of attitude.
+
+And yet Keats is also right that the relations between written language and the particular tones and colours of a voice are often ambiguous.
+
+In Middlemarch, which many of you will be reading this term.
+
+The narrator observes how a few simple words can carry a wealth of different meanings, depending on the particular way in which they are voiced.
+
+Lydgate has finally explained to Rosamond, his wife, all about his mounting debts, for which she is largely responsible.
+
+What can I do? Tertius, said Rosamond, turning her eyes on him again.
+
+That little speech of four words. Like so many others in all languages, is capable by varied vocal inflections of expressing all states of mind,
+
+from helpless dimness to exhaustive argumentative perception, from the completist self devoting fellowship to the most neutral aloofness.
+
+Rosamond then utterance threw into the words, what can I do?
+
+As much neutrality as they could hold, they fell like a mortal chill on Lydgate Rose.
+
+Tenderness. While noting the potential scope of Rothmans words,
+
+Elliott's narrator tells us which particular attitude we are to breathe into them, and you can judge whether I did it justice or not.
+
+We can hear Rosamund directly like a character on the stage, so we have to be told how she said,
+
+sorry, we can't hear someone direct like a character on the stage. So we have to be told how she said something.
+
+And the value in that here might be that we're encouraged to weigh this particular voicing against the other attitudes those same words might hold.
+
+It makes us feel they're chilling us all the stronger in company with Lydgate.
+
+But this also hints, I think, that the advantages that the silent, disembodied page might have over a particular performance,
+
+especially where we have to do the work of analysing the possible varied vocal inflections ourselves.
+
+This is the animating idea of Eric Griffith's great book, The Printed Voice of Victorian Poetry,
+
+in which he argues the poetry of the period deliberately creates dilemmas of voicing.
+
+These dilemmas keep us alive to the fact that because we don't know exactly how the speaker sounds, we can't know exactly how he feels.
+
+Writing, as opposed to speech, allows for a searching multiplicity of attitude.
+
+The Griffiths often explores through paraphrase. So I want to finish with an example from Griffiths.
+
+Here is the last line of Tennyson's poem vastness, which is, Griffith says,
+
+runs for 35 lines of torrential lament over the pointless cruelties of human life before coming to rest with the words peace,
+
+let it be, for I loved and loved him forever. The dead are not dead, but alive.
+
+Griffiths observes, Let It Be could be an amen to the pointless squandering of creation which the poem details.
+
+It may resigned to the will of God, because at least that Will has not only permitted the love of Tennyson for his friend Hollis Callum,
+
+but assured the eternity such love asks, or let it be, might decide to leave the whole mess of the world alone.
+
+Turn from it with a sorrow barely distinguishable from disgust,
+
+and concentrate instead of the world on an exceptional case of decency so exceptional that it cannot be thought
+
+to be part of any scheme which would reorient all disasters by placing them in the light of a divine plan.
+
+So the last hemi stitch that is the final close there. The dead are not dead, but alive.
+
+Also achieves a sublime numbness of tone in print.
+
+And here's what Griffiths deploys his paraphrases.
+
+So partly, he says, this numbness of tone is due to the logical ambiguity of the colon, which introduces it.
+
+So the colon could stand for it because it is because he is an immortal soul,
+
+that he can be loved as I love him, or perhaps as the effect of a therefore.
+
+It is in the perpetuity of love that the dead find their life.
+
+In the former case, the feeling arises from a conviction.
+
+In the latter, the conviction is produced by the feeling.
+
+The numbness mainly comes from the absence of any indication of attitude in the line, such as might be supplied by how frightening or what joy.
+
+So the line leaves us unsure how to take it. And that, Griffith says, is the whole point.
+
+He concludes. Imagining such an indicator of attitude is absurd,
+
+but we need to make such an act of imagination to see why somebody who confidently
+
+opted for one of the possible indicators here would have missed the point of the poem.
+
+This is not because it does not matter which indicator is supplied,
+
+but because it is the absence of an indicator which needs to be precisely imagined.
+
+So we can't say whether the poem achieves, uh, complete serenity or whether the poet gets it last, a surprise that may not be entirely pleasant.
+
+We can speak the line so that it will make up Tennyson's mind and voice for him.
+
+Indeed, says Griffiths, it is impossible to say it without either some tonal indication or an evident and deliberate avoidance of such indication,
+
+whereas the written line neither drops hints nor maintains a poker face.
+
+And all this configuration of feeling is Tennyson's.
+
+All these feelings are packed into the line.
+
+So I think this is a nice way of taking stock of the hazards and opportunities of paraphrase as a tool of critical practice.
+
+We can use it to cut poetry down to a serviceable size, narrowing our experience of what it has to offer.
+
+Or we can use it to open up that experience with words that seem to reach into and transform our very perceptions.
+
+As James Longtum Barker, uh, suggests,
+
+one reason we might turn to literature rather than history or philosophy or science is because we want to experience the sensation,
+
+the sound of words leaping just beyond our capacity to know them.
+
+Certainly. This is what makes criticism the very process of writing a place of opportunity, experiment, discovery.
+
+And so, in that spirit,
+
+I want to leave you with some words from the critic Michele Scholey that I hope will inspire your own critical adventures here at Oxford.
+
+Criticism, he writes, is not a record of an experience that lies in the past and whose features await documentation.
+
+It is rather the arena for developing the experience.
+
+Thanks for listening.
+

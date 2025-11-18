@@ -1,0 +1,15 @@
+
+
+
+.Ds_Store
+
+
+
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/.trash
+
+node_modules
+.vscode

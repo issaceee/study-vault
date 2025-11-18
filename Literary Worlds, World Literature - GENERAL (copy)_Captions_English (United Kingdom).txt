@@ -1,0 +1,891 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Um, goodness, this is quite loud. It will take a bit of getting used to.
+
+And thank you very much for coming, um, at 9:00 on Tuesday of week two.
+
+Um, so my name is is Joshi Gupta. Um, if you don't know me already, I'm based at Pembroke.
+
+Um, please feel free to drop me an email if you have any questions about the things that I talk about in this lecture.
+
+So as I say in this lecture, I'm actually going to be just talking about a single novel published in 1864.
+
+It's called Raj Man's Wife by Kim Chandra Chattopadhyay.
+
+Um, some of you might have heard me mention it, uh, in the taster lecture for Prelims Paper three last week.
+
+We think it is the first Indian novel written in the English language.
+
+Um, I hope that by looking at it patiently, we might not only figure out how it's working,
+
+but also to see how it opens up a huge range of questions about language, about 19th century imperialism, about the form of the novel itself.
+
+So kind of by staying small, I hope that we can actually, um, think about some quite, quite kind of big questions.
+
+Hopefully it gives you a model, um, for any kinds of work you're doing with 19th century fiction.
+
+So before introducing you to Raj Man's wife, I'm going to zoom out and cover some of the basics of Indian history in the 18th and 19th centuries.
+
+Um, just so that we can situate him in a number of different contexts.
+
+So in other words, before we move on, we have to go quite a long way back.
+
+So this is a painting by William Daniel,
+
+which sparked my curiosity as soon as I saw it hanging in the Victoria memorial in Kolkata, um, a few years ago.
+
+Uh, forgive the quality of the photo, which is taken on my on my phone.
+
+Um, it was completed in 1802.
+
+So during the romantic period, 60 years before the publication of Raj Man's Wife, and it was exhibited at the Royal Academy in London.
+
+In the same year, William Daniel travelled to India with his uncle,
+
+the architectural engraver Thomas Daniel, and together they set about capturing what they thought they saw.
+
+So I found this painting strange, um, when I encountered it, and I wanted to interrogate my own immediate, kind of almost visceral response.
+
+What was curious, even kind of off about it.
+
+And so now look at these paintings and things might start to become clear.
+
+It turns out that I was experiencing déja vu. So this is Turner's Fishermen at Sea, 1796.
+
+And Joseph Turner's Mediterranean Night, 1753.
+
+The Daniels were using a set European aesthetic frameworks and categories to filter
+
+non-European space landscapes and territories in the process of being colonised.
+
+Um, through William Daniels filter this coastline.
+
+Sorry. Let me go back to the the first slide. Um, this coastline in Tamil Nadu is picturesque or sublime.
+
+Um, Edmund Burke tells us that, um, whatever is fitted in any sort to excite the ideas of pain and danger, that is to say,
+
+whatever is in any sort terrible, or is conversant about terrible objects or operates in a manner analogous to terror, um, is a source of the sublime.
+
+That is, it is productive of the strongest emotion which the mind is capable of feeling, the passion caused by the great and the sublime in nature.
+
+When those causes operate most powerfully is astonishment,
+
+and astonishment is that state of the soul in which all its motions are suspended with some degree of horror.
+
+And I should have said at the start, the handout for this lecture is on canvas.
+
+It just has the quotes on it. Um, so feel free to have that up alongside you or to download it after.
+
+Um, so anyway, that's Edmund Burke on the sublime,
+
+the visual vocabularies of 18th century Europe of the Royal Academy of Framing Tamilnadu, rendering it comprehensible to the British I.
+
+The critic Hermione de Almeida tells us a little bit more about Thomas and William Daniel.
+
+Because of the military successes of Cornwallis and the greater security provided by the new presence of large number of numbers of British troops.
+
+Daniel and his nephew would be the first of the artist travellers to India to be able to journey through all three company presidencies Calcutta,
+
+Madras and Bombay. Um, any history of modern British imperialism has to start with the presidency and the East India Company,
+
+which was set up to trade with the, um, uh, to trade around the Indian Ocean in the 1600s.
+
+Establishing links with the Mughal Empire, in particular, um, places like um, as was then Calcutta.
+
+Uh, now Calcutta grew as they were increasingly significant ports.
+
+The company's aims slowly moved from trade and imperial from trade itself to imperial conquest,
+
+in part because it was competing with the Portuguese, the Dutch and the French.
+
+It became stealthily but surely militarised in the second half of the 1700s,
+
+and the Daniels de Almeida tells us, could wander around three presidencies with all of their stuff.
+
+Um, you can imagine the kind of kit required to be an artist in that period.
+
+Um, so they could travel around, um, undisturbed by rival powers.
+
+Presidencies where? Areas of British administrative control.
+
+Um, for our purposes today, it's, um, especially important to think about the Bengal Presidency.
+
+The Battle of Plassey in 1757. And the role of General George Cornwallis, General Charles Cornwallis.
+
+In 1757, the East India Company's forces defeated the Nawab of Bengal at Balochi.
+
+So Plassey, who was working with the French. This victory meant that the British were able to claim or annexe Bengal.
+
+And most historians see this as a major turning point, um, the point from which British rule started to become secure.
+
+General Cornwallis was the governor of the Bengal Presidency from the 1780s, and was instrumental in extending and sustaining this control.
+
+If you want to think about a literary description of these battles, um, try Wilkie Collins's The Moonstone.
+
+Um, you might have that assigned for you a paper three um, uh, tutorial work that begins,
+
+uh, with the 1799 siege of Saranga partum in the Kingdom of Mysore.
+
+Um, I would say that the moonstone actually is probably the most sophisticated canonical Victorian novel about empire.
+
+Um, so if you're interested in this longer history, do start there. So remember that all of this is happening before the start of our period.
+
+That we're covering for paper three the 19th century. So fast forward now to 1857.
+
+By this point, Calcutta, the capital of the Bengal Presidency, was the cosmopolitan centre of British India.
+
+Elsewhere, though, discontent was stirring, and in 1857,
+
+Indian soldiers working under and for the East India Company began a violent rebellion which quickly spread to other territories.
+
+And the British at home were kind of spectacularly horrified by the violence.
+
+So a violence, which of course, went very much in both directions.
+
+The East India Company ultimately regained control, but this was a key moment because the Crown decided to take over.
+
+So off to the rebellions. The East India Company was no longer a proxy for the Crown.
+
+Company rule ended. The British Raj was born with Queen Victoria nominally at the helm.
+
+So power shifts from this kind of company, a private sort of entity, to to the Crown itself.
+
+So I'm just going to anchor this whistlestop broad historical narrative and a very particular individual experience, um, that of.
+
+Uh, Dickens son, um, Walter Savage Landau, who I mentioned in my taster lecture last week.
+
+Angela Burdette Coots, the wealthy philanthropist and friend of Dickens,
+
+set Walter up with the East India Companies army and he was soon getting ready to travel to Calcutta.
+
+So these letters from Dickens tell us what happened.
+
+Between the outfitter and the Hindustani and the India House and the passage preparations I thought I described,
+
+I described that he was getting dazed. I left the poor fellow on board the Indus yesterday.
+
+Um, so that's a ship? Uh, in good spirits.
+
+As little cost down as at 16. One could reasonably hope to be with the world of India before one.
+
+Then, with the Indian rebellion underway. I'm sorry that at this time I know no one in Calcutta.
+
+My second boy was there the other day. Or is there now?
+
+But whether he will be sent in these distracted Indian times, it is impossible to calculate.
+
+Our Indian boy was a dum dum, um, which means a school of musketry some six miles from Calcutta when last heard of.
+
+He likes the country and and the life of all things, and is quite happy.
+
+My second boy is attached to the 42nd Highlanders and in the thick of the Indian tussle.
+
+So Walter Dickens stayed on in India after the East India Company dissolved and he simply started working for the British Army.
+
+But then he started racking up debts. He was ready, um, to come back to England when he died very suddenly in Calcutta.
+
+On the last day of the old year.
+
+At a 5:15 in the afternoon, he was talking to the other patients about his arrangements for coming home when he became excited,
+
+coughed violently, had a great gush of blood from the mouth and fell dead.
+
+All this in a few seconds. My poor boy died in a very few moments, and with his mind full of coming home.
+
+Walter Dickens died in the very same year that Raj Mohan's wife was published.
+
+Born Kim Chandra Chopra Batai, was born in 1838, in a village near Calcutta.
+
+His family was from the highest Brahmin cost.
+
+He was one of the first people to graduate from the University of Calcutta, and he went into the civil service.
+
+So in other words, he was steeped in colonial culture.
+
+The project to educate the colonial subject. This complex period of cultural and intellectual flowering in 19th and 20th century Bengal.
+
+Um is known in some quarters as the Bengali Renaissance, but that's a complicated term.
+
+So bunking was working as a deputy magistrate in East Bengal when he wrote Raj Man's Wife.
+
+As I mentioned, it was his first novel, um, and the only novel that he ever wrote in English.
+
+He went on to become one of India's pre-eminent novelists in Bangla.
+
+Um, and in fact, his very first masterpiece in Bangla.
+
+He came hot on the heels of Raj Mohan's wife.
+
+Just within a few months. Rich man's wife, then, is a complete anomaly, but I'm keen to suggest that it isn't just a curiosity,
+
+that it can be analysed and that it can tell us something important.
+
+So here is a bit more about the history of the text. It was serialised in 1864, in The Indian Fields, an English weekly magazine.
+
+It had an absolutely tiny circulation and we don't know who read it.
+
+It's very unlikely that the novel made much of an impact at the time.
+
+If you read the novel,
+
+you can see that it starts in quite a leisurely way and then speeds up and becomes more and more and more dramatic before ending extremely abruptly.
+
+Um, that's because Kim probably lost interest and needed to wrap things up.
+
+You know, when you're serialising something, you have to kind of kind of do something about it, don't you?
+
+Um, you know, it's sort of out there in the public space.
+
+Um, I would highly recommend, if you're looking to read this novel yourselves, I'd highly, highly recommend an edition.
+
+Um, uh, by Meenakshi Mukherjee. That's the penguin edition.
+
+Um, which is, I believe, in the Bodleian. But Kim never wrote fiction in English again.
+
+That decision, a writer's choice of language or refusal to write in a language, is incredibly charged in this kind of environment.
+
+That being said, we should remember that a novel written out of a colonial context isn't just going to be about that context.
+
+We can't force it to carry all of that political weight.
+
+Um, I'm going to take you through the plots, hopefully fairly swiftly.
+
+Just so that you can get a sense of the novel shape and concerns.
+
+I would recommend just reading. It is really short. Um, Rich Man's Wife is just over 100 pages long.
+
+It's a curtailed novel. I would read you the first page or so, just to give you a flavour for the style.
+
+Um, and will then try to summarise with the caveat that it is quite complicated, and I'll explain sort of why it feels so stuffed with plot.
+
+It crams a lot into those 100 pages, and that frenetic Plotinus is part of its aesthetic effect.
+
+So that's how the novel is meant to work. So here we are.
+
+There is a small village on the river Modum on account of its being the residence of wealthy Zamindar.
+
+It is regarded as a village of importance. One afternoon the summer heat was gradually abating with the weakening of the once keen rays of the sun.
+
+A gentle breeze was blowing.
+
+It began to dry the perspiring brow of the peasant in the field, and play with the moist loks of village women just risen from their siesta.
+
+It was after such a siesta that a woman of about 30 was engaged in her toilette and a humble thatched cottage.
+
+She took very little time to finish the process, usually so elaborate with women kind.
+
+A dish of water. A tin framed looking glass three inches wide and a comb matching it, and a comb matching it sufficed for the task.
+
+Then a little vermilion adorned her forehead. Last of all, some betel leaves dyed her lips.
+
+Thus armed, a formidable champion of the world conquering sects,
+
+set out with a picture in her arm and pushing open the wattle gate of a neighbouring house, entered within it.
+
+Um. So there are some interesting things to be said about gender in this novel.
+
+Raj Mohan's wife opens as two women in a village in East Bengal go to the river to fill their pitchers with water.
+
+One has been expressly forbidden to do this by her husband because he just doesn't want her to leave the house.
+
+Uh, this heroine is mahogany. Uh, Raj Mohan's wife.
+
+So I've tried to kind of plot out the character relationships here.
+
+Um. I hope that kind of makes some sense anyway.
+
+Um, she's 18 years old. Mahogany. As they return from the river.
+
+Um, they pass two men who are sitting and talking in a garden.
+
+So these two men are cousins matter. And of course, as mahogany passes, a gust of wind lifts her shawl, showing her face.
+
+The men recognise her mother is her brother in law.
+
+So her sister's husband rocks. Man is incredibly angry when mahogany returns.
+
+She's clearly a long standing victim of domestic violence.
+
+The novel then pauses to relate the history of these characters.
+
+Martha and Martha are descended from a zamindar.
+
+So that means a powerful landlord, an aristocrat who's got his property in less than straightforward circumstances.
+
+So both men end up propertied. They are landowners. Matters.
+
+Father is suspicious of the English and has refused to give his son an English education.
+
+Mother's father, drawn to the city of Calcutta, has done the opposite.
+
+Um Madhav. So this is the. In a way, the main kind of hero is a version of the Bengali model.
+
+Look who is a gentleman who enjoys culture and who embraces contact with British cultural traditions.
+
+Um. Martha marries mahogany. Sister.
+
+Mahogany is already married to Raj Mohan. Because Raj Mohan is in dire straits, Madhav offers him a job as a kind of steward on his lands.
+
+Um. The two couples move to the village of Rather Gunge.
+
+We then return to the presents. Late at night, mahogany overhears a conversation between Raj, Aman and some dacoits or bandits outside.
+
+They want to steal mother's property and his uncle's will, um, which has bequeathed him a fortune.
+
+The whole plot is being orchestrated by mother mother's cousin.
+
+Mahogany decides to go out into the terrifying night, running through the jungle to mother's and her manganese house so that she can warn them.
+
+Molotov arms his tenants and they are able to ward off the bandits.
+
+When Martha and Mahogany are alone, we realise that they have long loved one another,
+
+so it's a melodramatic scene with lots of weeping and both knowing that there's nothing really to be done about it.
+
+So when with Anthony returns home, she is apprehended by men, but manages to escape to Martha's house of all places.
+
+Mother's two wives, Tara and John Polk, argue over Martha right to be their mother,
+
+was captured by the bandits and imprisoned in a dungeon on Martha's property.
+
+He hears strange shrieks and bangs. It's mahogany who has been locked away as a prisoner in another room.
+
+Mothers and Tara rescue her. The bandits and Roger Mahone are caught and transported to the Andaman Islands as convicts.
+
+When matter here. Is that an Irishman? The district magistrate is coming to set things in order.
+
+He hangs himself in an extremely short final chapter.
+
+The conclusion. We hear what happens to the other characters.
+
+Mahogany goes to live with her parents, but dies an early death.
+
+Um. As to the matter of John Pook and the rest born, King says some are dead and others will die,
+
+throwing this flood of light on their past and future history.
+
+I bid you, good reader, farewell. Um. And that's that.
+
+Forgive what must have been, um, an incredibly confusing, uh, run through the plot.
+
+Uh, I, you know, I hope you can imagine what it's like for all of that to get squashed into.
+
+Just like, basically something the length of a novella, 100 pages.
+
+Um, so it really, really covers a lot of ground. Um, and bear in mind that the novel is a shifting form as a genre,
+
+something that develops over the course of the 19th century as writers test its potential and feel for its edges.
+
+Raj Mohan's wife jolts from genre to genre.
+
+There is an insistent, persistent narrative voice here, the cool irony of which sits uncomfortably alongside the novels melodrama.
+
+There are moments where the narrator gives us a long.
+
+Um, these moments are peppered through the book. So here's one example.
+
+Um, we need not detain the reader with a detail of either the dialogue or the prattle, as if their purport.
+
+We will do him the justice to presume he has already some conception.
+
+So I wonder what this narrator real heavy handedness achieves.
+
+What we might say about its effects. It means that the novel is constantly drawing attention to its own artifice.
+
+Then, at the same time, there are moments of realism, everyday details that raise something of a smile in their humanness.
+
+Like this description of two children. His elder brother had wilfully left his ink pots behind when going to school.
+
+The child's eyes had fallen on it, and he was joyfully smearing his face with the ink.
+
+He seemed to be afraid of his brother coming back and snatching the ink pot away, and so he was emptying the pot.
+
+Then another reference to domestic mess.
+
+The walls of all the chambers above and below were well striped with numerous streaks of red, white, black, green.
+
+All the colours of the rainbow caused by the skittles of such as, had found their mouths too much encumbered by pon.
+
+So pon is a kind of red mixture of nuts and vine wrapped in a leaf, which is chewed.
+
+And then there's this image, which is, uh, kind of beautiful, almost like a painting.
+
+The sun was shedding its mellowed parting beams on the house of Marcus, and the day which had us had been sorry,
+
+and the day which had been ushered in amidst the gloomy deeds which threatened the fate of mahogany, was hasting to a close.
+
+The slanting rays fell at intervals on an open veranda on the second floor.
+
+Tara was seated on the bare ground and was employed in tying the hair of her daughter in a copper, which is a bun.
+
+Smudges of ink on a child's face. Stains of pot on a wall.
+
+Rays of sunlight on a veranda. These examples come together to create a sense of a world where people and things leave their tiny traces.
+
+So as I raced through the plots, I'm sure you noticed how much of the novel is sensational.
+
+Bong Kim is clearly importing recognisable tropes from British fiction the crumbling gothic dungeon, um, for example.
+
+So take a look at this description of mahogany when she confesses her love, um, to her brother in law.
+
+You weep, said mother, if you are unhappy. Mahogany replied, and mahogany replied not, but sobbed.
+
+Then, as if under the influence of a maddening agony of soul, she grasped his hands in her own, and bending over them her lily face.
+
+So that motive trembled under the thrilling touch of the delicate curls that fringed her spotless brow.
+
+She bathed him in a flood of warm and gushing tears.
+
+He covered his eyes with his palm, and his palm became wet with tears.
+
+So this is, um, textbook melodrama. Emotive, highly embodied and performative.
+
+Hyperbolic. We don't know which British novels were born.
+
+Kim's nearest literary influences when he was writing Raj Mohan's wife.
+
+But critics have agreed that sensation fiction seems to be a ghostly presence.
+
+It's the right decade, after all. These critics also note that Boon Kim mentions debts to the writers a Gwm Reynolds,
+
+Edward Bulwer Lytton, and Wilkie Collins's The Woman in White elsewhere.
+
+So it seems that tropes and genres have moved across borders.
+
+What he is doing is he's trying to fit Bengali stories into British literary frameworks with fascinating results.
+
+So the first question we might ask ourselves upon reading any colonial text is how it channels global narratives of power.
+
+In other words, we'd ask what it has to say about nation and empire.
+
+The references in man's wife are oblique rather than in your face, which I think makes the novel much more interesting.
+
+How does Bong Kim create a sense of place? And what version of the world do we find within this novels pages?
+
+How far do its borders stretch? And in an influential critical study, um,
+
+Elaine Freed good explains how British interiors in Victorian fiction are crammed full of objects with fugitive histories.
+
+Um, so, um, these are objects from the empire in Russia.
+
+Hence why we find the situation strangely reversed.
+
+So this is Martha's grand but ill kempt house in rather gunge.
+
+On the two remaining walls and place lower than the terrific Khali, and the gorgeous Durga might be seen arrayed.
+
+A few specimens of European art, and the exquisite conception of the Virgin and Child might itself be seen adorning the chamber,
+
+the inmates of which had little knowledge what the artist's genius and engraver skill had strove to represent.
+
+So basically on the wall we find images of Hindu god goddesses Kali and Durga, but also European art and Christian iconography in plain sight.
+
+And the crucial thing in this passage is that they bear no symbolic weight whatsoever.
+
+Um, no one in the house knows what they are supposed to represent. So do they have fugitive meaning or no meaning?
+
+It's possible to make that argument both ways. A postcolonial reading might see this as a comment about the silent but constant and
+
+oppressive presence of the coloniser in apparently native space imperialism writ small.
+
+There is an alternative reading, though, that the colonisers may be here, but they're roundly ignored in the rhythms of everyday life.
+
+When a man wielding imperial power does appear, um, at the end of the novel to sort everything out.
+
+It is a shrewd and restlessly active Irishman.
+
+The district magistrate. It is extremely telling, I think, that he's Irish rather than English.
+
+Um, not quite a comfortable or straightforward representative of the ruling state.
+
+Thanks to the magistrate's intervention. Roger Mann is transported at the end of the novel.
+
+So we aren't told where. But it must be the Andaman Islands, which were used as a penal colony during British rule.
+
+Transportation is always a fascinating trope or narrative event in Victorian writing.
+
+Um, but it's usually to Australia in fiction.
+
+So remember what happens to Maggie, which in Great Expectations he's transported as a convict to New South Wales.
+
+Transportation is the expulsion and displacement of criminals and transgressors to a peripheral elsewhere,
+
+a space that is imagined, conveniently forgotten, that always there.
+
+These, then, are interesting narrative details that speak, um,
+
+to the relationship between tiny, rather gunge and the monstrous, massive colonial machine.
+
+But that relationship even seeps into the narration itself.
+
+When we're told that she, my sister, was still of that tender age.
+
+Um, when wives in her country speak always timidly to their husbands.
+
+Um, we spoke for a second. Her country, um, is surely one country, the country in which the novel is being serialised and read.
+
+So the implied distance there, um, feels strange.
+
+We don't know. In other words, where Bone Kim is placing or situating his assumed reader.
+
+You could say the same about this odd moment, which is, I think, the most unusual in the book.
+
+McConkey has just returned from the river with her pitcher of water, and Roger Morgan is threatening to strike her as he intimidates her.
+
+When the narrator steps in, it is unnecessary to try the patience of my readers by reproducing all of his Billingsgate.
+
+Billingsgate was speaking in Billingsgate is a shorthand for using bad language.
+
+The narrator is alluding to Richmond's abusive manner of speaking to his wife.
+
+Using a euphemism to avoid printing his exact words.
+
+So there's a kind of decorum almost there in the narration.
+
+The time comes from the Billingsgate Fish Market in London, where apparently bad language was the order of the day.
+
+The use was idiomatic in English by the stage, and it referred to the shocking,
+
+earthy conduct of 17th and 18th century fish wives who bullied hapless and overeducated
+
+gentlemen and filled the neighbourhood with their distinctive street cries.
+
+You can see the gender dynamics being swapped. Um.
+
+The reference to Billingsgate in Roger Morgan's wife just seems to pop out of the text.
+
+You crash into it as you're reading, it sets up an imaginative bridge between central London and rural East Bengal.
+
+The Thames and the rivers. The distant and the proximate.
+
+So I've been wondering what on earth is that word doing in this novel?
+
+The appearance of Billingsgate in this unlikely place makes us stop to think about linguistic colonialism,
+
+the intertwined histories of, um, imperialism and language, fluency, idiom, oral culture, and also about translation.
+
+So the original English section in which this example appears has been lost.
+
+The first few chapters are Banerjee's 1935 translation of Bong Kim's own self translation of the novel into Bangla.
+
+So it's confusing. Um, so I'll say it another way too. Bong Kim wrote an English novel, but we've never discovered the full text.
+
+We don't have the full English novel. That's because the magazine in which it was published was so ephemeral.
+
+We just, you know, magazines are notorious for getting lost to time.
+
+At some point in his career. Um, he started translating it from English into Bangla.
+
+In 1935. So you know a good what is that, 40, 50, 70 years later?
+
+Somebody took the first couple of Bangla chapters and translated them back into English.
+
+And to give us this patched together version of a complete novel that we now have today.
+
+So now we can return to Billingsgate. If you translate King's Bangla sentence into English in a very literal sentence, we end up somewhere else.
+
+So this is my own mother's translation. She helped me with the language, which says something about my own, uh, mixed fluency.
+
+So this is her translation of one King's Bangla. I won't torture my readers ears by quoting those sweet words here.
+
+Banerjee's translation to the one we have now swaps the straight sarcasm of the Bangla for the English idiom Billingsgate.
+
+This ripple in the text not only suggests real intentionality on the translator's
+
+part suggests a translator is always making their own version of a text.
+
+Um, but it also indicates how many ways a novel might contend with or accommodate linguistic violence.
+
+It shows us in practice the richness and messiness of working with world literature.
+
+Um, sometimes, as I say, it's helpful to look at something really tiny in order that we might notice something big.
+
+So those are some of the ways in which the novel thinks through the relationship between India and Britain.
+
+Next, I want to figure out, um, how much it establishes a dichotomy between the rural and urban.
+
+The countryside in the city. Uh, the answer is simple here.
+
+It certainly does. We have Martha, who is rooted in the village and mother who loves Calcutta and everything that Calcutta represents.
+
+We have mahogany, whose accent reveals she is no daughter of the banks of the modern Moti,
+
+but was born and brought up on the ratty in some place near the capital.
+
+So both of these are rivers, one that goes through what is now rural Bangladesh, the other near Calcutta.
+
+The village. Metropol. Paradigms. Raymond William identifies in British writing, is clearly at work in Bowen Kim's novel,
+
+which explores the cultural and topographical differences between East and West Bengal.
+
+When the newly married her, Mangini worries about leaving her parents him speaks with irony, teasing his own character.
+
+It was a far, far country whither she was going. And would she ever come back to the scene of her earliest affection?
+
+Though it's a joke, it also reminds us that there are different definitions of distance and proximity,
+
+and that is actually any novel job to weigh these definitions up.
+
+The broader effect, of course, is to remind us that Indian space isn't a monolith,
+
+that it functions according to its own internal rules, at least as much as it's anchored to the British Imperial Centre.
+
+We aren't in Calcutta for very long in this novel. To be honest, we are only there for the span of a sentence.
+
+Instead, Raj Mohan's wife gives us a detailed set of observations and arguments about
+
+agrarian society in what is now Bangladesh in the 19th century East Bengal.
+
+The novel is about locality. For Ian Duncan, the regional or provincial novel in Victorian Britain exists as a distinctive genre.
+
+The characteristics of the setting are that it is distinctive, differentiated from the metropolis with,
+
+um for or from other regions within the nation, and that it is at the same time familiar.
+
+The province or region may represent an authentic site or source of national identity, a distillation of the nation,
+
+or it may take the place of a larger national identity that has failed,
+
+or it may register a wholesale disintegration of the categories of home origin.
+
+Community belonging. The region is a place in itself, the source of its own terms of meaning and identity.
+
+While the province is a typical setting defined by its difference from London.
+
+So this is a layered and persuasive essay. So Duncan is talking about the possibility of an organic relation to place.
+
+His examples include Hardy's Wessex and Trollope's Pasture.
+
+He focuses on Hardy and Trollope's insistence in or fascination with the local,
+
+rather than the pull of the Metropolitan on the one hand, or the broad sweep of the global on the other.
+
+I wonder whether Roger Mohan's wife speaks to some of these concerns.
+
+It is rooted in region, but it's thousands of miles away from Wessex or Basseterre.
+
+So I'm going to go back to those opening sentences. There was a small village on the river, more than 40.
+
+On account of its being the residence of wealthy Zamindar, it is regarded as a village of importance.
+
+One afternoon the summer heat was gradually abating with the weakening of the once keen rays of the sun.
+
+A gentle breeze was blowing.
+
+It began to dry the perspiring brow of the peasant in the field, and play with the moist loks of village women just risen from their siesta.
+
+And so we're told from the start that there are structures of power in place in rather gunge.
+
+The novel is about the struggles between wealthy landowners or them in the US.
+
+So in fact, um, one of the later chapters has a decidedly Jane Austen ish opening pronouncement.
+
+It is a notorious fact that many eminent zamindar families in Bengal owe their rise to some ignoble origin.
+
+One step away, I'm sure you will agree from a truth universally acknowledged.
+
+But there's also a deep interest in the everyday life of the villager.
+
+That day. Access. There is a small village on the river is a real statement of presence.
+
+Whenever we hear about the breeze, it's in relation to the people that it touches.
+
+Drying the sweat of the labourer. Teasing women's hair.
+
+Lifting his veil as she comes back from the river with a pitcher of water, though mahogany frets that there are crocodiles in the river.
+
+Um. It is mainly a sight, a friendly communion between women.
+
+When Rodman pours the water out of modern Guinea's pitcher into a dust heap, it's dramatically cruel because that pitcher represents something deeper.
+
+Martha and Martha sit in an ornamental garden of a kind, rare in East Bengal, full of roses and mallika.
+
+So it's a kind of jasmine which caressed the eyes of passers by.
+
+So there's this idea of beauty rather than utility.
+
+Something bunkum associates with West Bengal. Meanwhile, a hut has mud floors and bamboo walls.
+
+Some brinjal and salads were growing on the carefully tilled plot of land.
+
+In front of the raised terrace before the outer room, the hall was enclosed by a red fence with a bamboo gate.
+
+So there's a real continuity between house and land. Mud, bamboo and reed are all used to build shelter.
+
+We get a sense of the kinds of small farming going on here.
+
+But then do we? Um, brinjal and salads.
+
+Uh, brinjal. Are aubergines fine.
+
+Um, but we're now actually, Mukherjee, the editor of the novel, has noted that salad just isn't really a thing for Bengalis.
+
+It is a rewording in English for a shadowy, implied reader.
+
+Once again, if we get close to the text, it raises more questions than it answers about the writing of location and locality, landscape and ecology,
+
+the ways in which the provincial and the regional US either deflect attention from or contribute to our understanding of the nation.
+
+How does the colonial subject bring their landscape to life on the page?
+
+It's a battleground, a contested space.
+
+If we're thinking about geopolitics, but it's also something more immediate, something that is lived in and lived through.
+
+So one game is really, really specific.
+
+For example, when it comes to trees in a 100 page novel, we hear about groves of mango trees, birch trees, which is a kind of Indian oak.
+
+Cocoa palms, date palms. Acacia tamarins.
+
+Safari and Baku. Um, a papaya, which is a kind of cuckoo can be heard trilling.
+
+I am particularly want to talk about the jungle. A word that in English, um, that the English language is actually taken straight from Sanskrit.
+
+Um, you might want to compare the etymology of, um, jungle and forest.
+
+So forest comes from the Old French and the medieval Latin jungle, also jungle.
+
+Uh, Hindi, etc. etc., etc. from the Sanskrit.
+
+Um in India, originally as a native word. The jungle surrounding.
+
+Rather, gunge is a liminal space, a space where dacoits or bandits make themselves at home.
+
+They take shelter between the roots of a mango tree, hide out in the undergrowth.
+
+Signal to each other by calling like screech owls.
+
+So if you take a look at John Lockwood Kipling's 1891 book Beast and Man in India, you'll see how these are birds of evil as well as a good omen.
+
+The owl is here, as elsewhere, a byword for ill luck.
+
+If you're interested in developing some of this work, you could take a look at these non-fictional texts.
+
+National history and natural histories of India. For want of a better word that I've produced by British writers, it's another genre.
+
+Another way of engaging with the colony and filtering it through British eyes.
+
+In this novel, the dacoit is a version of the Gothic bandit, and Boom Kim is clearly locating criminality in the jungle.
+
+Dacoit and jungle exist in a kind of mutually reinforcing relationship.
+
+Mahogany, though, has the most complex relationship, um, and connection to the land, and more precisely, to the jungle, to the same space.
+
+She feels a pang of nostalgia when she remembers her childhood with her sister.
+
+Childhood. That time when she used to lie in the open air, arm in arm with her beloved Mangini,
+
+gazing on the silver orb that poured the sweet light and the interminable deep blue ocean on which she sailed, lying on the land, looking at the moon.
+
+Clearly this is freedom. She moves to open her bedroom window because it is too hot and stuffy inside.
+
+She wants to let in some air, and as I mentioned before, when she overhears the midnight plot to rob Mother and Mangini,
+
+she decides to go out into the jungle, run to their house and warn them.
+
+I'll read you the passages first so that you get a sense of what's going on.
+
+The chapter has a subtitle in which the author narrowly misses an opportunity of introducing a few ghosts,
+
+and regrets that he cannot gratify his young readers.
+
+At this hour of dread, loneliness a young woman would have would have to thread her way through a wild and jungly path.
+
+She was, naturally enough, superstitious,
+
+and her rich imagination was stored with tales of an earthly hunters of the woods, and had fed on them since infancy.
+
+The knotted tree trunks of huge trees showed like so many unearthly forms.
+
+Watching her progress in malignant silence. And each leafy bough that shot over her darkened path.
+
+She fancied there lurked a demon. In each dark recess, she could see the skulking form and glistening eyes of a spectre or a robber.
+
+All the wild tales she had heard, a fierce visages and ghostly grins that had appalled to death.
+
+The belated traveller rushed to her imagination.
+
+The light crack of the falling leaf. The flapping wings of some frightened night bird.
+
+As it changed its unseen seat. Among the dark branches.
+
+The slight rustle of crawling reptiles among the fallen leaves.
+
+Even her own footsteps made her heart fainter and fainter.
+
+So then the bandits hear something, and mahogany makes her way to a dark pool of water,
+
+gently gliding into the water at a spot where the spreading branches of the bore cast deep shadow.
+
+She sat down, immersed to her chin so that nothing but her head was visible,
+
+if indeed it could be seen where the dark water of the pool was made darker by the sombre shade of the tree.
+
+But still apprehensive lest the fair complexion of her lily face should betray her.
+
+She unloose the knot of her hair and spread the dark, luxuriant tresses on all sides of her head,
+
+so that not even the closest scrutiny could now distinguish from above the dark hair floating over the darkened pool.
+
+It might be an affidavit, which means a demon that I have seen, says the dacoit.
+
+It's an evil spirit. The next day.
+
+After the adventure, Watson Guinea is back at the pool of water.
+
+The reader will now follow us to the pool, which had been the scene of Madame Guinea's temporary danger and escape on the previous night.
+
+The sun had run up two hours course in the heavens, beneath a young tamarind tree, where the surrounding underworld lent a sort of cover.
+
+Mahogany sat on the moist grass. Her clothes were wet.
+
+Her sari had been soiled with mud.
+
+Her usually curly tresses, washed by the drizzling rain, now fell in straight and loosely flowing bands on her neck and arms,
+
+and her head was slightly bent to permit the sunbeams to play on that raven hair
+
+darker than any cloud which had ever opposed their progress through the atmosphere.
+
+So just to, um, pass those passages, we have that tonally strange subtitle which acknowledges our expectations.
+
+Um, there it is, um, of a literary jungle, that it's gothic, that we need ghosts.
+
+Mahogany is terrified of spectres, and the dacoits mistake mahogany for an evil spirit.
+
+These are moments of camouflage and and and immersion.
+
+In the second scene, um, every part of his clothing and her body is touched by the elements rain, mud, sunlight.
+
+Even her hair is described as darker than cloud.
+
+Note that particularly striking moment when she glides into the water, loosens her hair, covers her face.
+
+Um. It's as if the line between human and spirit is smudged.
+
+My niece movement into nature brings her potentially transgressive qualities into relief.
+
+Remember that she's in love with her sister's husband and she passionately declares this love.
+
+Meanwhile, Meenakshi Mukherjee and Supriya Chaudhary, who are both on on the Bibliography and Canvas um,
+
+have explained that Jenny's journey owes a lot to Vaishnava poetry.
+
+Um, it's an image. Um, it's that Sanskrit poetry in which Radha secretly runs to meet her lover, the god Krishna, in the jungle.
+
+It's one of those important relations between the spiritual and the erotic in devotional poetry.
+
+So just to round off postcolonial responses to 19th century literature might try to unearth references
+
+to imperialism in the novels and poems that we know and love the stalwarts of the Victorian canon.
+
+But I hope that this lecture has shown you how we might extend that conversation to think in a way that's more consciously global.
+
+I think that's what this particular lecture series is kind of about.
+
+It's about acknowledging extremely simply that literary cultures exist everywhere,
+
+and that reading the first Indian novel in English adds layers to our understanding of power, geopolitics, language and literary form.
+
+Thank you very much for coming.
+

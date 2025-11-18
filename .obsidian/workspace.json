@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "f7b39f1e305c536d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19791fcbfc654d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea2d33b338beae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Assignments/PRE1bW6 Tut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRE1bW6 Tut"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b521d9d4bb6523f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d001e1302154f648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6971defc41656b43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0f2d7c47a528e27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eebd6a153f6c3cbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a628997d923a822",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66d178de5f6f4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9758c1650531740a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readings/Lecture Notes/todoPRE1W4 CORE Reading Poetry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for todoPRE1W4 CORE Reading Poetry"
+            }
+          },
+          {
+            "id": "6790403c1ce9a8da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4264f41fbab6cb6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ecfdc7ae91743726",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readings/Lecture Notes/todoPRE1W4 CORE Reading Poetry.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of todoPRE1W4 CORE Reading Poetry"
+            }
+          },
+          {
+            "id": "4ab8cbdc9967bb82",
+            "type": "leaf",
+            "state": {
+              "type": "comment-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "comment-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "local-backup:Run local backup": false
+    }
+  },
+  "active": "3ea2d33b338beae0",
+  "lastOpenFiles": [
+    "study-vault-temp",
+    "study-vault",
+    "Readings/Assignments/PRE2W4 Class.md",
+    "Realism handout 2025.pdf",
+    "PRE1bW6 Tut.pdf",
+    "Readings/Assignments/PRE1bW6 Tut.md",
+    "tutorial 18 nov.txt",
+    "Readings/Assignments/PRE3W1 Seminar.md",
+    "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
+    "Readings/Assignments/PRE1bW4 Seminar - Aesthetics.md",
+    "Readings/Assignments/PRE1bW3 Seminar New Historicism.md",
+    "Readings/Assignments/PRE1bW1 Seminar.md",
+    "Readings/Assignments/PRE3W4 Seminar - Abolition.md",
+    "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
+    "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
+    "Readings/Lecture Notes/GENW5 Literary Worlds, World Literature - Medieval Women's Religious Writing (Europe and Beyond).md",
+    "Readings/Lecture Notes/todoPRE3W6 Lecture Nineteenth-Century Forms and Ideas Circus - Science and Victorian Fiction.md",
+    "Readings/Lecture Notes/todoPRE2W6 Old English Poetics.md",
+    "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Poetry Circus.md",
+    "Readings/Lecture Notes/PRE2W3 Old English Literature in Context - Rule & Reform.md",
+    "Readings/Lecture Notes/todoPRE3W1 Practising Criticism.md",
+    "Readings/Lecture Notes/PRE1W4 CORE Reading Poetry.md",
+    "Readings/Lecture Notes/PRE1W3 CORE Authority and Intentionality (Author, Text, Reader).md",
+    "Readings/Lecture Notes/PRE1W5 Practising Criticsm 5 - How to read Rhyme.md",
+    "Readings/Lecture Notes/PRE1W4 Practicing Criticism.md",
+    "Readings/Lecture Notes/PRE3W3 Nineteenth-Century Poetry Circus - Sense and Embodiment, The Body and Sensation.md",
+    "Readings/Lecture Notes/PRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
+    "Readings/Lecture Notes/PRE3W3 Digital Poetics and Victorian Verse.md",
+    "Readings/Lecture Notes/PRE3W4 Oscar Wilde.md",
+    "Readings/Lecture Notes/PRE3W2 Oscar Wilde.md",
+    "Oscar Wilde - PRE3 (copy)_Captions_English (United Kingdom)-4.txt",
+    "VictorianStuff1Handout 1.doc",
+    "Wilde Lecture 5 Plays handout.pdf",
+    "VictorianStuff1Handout.doc",
+    "Victorian Stuff - PRE3 (copy)_Captions_English (United Kingdom).txt",
+    "Intro to OE Set Texts 1 Handout (DotR).pdf",
+    "z. Assets/Pasted image 20251113122446.png",
+    "z. Assets/Documents/Pasted image 20250905195013.png",
+    "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
+  ]
+}
