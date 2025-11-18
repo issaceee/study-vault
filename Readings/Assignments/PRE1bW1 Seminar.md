@@ -1,5 +1,3 @@
-aaaaa
-
 Writeup on how we were taught to study literature:
 - TEM - Technique, effect, meaning - for every piece of analysis
 - Very structured - formula-esque ways of structuring our essays and our points (Topic Sentences must have How + Why)
