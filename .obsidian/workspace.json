@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Assignments/PRE1bW1 Seminar.md",
+                "file": "z. Assets/source_notes/@gallagherPracticingNewHistoricism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE1bW1 Seminar"
+              "title": "@gallagherPracticingNewHistoricism"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
+                "file": "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE1bW5 Class - Sociological Approaches to Literature"
+              "title": "PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\""
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "New Historicism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +102,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -211,11 +210,13 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "3be3dbb0788fcbd3",
+  "active": "3ea2d33b338beae0",
   "lastOpenFiles": [
+    "Readings/Assignments/PRE1bW1 Seminar.md",
+    "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
+    "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
     "z. Assets/source_notes/@berlantSexPublic1998.md",
     "z. Assets/source_notes/@hartmanVenusTwoActs2008.md",
-    "Readings/Assignments/PRE1bW1 Seminar.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Assignments/PRE1bW3 Seminar New Historicism.md",
     "Readings/Assignments/PRE1bW4 Seminar - Aesthetics.md",
@@ -227,8 +228,6 @@
     "PRE1bW6 Tut.pdf",
     "tutorial 18 nov.txt",
     "Readings/Assignments/PRE3W1 Seminar.md",
-    "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
-    "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
     "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
     "Readings/Lecture Notes/GENW5 Literary Worlds, World Literature - Medieval Women's Religious Writing (Europe and Beyond).md",
     "Readings/Lecture Notes/todoPRE3W6 Lecture Nineteenth-Century Forms and Ideas Circus - Science and Victorian Fiction.md",
