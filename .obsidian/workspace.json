@@ -4,39 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d19791fcbfc654d3",
+        "id": "8fc90e40a6a3ea97",
         "type": "tabs",
+        "dimension": 40.79545454545455,
         "children": [
           {
-            "id": "3ea2d33b338beae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melville and Blum, Moby-Dick."
-            }
-          },
-          {
-            "id": "7a53f983142230ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2420ef95f8c60ebf",
+            "id": "00c7cc080bff2c91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,23 +21,29 @@
               "icon": "lucide-file",
               "title": "@hartmanVenusTwoActs2008"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d19791fcbfc654d3",
+        "type": "tabs",
+        "dimension": 59.20454545454545,
+        "children": [
           {
-            "id": "3be3dbb0788fcbd3",
+            "id": "7a53f983142230ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
+                "file": "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\""
+              "title": "PRE1bW6 Seminar - The Political"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hartman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,11 +96,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -226,14 +207,16 @@
   },
   "active": "7a53f983142230ba",
   "lastOpenFiles": [
-    "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
+    "z. Assets/source_notes/@hartmanVenusTwoActs2008.md",
+    "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
+    "To Dos/Aestheticism.md",
     "Untitled.md",
+    "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "z. Assets/source_notes/@gallagherPracticingNewHistoricism.md",
     "Readings/Assignments/PRE1bW1 Seminar.md",
     "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
     "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
     "z. Assets/source_notes/@berlantSexPublic1998.md",
-    "z. Assets/source_notes/@hartmanVenusTwoActs2008.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Assignments/PRE1bW3 Seminar New Historicism.md",
     "Readings/Assignments/PRE1bW4 Seminar - Aesthetics.md",
@@ -255,8 +238,6 @@
     "Readings/Lecture Notes/PRE1W4 CORE Reading Poetry.md",
     "Readings/Lecture Notes/PRE1W3 CORE Authority and Intentionality (Author, Text, Reader).md",
     "Readings/Lecture Notes/PRE1W5 Practising Criticsm 5 - How to read Rhyme.md",
-    "Readings/Lecture Notes/PRE1W4 Practicing Criticism.md",
-    "Readings/Lecture Notes/PRE3W3 Nineteenth-Century Poetry Circus - Sense and Embodiment, The Body and Sensation.md",
     "Oscar Wilde - PRE3 (copy)_Captions_English (United Kingdom)-4.txt",
     "VictorianStuff1Handout 1.doc",
     "Wilde Lecture 5 Plays handout.pdf",
