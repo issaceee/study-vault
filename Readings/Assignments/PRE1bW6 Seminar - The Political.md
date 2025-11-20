@@ -1,3 +1,163 @@
+# Cleaned Up Notes
+
+## PRE1bW6 Seminar Notes — “The Political”: Archives, Critical Fabulation, and Ethics  
+**Seminar Topic:** Saidiya Hartman, *Venus in Two Acts*  
+**Focus:** Critical fabulation, the violence of the archive, narrative ethics, representation  
+
+---
+
+## 1. Opening Problem: What Is “the Archive” and Why Is It Violent?
+
+### The Archive as a Site of Power
+- Archives preserve information created by institutions of domination (legal, colonial, slave-trading bureaucracies).  
+- They present themselves as objective but are shaped by prejudice, omission, and the priorities of the powerful.  
+- Silences and erasures are structural, not accidental.
+
+### Why Archives Are Dangerous
+- They reproduce the logic of violence embedded in their creation.  
+- They tempt us into false coherence: “filling in the gaps” suggests a completeness that doesn’t exist.  
+- Even reading or analysing the archive risks repeating the harm it documents.
+
+---
+
+## 2. Critical Fabulation: Definition and Stakes
+
+### What Critical Fabulation Is
+- A method combining **archival research** with **speculative imagination**.  
+- It acknowledges what is missing while refusing to invent comforting fictions that close those gaps.  
+- Relies on *both* imagination **and** restraint.
+
+### Why Fabulate?
+- To reveal the fictionality of the archive itself.  
+- To resist the authority of supposedly objective documents.  
+- To think from the perspective of the dispossessed without falsely inhabiting their inner lives.
+
+### The Dangers of Critical Fabulation
+- “Giving voice to the enslaved” can become a new form of violence (ventriloquism).  
+- Filling gaps can produce emotional closure and complacency.  
+- Representation of suffering risks aestheticising violence or turning pain into spectacle.
+
+---
+
+## 3. The Conjured Scene: Why Hartman Creates and Then Undoes It
+
+### The Romance Passage
+Hartman imagines two enslaved girls embracing each other in their final moments.
+
+This scene:
+- Contains an intimacy that could never appear in an archive.  
+- Risks producing a consoling fiction — a “romance.”  
+- Shows the desire to humanise, but also the ethical danger in doing so.
+
+### Self-Reflexive Withdrawal
+- Hartman immediately critiques her own imagined scene.  
+- The reflexive backtracking is part of the method:  
+  - She demonstrates how storytelling desires to console  
+  - and how critical fabulation must *resist* that desire.
+
+---
+
+## 4. Why Critical Fabulation Uses Narrative (and Not Poetry or Theory)
+
+### Narrative as Temporal Structure
+- Narrative stages a relationship between past, present, and future.  
+- It shows how histories bleed into the present and shape our imagination of the future.  
+- It mirrors the messy simultaneity of historical experience.
+
+### Techniques Hartman Uses
+- **Rhetorical questions** → express uncertainty, ethical hesitation.  
+- **Heteroglossia** → multiple voices, conflicting perspectives.  
+- **Flattened narrative levels** → undermines the “authoritative voice.”  
+- **Self-interruption** → ethical refusal to pretend to know.
+
+---
+
+## 5. Ethical Self-Consciousness: The Method Must Always Fail
+
+- Critical fabulation is intentionally incomplete — a “history of failure.”  
+- It rejects the fantasy of historical recovery.  
+- It acknowledges that some forms of loss can never be repaired.  
+- Ethical writing involves *knowing the limits of what can be said.*
+
+---
+
+## 6. Frederick Douglass and the Scene of Subjection
+
+### Why Hartman Is Suspicious of Returning to This Scene
+Douglass’s account of Aunt Hester’s whipping raises questions of:
+- **Voyeurism** → reading the pain of others as spectacle.  
+- **Repetition of violence** → each retelling retraumatises the subject.  
+- **Silence** → the enslaved woman’s voice is missing; the narrative centres the spectator, not the victim.
+
+### Competing Interpretations
+- **Fred Moten** → sees Aunt Hester’s scream as the origin of Black radical tradition.  
+- **Hartman** → insists that repeated looking risks reinforcing the very violence it seeks to critique.
+
+### Why It Matters
+- Even first-person accounts can become part of the harmful archive.  
+- Douglass himself admits the limits of representation:  
+  - “I wish I could commit to paper the feelings…”  
+- This aligns with Hartman’s emphasis on the impossibility of full narrative recovery.
+
+---
+
+## 7. Hartman’s Triad: Scholar, Critic, Writer
+
+- Hartman identifies as a **writer**, not simply a critic or theorist.  
+- To write is to:
+  - Acknowledge one’s participation in fabulation  
+  - Accept imaginative responsibility  
+  - Remain aware of the ethics of storytelling
+
+All writing — scholarly, fictional, critical — involves fabulation.  
+Critical fabulation is distinguished by its **self-awareness**.
+
+---
+
+## 8. Key Takeaways for Paper 1b (Method Essays)
+
+- Critical fabulation = ethics + imagination + archival critique.  
+- It highlights silences, resists closure, interrogates representation.  
+- Useful for analysing:
+  - Violent histories  
+  - Archival absences  
+  - Narrative ethics  
+  - Problems of voice and silence  
+- Don’t frame Hartman as “giving voice to the voiceless” → she explicitly rejects this.
+
+---
+
+## 9. Summary Concept Map
+
+**Archive**  
+→ violent, partial, structured by power  
+
+**Critical Fabulation**  
+→ imagination + restraint  
+→ speculation without mastery  
+
+**Ethics**  
+→ refuse closure  
+→ avoid repetition of violence  
+
+**Narrative Form**  
+→ multiple voices  
+→ rhetorical questioning  
+→ temporal complexity  
+
+**Danger**  
+→ voyeurism  
+→ emotional satisfaction  
+→ romantic closure  
+
+**Goal**  
+→ expose structural violence  
+→ reveal the limits of knowledge  
+→ unsettle, not soothe
+
+
+
+# Own Notes
 
 * the archive
 	* 'The fury archives'
@@ -128,3 +288,6 @@ dispute within black studies about what to do with it
 	- made by the winners of history
 	- but also even by engaging critically with these archives, we risk reproducing the dynamics that originated them
 
+# Transcript
+
+![[PRE1bW6 seminar transcript.txt]]

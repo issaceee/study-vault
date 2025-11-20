@@ -1,3 +1,281 @@
+# Cleaned Up Notes
+
+## PRE3W6 Tutorial Notes — *Moby-Dick* and Romance  
+**Topic:** Genre, Romance, Truth, Epic, Industrial Novel, Allegory  
+**Themes:** Genre failure, modern epic, epistemology, democracy, labour, dogma
+
+---
+
+## 1. Why *Moby-Dick* Is So Hard to Classify
+The book resists all single-genre labels. It contains elements of:
+
+- **Romance** (quest narrative, extremity, anti-realism)
+- **Adventure fiction**  
+- **Epic** (a modern, fractured epic rather than an ancient totalising one)
+- **Industrial novel** (labour, lays/wages, workers’ collectivity)
+- **Philosophical treatise** (digressions, metaphysics)
+- **Biblical parable** (Jonah, names, sermon)
+- **Grail quest** (aristocratic medieval romance template)
+- **Encyclopaedia** / scientific taxonomy (cetology)
+
+**Key idea:**  
+*Moby-Dick*’s “genre” is the failure of all genres to capture the whale/truth.  
+It becomes a **meta-genre** — a novel about the inadequacy of genres themselves.
+
+---
+
+## 2. Ishmael and the Fear of Dogma
+Ishmael is consistently shown as:
+
+- open-minded  
+- anti-dogmatic  
+- flexible, curious, ecumenical  
+- resistant to rigid systems of belief  
+- unsettled by certainty  
+
+His scene with Queequeg (joining him in idol-worship) expresses:
+
+- a rejection of religious exclusivity  
+- a belief that *doing good to one’s fellow man* is the true “will of God”  
+- an ethics of openness rooted in empathy rather than doctrine
+
+Ishmael’s flexible worldview contrasts sharply with **Ahab’s monomaniacal certainty**.
+
+**Ahab = dogmatic obsession**  
+**Ishmael = openness, multiplicity, curiosity**
+
+---
+
+## 3. Cetology and the Futility of Truth-Seeking
+In the cetology chapters, Ishmael admits:
+
+- the whale “lives not complete in any literature”  
+- any classification system will be incomplete  
+- “any human thing supposed to be complete must be faulty”  
+- he is “the architect, not the builder”  
+
+**Key idea:**  
+Classification is both **necessary** and **impossible**.  
+The act of ordering the world becomes itself a model of human striving.
+
+This mirrors the larger narrative:  
+→ Truth cannot be captured  
+→ Yet the *attempt* to know is meaningful  
+→ The novel tries every register (science, philosophy, religion, epic, humour) and fails, but the failure is productive.
+
+---
+
+## 4. The Novel as Modern Epic
+Ancient epics assume:
+
+- unity of civilisation  
+- total meaning across all parts  
+- coherent cosmology  
+
+*Moby-Dick* is the opposite:
+
+- fractured  
+- multi-voiced  
+- contradictory  
+- encyclopaedic without totality  
+
+A “modern epic” captures the fragmentation of the modern world.
+
+**Comparative lineage:**  
+*Moby-Dick* → later “modern epics” like *Ulysses*, *In Search of Lost Time*.
+
+---
+
+## 5. Why Melville Rejects Genre
+Genre is:
+
+- a constraint  
+- a stabilising structure  
+- a way of telling readers “what reality is”  
+
+Melville wants to resist anything that gives the illusion of:
+
+- single truths  
+- singular meaning  
+- closure  
+- total explanation  
+
+Thus the novel is constantly switching modes to avoid becoming dogma.
+
+Genre becomes another form of **Ahab-like monomania**.
+
+---
+
+## 6. Opening Page: “Call me Ishmael”
+This famous line:
+
+- breaks the fourth wall  
+- refuses certainty about identity (is that really his name?)  
+- invites the reader into intimacy  
+- mirrors romance’s rejection of elegant, conventional openings  
+- sets up a narrator who is both insider and outsider  
+
+The first chapter also:
+
+- expresses the **restlessness** of modern, urban workers  
+- imagines the ocean as an escape from clerical alienation (cf. Bartleby)
+- frames the sea as symbolic of freedom, possibility, and extremity  
+- connects to romance traditions of leaving civilisation behind to seek truth
+
+**Important:**  
+The yearning for the sea is described as universal — “almost all men” — but also tied to modern white-collar drudgery and male-coded restlessness.
+
+---
+
+## 7. Romance vs Realism
+In the 19th century:
+
+- **Romance** = extremes, strangeness, adventure, meaning beyond the everyday  
+- **Realism** = ordinary life, domesticity, moral sympathy, social detail  
+
+Romance sees the everyday as **deadening**.  
+Realism sees the everyday as **ethically meaningful**.
+
+*Moby-Dick* positions itself with romance:
+
+- meaning lies beyond conventions  
+- ordinary life is stultifying  
+- extremity is required to make meaning  
+- truth lives behind masks
+
+Romance becomes the anti-genre — a force that rejects constraint itself.
+
+---
+
+## 8. Industrial, Labour, and Economic Readings
+The novel can also be read as an **industrial novel**:
+
+- the ship as workplace  
+- democratic crew structure  
+- labour hierarchy (lays instead of wages)  
+- international working-class community  
+- shared purpose, shared danger  
+
+This links *Moby-Dick* to novels like *North and South*:  
+→ collective labour  
+→ industrial risk  
+→ economics of production (whale oil = energy)
+
+Also: the eroticised “squeezing sperm” scene = utopian workers’ collectivity.
+
+---
+
+## 9. Political Allegory: Democracy and Dictatorship
+Ahab is often read as:
+
+- the tyrant-dictator  
+- charismatic, violent, displacing rational governance  
+
+Ishmael as:
+
+- the liberal subject  
+- open-minded, pluralistic  
+- the survivor  
+
+BUT modern critics note:
+
+- Ahab’s power is enabled by *consent* of the crew  
+- Ishmael participates in Ahab’s rituals  
+- the workers cheer Ahab into authority  
+
+Thus the novel critiques:
+
+- democracy’s pliability  
+- the seduction of charismatic leaders  
+- the fragility of liberalism  
+
+---
+
+## 10. Ahab vs Ishmael: Two Modes of Reading
+**Ahab reads the world as:**
+
+- symbol  
+- singular meaning  
+- total, unified truth  
+- one object = one explanation  
+
+**Ishmael reads the world as:**
+
+- multiple  
+- partial  
+- contradictory  
+- open-ended  
+- never finished  
+
+They represent two interpretive stances:
+
+- **Ahab = allegorical monomania** (dogmatic reading)
+- **Ishmael = digressive curiosity** (plural reading)
+
+The novel stages this contrast but never reconciles it.
+
+---
+
+## 11. Opposition as a Structural Principle
+The book repeatedly insists:
+
+> meaning is produced through contrast, not unity.
+
+Examples:
+
+- Warmth only exists beside cold (Ishmael/Queequeg in bed)  
+- Ambergris: beauty derived from rot  
+- Whale oil: light from death  
+- The Pequod: democracy → dictatorship  
+- Romance vs realism  
+- Land vs sea  
+- Knowledge vs incomprehensibility  
+
+The novel **thrives on unresolved oppositions**.
+
+---
+
+## 12. Gender and Market Dynamics
+In the American 19th century:
+
+- **Romance** = often male authorship (Melville, Hawthorne)  
+- **Sentimental fiction** = female authorship, huge sales  
+
+Romance positions itself as:
+
+- anti-market  
+- anti-domestic  
+- rejecting popular, profitable genres  
+
+But it is also entangled with those markets:
+
+- romance fails commercially  
+- sentimental fiction sells  
+- aesthetic hierarchy emerges (men = art, women = commerce)
+
+*Moby-Dick* becomes a text caught between marketplace and anti-market ideals.
+
+---
+
+## 13. Final Synthesis
+
+*Moby-Dick* as a whole is:
+
+- a novel suspicious of all certainty  
+- a romance rejecting the ordinary and the dogmatic  
+- a modern epic built from fragmentation  
+- an industrial novel about labour, capitalism, and collectivity  
+- a political allegory about democracy’s dangers  
+- a philosophical inquiry into truth, perception, and the limits of knowledge  
+- a study in oppositions that refuses to resolve them  
+
+The book does not offer truth.  
+It stages the **human attempt** to grasp truth and the **necessary failure** of that attempt.
+
+
+
+# Own Notes
+
 grail quest - aristocratic culture
 encyclopaedic
 biblical parable
@@ -88,7 +366,7 @@ but second half of 19th century
 - in victorian novel - this battle is romance vs realism
 
 
-# Ahab vs Ishmael
+## Ahab vs Ishmael
 - similarities between Ahab and Ishmael
 
 - MD was an allegory for the dangers of totalitarianism - become enthralled to a dictator thats really bad
@@ -105,3 +383,7 @@ but second half of 19th century
 		- Ambergrize (stubb gets the perfume out of the rotting corpse) --> 
 
 invested in these stark oppositions - constitutive of modern experience and modern life
+
+# Transcript
+
+![[PRE3w6 tutorial transcript.txt]]
