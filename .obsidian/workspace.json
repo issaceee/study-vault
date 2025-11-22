@@ -11,10 +11,14 @@
             "id": "547bce7a5d2a915d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PRE3W7 Class - Realism, Middlemarch"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "547bce7a5d2a915d",
   "lastOpenFiles": [
+    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
