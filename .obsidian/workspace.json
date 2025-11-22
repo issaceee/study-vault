@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d19791fcbfc654d3",
+        "id": "0a6072baae97b2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "7a53f983142230ba",
+            "id": "547bce7a5d2a915d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Assignments/PRE3W6 Tutorial - Moby Dick and Romance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PRE3W6 Tutorial - Moby Dick and Romance"
+              "title": "New tab"
             }
           }
         ]
@@ -181,16 +177,16 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "7a53f983142230ba",
+  "active": "547bce7a5d2a915d",
   "lastOpenFiles": [
-    "PRE3w6 tutorial transcript.txt",
     "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
-    "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
-    "PRE1bW6 seminar transcript.txt",
-    "Readings/Assignments/PRE3W6 Tutorial - Moby Dick and Romance.md",
-    "PRE1bW6 Tut.pdf",
     "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
+    "Readings/Assignments/PRE3W6 Tutorial - Moby Dick and Romance.md",
+    "PRE3w6 tutorial transcript.txt",
+    "Readings/Assignments/PRE1bW5 Class - Sociological Approaches to Literature.md",
+    "PRE1bW6 seminar transcript.txt",
+    "PRE1bW6 Tut.pdf",
     "PRE1bW6 Seminar - The Political.pdf",
     "z. Assets/source_notes/@hartmanVenusTwoActs2008.md",
     "To Dos/Aestheticism.md",
@@ -218,7 +214,6 @@
     "Readings/Lecture Notes/PRE1W3 CORE Authority and Intentionality (Author, Text, Reader).md",
     "Oscar Wilde - PRE3 (copy)_Captions_English (United Kingdom)-4.txt",
     "VictorianStuff1Handout 1.doc",
-    "Wilde Lecture 5 Plays handout.pdf",
     "z. Assets/Pasted image 20251113122446.png",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
