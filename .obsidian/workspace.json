@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Eliot and Russell, “Middlemarch.”"
             }
+          },
+          {
+            "id": "af1ccafa211e53ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@gallagherGeorgeEliotImmanent2005"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +210,11 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "364eec21ca6656b4",
+  "active": "af1ccafa211e53ef",
   "lastOpenFiles": [
-    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
+    "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
+    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
@@ -231,7 +246,6 @@
     "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Poetry Circus.md",
     "Readings/Lecture Notes/PRE2W3 Old English Literature in Context - Rule & Reform.md",
     "Readings/Lecture Notes/todoPRE3W1 Practising Criticism.md",
-    "Readings/Lecture Notes/PRE1W4 CORE Reading Poetry.md",
     "Oscar Wilde - PRE3 (copy)_Captions_English (United Kingdom)-4.txt",
     "VictorianStuff1Handout 1.doc",
     "z. Assets/Pasted image 20251113122446.png",
