@@ -63,8 +63,7 @@
               "title": "PRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -225,11 +223,11 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "f2bfa1bdb895e10e",
+  "active": "547bce7a5d2a915d",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/PRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction.md",
     "DetectiveFiction_Handout_2025 (1).pdf",
     "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
-    "Readings/Lecture Notes/PRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction.md",
     "z. Assets/source_notes/@henryIntroductionGeorgeEliot2019.md",
     "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
@@ -262,7 +260,6 @@
     "Readings/Lecture Notes/todoPRE3W6 Lecture Nineteenth-Century Forms and Ideas Circus - Science and Victorian Fiction.md",
     "Readings/Lecture Notes/todoPRE2W6 Old English Poetics.md",
     "Oscar Wilde - PRE3 (copy)_Captions_English (United Kingdom)-4.txt",
-    "VictorianStuff1Handout 1.doc",
     "z. Assets/Pasted image 20251113122446.png",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
