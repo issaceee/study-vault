@@ -80,7 +80,7 @@ Here’s a compact roadmap of what McGurl is doing in the **Introduction** and
 
 **5. From “difference” to “distinction”: his method**
 
-- McGurl calls his approach **“methodological philistinism”**: he brackets questions of aesthetic greatness and instead treats modernist novels as social objects that produce distinctions (a bit like a sociologist studying religion without deciding which god is real). 
+- ==McGurl calls his approach **“methodological philistinism”**: he brackets questions of aesthetic greatness and instead treats modernist novels as social objects that produce distinctions (a bit like a sociologist studying religion without deciding which god is real).== 
     
 - Draws on Veblen, Weber, Mannheim, and especially Bourdieu’s idea of **“classification struggle”**: modernist novels don’t just depict social classes – they actively participate in struggles over what counts as high/low, smart/stupid, refined/vulgar. 
     
