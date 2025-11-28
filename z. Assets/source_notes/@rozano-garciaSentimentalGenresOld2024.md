@@ -83,7 +83,28 @@ Genre?
 - grieving the loss of social life after going into religious life
 	- some of those probably werent consenting
 	- but maybe about play? maybe about mockery? misogynistic element?
- 
+
+
+Wife Laments
+anchorite, anchoress
+- benedictian reform --> rules for enclosure for woman became stricter
+
+
+arguments that
+1. woman speaking (standing still, no motion); male spoken (movement)
+	1. but in the woman speaking poems there is motion and journey, and for male spoken there is motion but maybe not motion towards (SF, WDR)!
+	2. theres no really an external consolation in the Women poems (but mauybe last few lines in WL can be read in that way)
+
+confinement in WDR & WL
+- caera
+- raclastas (journey of exile)
+
+elegiac vocab or vocab of exile?
+- identity btw that has been left behind and the self;
+- 
+
+
+
 %% end notes %%
 
 
