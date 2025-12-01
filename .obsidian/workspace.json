@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/todoPRE2W8 Old English Poetics - Metre & Form.md",
+                "file": "Readings/Lecture Notes/PRE2W5 Introducing the Old English Set Tets - Dream of the Rood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todoPRE2W8 Old English Poetics - Metre & Form"
+              "title": "PRE2W5 Introducing the Old English Set Tets - Dream of the Rood"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,12 +211,12 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "6971defc41656b43",
+  "active": "74141e3f1deffc28",
   "lastOpenFiles": [
-    "z. Assets/source_notes/@rozano-garciaSentimentalGenresOld2024.md",
+    "Readings/Lecture Notes/todoPRE2W7 Introducing the Old English Set Texts - The Wanderer.md",
     "Readings/Lecture Notes/todoPRE2W8 Old English Poetics - Metre & Form.md",
+    "z. Assets/source_notes/@rozano-garciaSentimentalGenresOld2024.md",
     "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
-    "Readings/Lecture Notes/PRE2W7 Introducing the Old English Set Texts - The Wanderer.md",
     "IMG_2678.jpeg",
     "Intro to OE Set Texts 3 Handout (Wanderer).pdf",
     "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
