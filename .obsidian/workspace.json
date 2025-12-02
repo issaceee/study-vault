@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Assignments/PRE3W8 tutorial.md",
+                "file": "Readings/Lecture Notes/todoPRE2W6 Old English Poetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE3W8 tutorial"
+              "title": "todoPRE2W6 Old English Poetics"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Poetics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +103,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -213,16 +213,19 @@
   },
   "active": "74141e3f1deffc28",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
     "Readings/Lecture Notes/PRE2W5 Introducing the Old English Set Tets - Dream of the Rood.md",
-    "Readings/Assignments/PRE3W8 tutorial.md",
+    "Readings/Lecture Notes/PRE2W4 Old English Literature in Context - Struggle & Conquest.md",
+    "Readings/Assignments/PRE3W8 Tutorial -  Art.md",
+    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
+    "Readings/Lecture Notes/rodoPRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction.md",
+    "PRE3W8 Tutorial Transcript.txt",
     "Readings/Lecture Notes/todoPRE2W7 Introducing the Old English Set Texts - The Wanderer.md",
     "Readings/Lecture Notes/todoPRE2W8 Old English Poetics - Metre & Form.md",
     "z. Assets/source_notes/@rozano-garciaSentimentalGenresOld2024.md",
     "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
     "IMG_2678.jpeg",
     "Intro to OE Set Texts 3 Handout (Wanderer).pdf",
-    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
-    "Readings/Lecture Notes/PRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction.md",
     "DetectiveFiction_Handout_2025 (1).pdf",
     "z. Assets/source_notes/@henryIntroductionGeorgeEliot2019.md",
     "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
@@ -244,12 +247,9 @@
     "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
     "z. Assets/source_notes/@berlantSexPublic1998.md",
     "Readings/Assignments/PRE1bW3 Seminar New Historicism.md",
-    "Readings/Assignments/PRE1bW4 Seminar - Aesthetics.md",
-    "Readings/Assignments/PRE3W4 Seminar - Abolition.md",
     "study-vault-temp",
     "study-vault",
     "Realism handout 2025.pdf",
-    "tutorial 18 nov.txt",
     "z. Assets/Pasted image 20251113122446.png",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
