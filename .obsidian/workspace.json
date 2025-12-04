@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "547bce7a5d2a915d",
+            "id": "9a14cb8b0c453936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/PRE2W7 Introducing the Old English Set Texts - The Wanderer.md",
+                "file": "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE2W7 Introducing the Old English Set Texts - The Wanderer"
+              "title": "PRE3W7 Class - Realism, Middlemarch"
             }
           },
           {
-            "id": "42aa826cf90d4287",
+            "id": "b5fbdb3e345bedab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
+                "file": "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@mcgurlNovelArtElevations2002"
-            }
-          },
-          {
-            "id": "74141e3f1deffc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Lecture Notes/todoPRE2W6 Old English Poetics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todoPRE2W6 Old English Poetics"
+              "title": "Eliot and Russell, “Middlemarch.”"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Poetics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,25 +195,30 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "74141e3f1deffc28",
+  "active": "9a14cb8b0c453936",
   "lastOpenFiles": [
+    "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
+    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
+    "z. Assets/Documents/Cultural Contexts III handout_extended 2024.pdf",
+    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
+    "z. Assets/Documents/Pasted image 20251113122446.png",
+    "z. Assets/Intro.md",
+    "z. Assets/Documents/DetectiveFiction_Handout_2025 (1).pdf",
+    "Readings/Lecture Notes/todoPRE2W6 Old English Poetics.md",
     "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
     "Readings/Lecture Notes/PRE2W5 Introducing the Old English Set Tets - Dream of the Rood.md",
     "Readings/Lecture Notes/PRE2W4 Old English Literature in Context - Struggle & Conquest.md",
     "Readings/Assignments/PRE3W8 Tutorial -  Art.md",
-    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Lecture Notes/rodoPRE3W7 Nineteenth-Century Forms and Ideas Circus - Detective Fiction.md",
     "PRE3W8 Tutorial Transcript.txt",
     "Readings/Lecture Notes/todoPRE2W7 Introducing the Old English Set Texts - The Wanderer.md",
     "Readings/Lecture Notes/todoPRE2W8 Old English Poetics - Metre & Form.md",
     "z. Assets/source_notes/@rozano-garciaSentimentalGenresOld2024.md",
-    "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
-    "IMG_2678.jpeg",
-    "Intro to OE Set Texts 3 Handout (Wanderer).pdf",
-    "DetectiveFiction_Handout_2025 (1).pdf",
+    "z. Assets/Documents/IMG_2678.jpeg",
+    "z. Assets/Documents/Intro to OE Set Texts 3 Handout (Wanderer).pdf",
     "z. Assets/source_notes/@henryIntroductionGeorgeEliot2019.md",
     "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
-    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
     "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
     "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
@@ -241,16 +230,10 @@
     "PRE1bW6 Seminar - The Political.pdf",
     "z. Assets/source_notes/@hartmanVenusTwoActs2008.md",
     "To Dos/Aestheticism.md",
-    "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "z. Assets/source_notes/@gallagherPracticingNewHistoricism.md",
     "Readings/Assignments/PRE1bW1 Seminar.md",
-    "Readings/Assignments/PRE3W4 Tutorial - \"What is the relationship between literature and the British Empire during the Victorian period?\".md",
-    "z. Assets/source_notes/@berlantSexPublic1998.md",
-    "Readings/Assignments/PRE1bW3 Seminar New Historicism.md",
     "study-vault-temp",
     "study-vault",
-    "Realism handout 2025.pdf",
-    "z. Assets/Pasted image 20251113122446.png",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]
