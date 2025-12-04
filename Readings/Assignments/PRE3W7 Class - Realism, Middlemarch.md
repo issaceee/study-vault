@@ -11,7 +11,111 @@
 	- The ideal life that Dorothea imagines herself was one where she is able to reconcile her idealistic, religious role and sentiment of a woman and a wife with that of an intellectual. She wished to serve Casaubon as an equal in that regard, that is, as an assistant, rather than a mere wife. Yet she is undercut by his emotional distance, and the fear of futility of his intellectual pursuits.
 	- Casaubon is presented to ultimately be deeply insecure, a man who is stuck in his own time and mind. This is a stark contrast between the various men that come to court Dorothea, Sir James and Lydgate.
 
-  
+
+- =="Not that this inward amazement of Dorothea’s was anything very exceptional: many souls in their young nudity are tumbled out among incongruities and left to ‘find their feet’ among them, while their elders go about their business. Nor can I suppose that when Mrs Casaubon is discovered in a fit of weeping six weeks after her wedding, the situation will be regarded as tragic. Some discouragement, some faintness of heart at the new real future which replaces the imaginary, is not unusual, and we do not expect people to be deeply moved by what is not unusual. That element of tragedy which lies in the very fact of frequency, has not yet wrought itself into the coarse emotion of mankind; and perhaps our frames could hardly bear much of it. **If we had a keen vision and feeling of all ordinary human life, it would be like hearing the grass grow and the squirrel’s heart beat, and we should die of that roar which lies on the other side of silence. As it is, the quickest of us walk about well wadded with stupidity.**”==
+	- unification - bigger than just reader and dorother, humanity and realising others thoughts and understanding them anyway.
+	- juxtaposition of rome (fragments of history swirming around him "to those who have looked at Rome...")
+		- kind of mimics the marriage of Casaubon
+		- so why marry Casaubon -> Sir James 
+	- lack of agency in her marriage // her lack of agency in the will in the end of the book
+
+	- use of genre: self-conscious reflection
+		- tragedy --> vehement that she is sitting there crying, what is happening is not a tragedy
+			- why?
+				- writing a realist novel --> ordinary characters. being positioned against a certain type of marriage plot
+				- ordinary life --> tragedy as the great fall "very exceptional"
+					- i also feel like its less intensity and its more frequency
+						- "the element of tragedy which lies in the very fact of frequency"
+							- in this line, realism and tragedy is not antithetical realism gives us an element of tragedy, its not antithetical in a sense
+							- in the everyday, a lot of tragedy and terrible stuff happen to us but bcs we are so densensitised to everything
+							- tragedy is embedded in realisim is so profound that 
+							- if we can access the sensibility (vision and hearing) --> if we were actually capable of experiencing the suffering of everybody, the intensity would kill us
+							- the project of the realist novel is therefore to help us glimpse 
+		- romance (more Mobydick than love )
+			- interested in the extremes of experience, but romance as a genre that privileges ideals of imagination over the drab and weariness of ordinary life
+			- diff btw the realist 
+				- there is a way that the book is aware of its shortsightedness (all characters are shortsighted to a certain degree)
+				- origin of the novel (don quito --> dorotheas task is the figure who lets her imagination run wild)
+					- unconscious privileging of the reality over the imaginary that Elliot is suspicious of or trying to distinguish her realist project from
+		- epic
+			- the contrast between Dorothea and Theresas'
+			- Theresa herself starts off with 
+			- most interested in the normal, not transformative figures
+				- Elliot just doesnt see history at that scale, sees it unfolding through these unseen acts (Dorothea asserts her influence on Ladislaw in this diffuse way)
+		- unhistoric acts in this historical novel (political novel, democracy is being expanded);
+
+
+
+Dorothea Casaobon Ladislaw
+
+Rosamond Lydgate
+
+Girth
+
+
+why the three pairs
+- all three affect each others lifes --> interconnectedness of society
+- u cant write a novel about unhistoric novels
+
+1. social panorama (various classes)
+	- Dorothea (gentry) vs Vincys vs Girths (working)
+
+
+if elliot's project mandates the construction of a web and panorama, it also mandates a deep insight into every person's suffering
+- once you accept Dorothea's suffering, you have to accept that everyone
+- dual mandate: extending across social experience (breadth) but also digging into everyone's social psychology in all their specificity and what theyre feeling
+	- have to write super long
+
+1. Failure of Ambition
+	- lydgate funciton is standing in for modern science and modern professionalism --> elliots is trying to track the idea of autonomy --> features of modernity is this increasing autonomy of all the fields that is wrapped up with each other
+		- before the turn of the century all the spheres are bound up with each other and all the fields become more silos, the diff endeavours become distinguished and like credibility as well
+
+
+
+rosamond and lydgate
+
+
+in general in the book, we seem to be always on the side of Dorothea (opening paragraph "why always Dorothea)
+
+
+lydgate wants to find the origin of all tissue
+- “And I am more and more convinced that it will be possible to demonstrate the homogen¬ eous origin of all the tissu” (Eliot and Russell, p. 455)
+- // Casaubon
+
+Rosamond is uniquely awful
+- a test for elliot's investment of sympathy
+- at the end, Dorothea needs to believe that R is having an affair with Ladislaw
+	- D is sympathetic towards R who has wronged her, exercises sympathy that even the narrator couldnt
+
+Elliot's aesthetic program is quite conservative
+- punishment of any character with ambition
+	- sense of if you try to change the world you end up failing
+	- a sense of being anti-revolutionary
+	- strand of liberalism (realistic view of reform)
+- but can read it into the gender writing
+	- feminist writing
+		- elliot as feminist icon
+		- but in her books, ends w Dorothea being a good wife
+			- recedes into an unhistorical zone
+
+- Caleb Garths are successful because theyre unambitious 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 2.  We'll also discuss Lydgate's experience in Middlemarch. What do we get from the inclusion of Lydgate in this novel? Why is he one of the main characters? Where does Lydgate go wrong? What does he do that’s so bad? What prevents him from realizing his professional ambitions? Why does he vote for Tyke in Chapter XVIII? Why does he marry Rosamond? What's so terrible about Rosamond?
 	- - **Why include Lydgate?**
