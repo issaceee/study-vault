@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "PRE3W7 Class - Realism, Middlemarch"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "25a3573d25cefcc0",
+        "type": "tabs",
+        "children": [
           {
             "id": "b5fbdb3e345bedab",
             "type": "leaf",
@@ -92,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -197,10 +204,10 @@
   },
   "active": "9a14cb8b0c453936",
   "lastOpenFiles": [
-    "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
-    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
-    "z. Assets/Documents/Cultural Contexts III handout_extended 2024.pdf",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
+    "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
+    "z. Assets/Documents/Cultural Contexts III handout_extended 2024.pdf",
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "z. Assets/Documents/Pasted image 20251113122446.png",
     "z. Assets/Intro.md",
