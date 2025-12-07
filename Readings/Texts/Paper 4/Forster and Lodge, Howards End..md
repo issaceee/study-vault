@@ -60,3 +60,21 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 ### ch. 3
 - “She learned, to her horror, that Margaret, now of age, was taking her money out of the old safe investments and putting it into Foreign Things, which always smash. Silence would 12 E. M. FORSTER have been criminal. Her own fortune was invested in Home Rails, and most ardently did she beg her niece to imitate her” (Forster and Lodge, 2000, p. 45)
 	- economics of investment
+- “It was interesting, and down at Swanage no one appreciated culture more than Mrs Munt; but it was dangerous, and disaster was bound to come. How right she was, and how lucky to be on the spot when the disaster came! 
+  
+  The train sped northward, under innumerable tunnels.” (Forster and Lodge, 2000, p. 46)
+	- the use of paragraph breaks here highlights an evolution in the image of a train as an unstoppable force towards disaster (/x prev image of prosperity)
+
+<mark style="background: #ABF7F7A6;">- “At times the Great North Road accompanied her, more suggestive of infinity than any railway, awakening, after a nap of a hundred years, to such life as is conferred by the stench of motor-cars, and to such culture as is implied by the advertisements of anti-bilious pills. To history, to tragedy, to the past, to the future, Mrs Munt remained equally indifferent; hers but to concentrate on the end of her journey,? and to rescue poor Helen from this dreadful mess.” (Forster and Lodge, 2000, p. 46)</mark>
+	- sense of temporal infinity here, time itself collapses when on a road compared to railway: "more suggestive of infity than any railway"
+
+
+<mark style="background: #ABF7F7A6;">- “At times the Great North Road accompanied her, more suggestive of infinity than any railway, awakening, after a nap of a hundred years, to such life as is conferred by the stench of motor-cars, and to such culture as is implied by the advertisements of anti-bilious pills. To history, to tragedy, to the past, to the future, Mrs Munt remained equally indifferent; hers but to concentrate on the end of her journey,? and to rescue poor Helen from this dreadful mess.” (Forster and Lodge, 2000, p. 46)
+</mark>	- interesting use of the railway here
+
+“contemplated the cloud of dust that they had raised in their passage through the village. It was settling again, but not all into the road from which he had taken it. Some of it had per 16 E. M. FORSTER colated through the open windows, some had whitened the roses and gooseberries of the wayside gardens, while a certain proportion had entered the lungs of the villagers.” (Forster and Lodge, 2000, p. 49)
+
+
+“She approached just as Helen’s letter had described her, trailing noiselessly over the lawn, and there was actually a wisp of hay in her hands. She seemed to belong not to the young people and their motor, but to the house, and to the tree that overshadowed it. One knew that she worshipped the past, and that the instinctive wisdom the past can alone bestow had descended upon her—that wisdom to which we give the clumsy name of aristocracy. High-born she might not be. But assuredly she cared about her ancestors, and let them help her. When she saw Charles angry, Paul frightened and Mrs Munt in tears, she heard her ancestors say: ‘Separate those human beings who will hurt each other most. The rest can wait.’ So she did not ask questions. Still less did she pretend that nothing had happened, as a competent society hostess would have done.” (Forster and Lodge, 2000, p. 53)
+
+### ch. 4
