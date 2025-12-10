@@ -126,3 +126,15 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 -  “WE ARE NOT CONCERNED with the very poor. They are unthinkable, and only to be approached by the statistician or the poet. This story deals with gentlefolk, or with those who are obliged to pretend that they are gentlefolk.” (Forster and Lodge, 2000, p. 72)
 
 - “But in his day the angel of Democracy had arisen, enshadowing the classes with leathern wings, and proclaiming, ‘All men are equal—all men, that is to say, who possess umbrellas,’ and so he was obliged to assert gentility, lest he slipped into the abyss where nothing counts, and the statements of Democracy are inaudible.” (Forster and Lodge, 2000, p. 73)
+
+- “Let us consider a little each of these characters in succession; and first (for of the absence of ventilation enough has been said already), what is very peculiar to this flat, its obscurity.’ Something told him that the modifications would not do; and that something, had he known it, was the spirit of English Prose. ‘My flat is dark as well as stuffy.’ Those were the words for him.” (Forster and Lodge, 2000, p. 76)
+
+- “And the voice in the gondola rolled on, piping melodiously of Effort and Self-Sacrifice, full of high purpose, full of beauty, full even of sympathy and the love of men, yet somehow eluding all that was actual and insistent in Leonard’s life. For it was the voice of one who had never been dirty or hungry, and had not guessed successfully what dirt and hunger are.” (Forster and Lodge, 2000, p. 76)
+
+- “Jacky ate contentedly enough, occasionally looking at her man with those anxious eyes, to which nothing else in her appearance corresponded, and which yet seemed to mirror her soul.” (Forster and Lodge, 2000, p. 80)
+
+- “They had all passed up that narrow rich staircase at Wickham Place, to some ample room, whither he would never follow them, not if he read for ten hours a day. Oh, it was no good, this continual aspiration. Some are born cultured; the rest had better go in for whatever comes easy. To see life steadily and to see it whole’ was not for the likes of him.” (Forster and Lodge, 2000, p. 81)
+
+### Ch. 7
+
+- 
