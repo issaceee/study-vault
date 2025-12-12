@@ -237,3 +237,5 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 ### ch. 17
 
 - “The feudal ownership of land did bring dignity, whereas the modern ownership of movables is reducing us again to a nomadic horde. We are reverting to the civilization of luggage, and historians of the future will note how the middle classes accreted possessions without taking root in the earth, and may find in this the secret of their imaginative poverty. The Schlegels were certainly the poorer for the loss of Wickham Place. It had helped to balance their lives, and almost to counsel them. Nor is their ground-landlord spiritually the richer. He has built flats on its site, his motor-cars grow swifter, his exposures of socialism more trenchant. But he has spilt the precious distillation of the years, and no chemistry of his can give it back to society again.” (Forster and Lodge, 2000, p. 162)
+
+### ch. 18
