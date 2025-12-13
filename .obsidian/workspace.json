@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Forster and Lodge, Howards End."
             }
-          },
-          {
-            "id": "a884c969580f57b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +182,11 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "a884c969580f57b8",
+  "active": "9a14cb8b0c453936",
   "lastOpenFiles": [
-    "z. Assets/source_notes/@arnoldArnoldCultureAnarchy1993.md",
+    "Untitled.base",
     "Readings/Texts/Paper 4/Forster and Lodge, Howards End..md",
+    "z. Assets/source_notes/@arnoldArnoldCultureAnarchy1993.md",
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
@@ -230,11 +218,9 @@
     "z. Assets/source_notes/@henryIntroductionGeorgeEliot2019.md",
     "z. Assets/source_notes/@gallagherGeorgeEliotImmanent2005.md",
     "Readings/Assignments/PRE1bW6 Seminar - The Political.md",
-    "Readings/Assignments/PRE3W5 Tutorial - \"Discuss the representation of science in one of the two assigned readings.\".md",
     "PRE3w6 tutorial transcript.txt",
     "PRE1bW6 seminar transcript.txt",
     "PRE1bW6 Tut.pdf",
-    "PRE1bW6 Seminar - The Political.pdf",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]
