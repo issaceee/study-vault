@@ -317,4 +317,12 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 
 ### ch. 26
 
--  
+-  “She must remain herself, for his sake as well as her own, since a shadowy wife degrades the husband whom she accompanies; and she must assimilate for reasons of common honesty, since she had no right to marry a man and make him uncomfortable. Her only ally was the power of Home. The loss of Wickham Place had taught her more than its possession. Howards End had repeatethde lesson. She was determined to create new sanctities.among these hills.” (Forster and Lodge, 2000, p. 223)
+
+- “But Leonard was near the abyss, and at such moments men ‘see clearly. ‘You don’t know what you’re talking about,’ he said. ‘I shall never get work now. If rich people fail at one profession, they can try another. Not I. I had my groove, and I’ve got out of it. I could do one particular branch of insurance in one particular office well 194 E. M. FORSTER enough to command a salary, but that’s all. Poetry’s nothing, Miss Schlegel. One’s thoughts about this and that are nothing. Your money, too, is nothing, if you’ll understand me. I mean, if a man over twenty once loses his own particular job, it’s all over with him. I have seen it happen to others. Their friends give them money for a little, but in the end they fall over the edge. It’s no good. It’s the whole world pulling. There always will be rich and poor.’” (Forster and Lodge, 2000, p. 227)
+
+- “It was the reward of her tact and devotion through the day. Now she understood why some women prefer influence to rights. Mrs Plynlimmon, when condemning suffragettes, had said: “The woman who can’t influence her husband to vote the way she wants ought to be ashamed of herself.’ Margaret had winced, but she was influencing Henry now, and though pleased at her little victory she knew that she had won it by the methods of the harem.” (Forster and Lodge, 2000, p. 230)
+
+- “How wide the gulf between Henry as he was and Henry as Helen thought he ought to be! And she herself—hovering as usual between the two, now accepting men as they are, now yearning with her sister for Truth. Love and Truth—their warfare seems eternal. Perhaps the whole visible world rests on it, and, if they were one, life itself, like the spirits when Prospero was reconciled to his brother, might vanish into air, into thin air.” (Forster and Lodge, 2000, p. 230)
+
+### ch. 27
