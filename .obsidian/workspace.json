@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Forster and Lodge, Howards End."
             }
+          },
+          {
+            "id": "a884c969580f57b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "9a14cb8b0c453936",
+  "active": "a884c969580f57b8",
   "lastOpenFiles": [
     "z. Assets/source_notes/@arnoldArnoldCultureAnarchy1993.md",
     "Readings/Texts/Paper 4/Forster and Lodge, Howards End..md",
