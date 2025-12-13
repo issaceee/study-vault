@@ -310,3 +310,11 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 ### ch. 25
 
 - “No doubt she had disgraced herself. But she felt their whole journey from London had been unreal. They had no part with the earth and its emotions. They were dust, and a stink, and cosmopolitan chatter, and the girl whose cat had been killed had lived more deeply than they.” (Forster and Lodge, 2000, p. 217)
+
+- “His father accepted this explanation, and neither knew that Margaret had artfully prepared the way for it. It fitted in too well with their view of feminine nature.” (Forster and Lodge, 2000, p. 217)
+
+- “She climbed up the mound in zigzags, and at times stooped down, as if she was stroking the turf. It sounds absolutely incredible, but for a moment Charles thought that she was in love with him, and had come out to tempt him. Charles believed in temptresses, who are indeed the strong man’s necessary complement, and having no sense of humour he could not purge himself of the thought by a smile. Margaret, who was engaged to his father, and his sister’s wedding-guest, kept on her way without noticing him, and he admitted that he had wronged her on this point. But what was she doing? Why was she stumbling about amongst the rubble and catching her dress in brambles and burrs? As she edged round the keep, she must have got to leeward and smelt his cigarsmoke, for she exclaimed, ‘Hullo! Who’s that?’” (Forster and Lodge, 2000, p. 218)
+
+### ch. 26
+
+-  
