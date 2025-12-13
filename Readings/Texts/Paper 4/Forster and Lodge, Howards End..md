@@ -309,3 +309,4 @@ Forster, Edward Morgan, and David Lodge. _Howards End_. Penguin Classics. Pengui
 
 ### ch. 25
 
+- “No doubt she had disgraced herself. But she felt their whole journey from London had been unreal. They had no part with the earth and its emotions. They were dust, and a stink, and cosmopolitan chatter, and the girl whose cat had been killed had lived more deeply than they.” (Forster and Lodge, 2000, p. 217)
