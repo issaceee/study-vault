@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
+                "file": "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Literary Worlds, World Literature.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.md",
+                "file": "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Paraphrase Friend or Foe?.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.md",
+                "file": "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GENW1 Paraphrase Friend or Foe?"
+              "title": "*Form, Experiment, Genre"
             }
           }
         ],
@@ -210,16 +210,24 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "6971defc41656b43",
+  "active": "51f71547af24e58a",
   "lastOpenFiles": [
-    "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
+    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Poetry Circus - Many Voices.md",
+    "Readings/Assignments/Y1T1 Michaelmas/PRE1bW1 Seminar.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Literary Worlds, World Literature.md",
+    "Readings/Assignments/Y1T1 Michaelmas",
+    "Readings/Assignments/Y1T1 Michaelmas/PRE3W1 Seminar.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas",
+    "Readings/Lecture Notes/Untitled.md",
+    "Readings/Assignments/Y1T1 Michaelmas/PRE1bW6 Tut.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Paraphrase Friend or Foe?.md",
     "Readings/Lecture Notes/Michaelmas Y1 Lecture Notes.md",
     "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.baked.md",
-    "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
-    "Readings/Lecture Notes/GENW2 Literary Worlds, World Literature.md",
-    "Readings/Lecture Notes/GENW4 Literary Worlds, World Literature - The Global Middle Ages.md",
-    "Readings/Lecture Notes/PRE3W5 Oscar Wilde.md",
-    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/GENW2 Literary Worlds, World Literature.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/GENW4 Literary Worlds, World Literature - The Global Middle Ages.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W5 Oscar Wilde.md",
     "Readings/Texts/Paper 3/*Identity, Self.md",
     "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
@@ -232,24 +240,16 @@
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
     "Readings/Texts/Paper 4",
-    "Readings/Assignments/PRE1bW6 Tut.md",
     "Readings/Texts/Paper 3/Paper 4",
-    "Readings/Lecture Notes/PRE3W1 Oscar Wilde.md",
-    "Readings/Lecture Notes/PRE3W1 Victorian Taster - Introductory Lecture for Literature, 1830-1900.md",
-    "Readings/Lecture Notes/PRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
-    "Readings/Lecture Notes/PRE3W3 Nineteenth-Century Poetry Circus - Sense and Embodiment, The Body and Sensation.md",
-    "Readings/Assignments/PRE3W7 Class - Realism, Middlemarch.md",
-    "z. Assets/source_notes/@mcgurlNovelArtElevations2002.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Oscar Wilde.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Victorian Taster - Introductory Lecture for Literature, 1830-1900.md",
     "z. Assets/Documents/Cultural Contexts III handout_extended 2024.pdf",
     "z. Assets/Documents/Pasted image 20251113122446.png",
-    "z. Assets/Intro.md",
     "z. Assets/Documents/DetectiveFiction_Handout_2025 (1).pdf",
     "PRE3W8 Tutorial Transcript.txt",
     "z. Assets/Documents/IMG_2678.jpeg",
     "z. Assets/Documents/Intro to OE Set Texts 3 Handout (Wanderer).pdf",
     "PRE3w6 tutorial transcript.txt",
-    "PRE1bW6 seminar transcript.txt",
-    "PRE1bW6 Tut.pdf",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]

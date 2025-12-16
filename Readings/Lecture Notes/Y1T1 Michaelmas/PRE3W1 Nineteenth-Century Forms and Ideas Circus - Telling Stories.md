@@ -281,15 +281,15 @@ Victorian fiction continually acknowledges the **overflow of life beyond narrati
 
 ## Motif Tracker — Recurring Images and Metaphors
 
-| **Motif** | **Example(s)** | **Interpretive Use** |
-|------------|----------------|----------------------|
-| **House / Home** | Henry James’s “house of fiction”; Dickens’s domestic tableaux | Fiction as moral and perceptual architecture; domesticity as both goal and threat |
-| **Fabric / Textile** | Bakhtin’s “Discourse in the Novel” — the text as woven speech | The novel as a hybrid form interlacing many discourses (dialogism) |
-| **Infection / Affection** | *Great Expectations*, Eliot’s essays | Fiction as contagion and cure; empathy as both moral virtue and danger |
-| **Chaos and Syntax** | Kingsley’s dashes; Alton Locke | Style as moral labour — syntax turning chaos into coherence |
-| **Reading / Dreaming** | Egg’s *Travelling Companions*, Leslie’s *Alice in Wonderland* | Reading as creation of private worlds; fiction as mirror of the reader’s mind |
-| **Ghost / Uncanny** | *The Turn of the Screw*, *Bleak House* | Realism haunted by romance; the familiar made strange |
-| **Labour / Profession** | Trollope, the literary market | Fiction as disciplined craft; art as vocation within capitalism |
+| **Motif**                 | **Example(s)**                                                | **Interpretive Use**                                                              |
+| ------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **House / Home**          | Henry James’s “house of fiction”; Dickens’s domestic tableaux | Fiction as moral and perceptual architecture; domesticity as both goal and threat |
+| **Fabric / Textile**      | Bakhtin’s “Discourse in the Novel” — the text as woven speech | The novel as a hybrid form interlacing many discourses (dialogism)                |
+| **Infection / Affection** | *Great Expectations*, Eliot’s essays                          | Fiction as contagion and cure; empathy as both moral virtue and danger            |
+| **Chaos and Syntax**      | Kingsley’s dashes; Alton Locke                                | Style as moral labour — syntax turning chaos into coherence                       |
+| **Reading / Dreaming**    | Egg’s *Travelling Companions*, Leslie’s *Alice in Wonderland* | Reading as creation of private worlds; fiction as mirror of the reader’s mind     |
+| **Ghost / Uncanny**       | *The Turn of the Screw*, *Bleak House*                        | Realism haunted by romance; the familiar made strange                             |
+| **Labour / Profession**   | Trollope, the literary market                                 | Fiction as disciplined craft; art as vocation within capitalism                   |
 
 ---
 
