@@ -23,23 +23,32 @@
 ### A. Dominant Formal Problem
 **How can inherited narrative forms register a rapidly transforming social world?**
 
-- Formal strain rather than formal play
-- Pressure placed on existing structures
+- The problem is not invention of new form, but **strain placed on old ones**
+	- Romantic inwardness proves insufficient for industrial, urban, class-divided reality
+	- By the end of the century, fiction had turned its gaze inward. The novel becomes not just a medium that *contains* art but one that *is* art.  
+	- ==insert a quote from a secondary source
+
 
 ---
 
 ### B. Novel Form: Expansion under Pressure
 
 **Macro**
-- Novel stretches to absorb history, class, labour, urbanisation, moral pedagogy
+- The novel stretches to absorb:
+	- Industrial labour
+	- Class mobility and immobility
+	- Urban anonymity
+	- Moral education
 
 **Micro (formal tensions)**
-- Plot as social circuitry rather than private destiny
-- Narration oscillates between didactic authority and sympathetic immersion
-- Multiplicity of characters as structural response to complexity
+- Plot functions as **social circuitry**, linking disparate lives
+- Narration oscillates between:
+	- Authorial moral authority
+	- Sympathetic immersion in individual experience
+- Large casts respond to the sense that **no single consciousness is adequate**
 
 **Historically experimental because**
-- Novel functions as a social totality, not merely a story
+- The novel claims the authority to represent **society as a whole**, not just private life
 
 **Exam pressure points**
 - Uses of form
@@ -56,7 +65,7 @@
 	- Science and Form
 
 **Key conceptual hook**
-> Early Victorian experimentation works by overburdening form rather than breaking it.
+> The early Victorian novel experiments by **overburdening form**, trusting that narrative elasticity can hold social excess.
 
 ---
 
@@ -71,57 +80,69 @@
 ### Seriality, Depth, and Structural Intelligence
 
 ### A. Dominant Formal Problem
-**How can form manage scale without losing coherence or ethical seriousness?**
+**How can form manage scale without collapsing into incoherence or melodrama?**
 
 ---
 
 ### B. Seriality as Formal Experiment
 
 **Macro**
-- Serial publication reshapes narrative logic
+- Serial publication becomes a **structuring principle**, not a commercial accident
 
 **Micro**
-- Episodic rhythm vs long-range plotting
-- Repetition with variation
-- Suspense as structural principle
+- Episodic rhythm balanced against long-term design
+- Repetition with variation creates memory across instalments
+- Suspense becomes a way of **training ethical attention**
 
 **Historically experimental because**
-- Narrative is written in time; reader response folded into form
+- Narrative is written **in time**, incorporating anticipation, delay, and reader expectation
+
+**Representative texts / authors**
+- Dickens (mature novels)
+- Trollope
 
 **Exam pressure points**
-- Narrative structure
-- Popular vs serious literature
-- Readerly experience
+- Narrative structure  
+- Popular vs serious literature  
+- Readerly experience  
+
+**High-yield idea**
+> Seriality turns narrative form into a lived temporal process.
 
 ---
 
 ### C. Interiorisation and Structural Depth
 
 **Macro**
-- Increasing attention to consciousness, motive, moral hesitation
+- The novel increasingly models **moral and psychological complexity**
 
 **Micro**
-- Free indirect discourse
-- Retrospective narration
-- Ethical reflection embedded into narrative pacing
+- Free indirect discourse allows:
+  - Distance without detachment
+  - Sympathy without sentimentality
+- Retrospective narration produces ethical judgement through time
+- Pacing mirrors moral hesitation
+
+**Representative texts / authors**
+- George Eliot
+- Henry James (early)
 
 **Key tension**
-- Social breadth vs psychological depth
+- Social totality vs inward depth
+
+**High-yield idea**
+> Formal sophistication replaces moral certainty as the guarantor of seriousness.
 
 ---
 
 ### D. Hybrid Genre Logic: Novel as Thinking Machine
 
-- Novel + philosophy
-- Novel + sociology
-- Novel + ethics
+**Hybrid combinations**
+- Novel + philosophy (ethics, sympathy, judgement)
+- Novel + sociology (custom, habit, institutions)
+- Novel + psychology (motive, self-division)
 
-> This is not genre confusion; it is genre ambition.
-
-**Modular concepts**
-- Form as ethical testing ground
-- Narrative intelligence
-- Sympathy as technique, not sentiment
+> This is not genre confusion but **genre ambition**.
 
 ---
 
@@ -130,28 +151,37 @@
 ### A. Poetry: Concentration rather than Expansion
 
 **Experiment**
-- Dramatic monologue as hybrid of lyric, drama, and narrative
-- Voice as structural problem
+- Dramatic monologue fuses:
+  - Lyric intensity
+  - Narrative situation
+  - Dramatic address
 
-**Key idea**
-> While the novel expands outward, poetry experiments inward.
+**Formal problem**
+- How to represent consciousness **without authorial endorsement**
+
+**Representative poets**
+- Browning
+- Tennyson
 
 **Exam pressure points**
-- Voice
-- Persona
-- Form and psychology
+- Voice  
+- Persona  
+- Form and psychology  
+
+**High-yield idea**
+> Victorian poetry experiments by compressing conflict into voice.
 
 ---
 
 ### B. Drama: Spectacle versus Interior Meaning
 
 **Experiment**
-- Melodrama as exaggerated moral staging
-- Later resistance to spectacle in favour of ambiguity
+- Melodrama exaggerates moral conflict
+- Later drama resists spectacle in favour of ambiguity
 
 **Hybrid logic**
-- Theatre + moral debate
-- Theatre + social critique
+- Theatre as social critique
+- Performance as moral testing ground
 
 ---
 
@@ -161,46 +191,58 @@
 ### A. Dominant Formal Problem
 **What is form allowed to do — and what must it refuse?**
 
+- Growing suspicion of realism’s moral transparency
+- Heightened awareness of **style as mediation**
+
 ---
 
 ### B. Aestheticism and Decadence: Style as Form
 
 **Macro**
-- Style foregrounded as meaning
+- Style foregrounded as meaning rather than vehicle
 
 **Micro**
 - Fragmentation
 - Epigrammatic compression
-- Sensuous surface vs ethical depth
+- Sensuous surface competing with ethical depth
 
 **Historically experimental because**
-- Form performs meaning rather than merely carrying it
+- Form does not represent meaning; it **performs it**
+
+**Representative authors / texts**
+- Wilde
+- Pater
+- Late James
 
 **Exam pressure points**
-- Jewelled style
-- Artifice vs sincerity
-- Autonomy of art
+- Jewelled style  
+- Artifice vs sincerity  
+- Autonomy of art  
+
+**High-yield idea**
+> Late Victorian experiment lies in treating form itself as the subject of art.
 
 ---
 
 ### C. Genre Instability as Principle
 
 **Hybrid logic intensified**
-- Novel + essay
 - Fiction + criticism
+- Novel + essay
 - Art + life writing
-
-> Hybridity becomes self-aware and polemical.
 
 **Key tension**
 - Form as liberation vs form as evasion
 
+**High-yield idea**
+> Hybridity becomes self-aware, even polemical.
+
 ---
 
 ### D. Modular Concepts
-- Surface depth
-- Anti-realism within realism
-- Form as self-commentary
+- Surface depth  
+- Anti-realism within realism  
+- Form as self-commentary  
 
 ---
 
@@ -212,16 +254,19 @@
 **Continuities**
 - Narrative experimentation
 - Hybrid genres
-- Self-conscious form
+- Formal self-consciousness
 
 **New pressures**
-- Time
-- Memory
-- Fragmentation
-- Impression over sequence
+- Time as perception rather than sequence
+- Memory as fragmentary
+- Impression over plot
 
-**Key idea**
-> Modernism condenses Victorian experiments rather than replacing them.
+**Representative figures**
+- Late James
+- Conrad (early)
+
+**High-yield idea**
+> Modernism condenses Victorian formal experiments rather than abolishing them.
 
 ---
 
@@ -229,17 +274,17 @@
 
 Use this section to:
 - Answer questions on experimentation with genre
-- Frame Victorian writing as formally restless
-- Resist simplistic accounts of Victorian realism
+- Challenge clichés of “stable Victorian realism”
+- Frame the period as **formally restless and self-reflective**
 
 ---
 
-## VI. High-Yield Concept Bank
+## VI. High-Yield Concept Bank (Memorisable)
 
-- Victorian experimentation works through intensification rather than rupture.
-- Hybridity is a structural necessity across the period, not a late anomaly.
-- Form operates as a site of social and ethical testing.
-- The novel’s power lies in its ability to sustain contradiction.
+- Victorian experimentation works through **intensification rather than rupture**.
+- Hybridity is a **structural necessity**, not a late aberration.
+- Form becomes a **site of ethical and social testing**.
+- The novel’s power lies in its ability to **sustain contradiction without resolving it**.
 
 ---
 
@@ -247,14 +292,9 @@ Use this section to:
 
 For any Paper 3 question:
 1. Identify the dominant historical phase
-2. Isolate one core formal tension
+2. Isolate one formal tension
 3. Add one hybrid or experimental pressure
 4. Use cross-decade contrast to show progression
-
-
-
-
-
 
 
 
