@@ -171,6 +171,8 @@
 **High-yield idea**
 > Victorian poetry experiments by compressing conflict into voice.
 
+> If the novel experiments by expansion, poetry experiments by compression.
+
 ---
 
 ### B. Drama: Spectacle versus Interior Meaning
