@@ -51,6 +51,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "c4404eb11de0be3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aece7b0f9ce8eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -210,8 +231,11 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "6971defc41656b43",
+  "active": "51f71547af24e58a",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
+    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
+    "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.charbackup.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/header.tex",
@@ -221,8 +245,6 @@
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build_obsidian.py",
-    "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
-    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Poetry Circus - Many Voices.md",
     "Readings/Assignments/Y1T1 Michaelmas/PRE1bW1 Seminar.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Literary Worlds, World Literature.md",
@@ -238,7 +260,6 @@
     "Readings/Lecture Notes/Y1T1 Michaelmas/GENW4 Literary Worlds, World Literature - The Global Middle Ages.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W5 Oscar Wilde.md",
     "Readings/Texts/Paper 3/*Identity, Self.md",
-    "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
     "Readings/Texts/Paper 3/*Time, Memory, Past.md",
     "Readings/Texts/Paper 4/Forster and Lodge, Howards End..md",
