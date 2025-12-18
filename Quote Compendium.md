@@ -388,4 +388,7 @@
 ##
 
 i feel like should find one more poem and one play (im thinking Wilde's Salome)
+- Aubrey Beardsley
+		- Oscar Wilde's most decadent book - *Salome*
+		- illustrated the book ^
 and maybe one more feminist writing - maybe a Bronte sister? 

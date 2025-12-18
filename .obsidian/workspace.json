@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "salome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,9 @@
   },
   "active": "535fbfbb288b06fe",
   "lastOpenFiles": [
-    "Readings/Texts/Paper 3/Patterns/4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN.md",
+    "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.backup.md",
     "Quote Compendium.md",
+    "Readings/Texts/Paper 3/Patterns/4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN.md",
     "Readings/Assignments/Y1T1 Michaelmas/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Assignments/Y1T1 Michaelmas/PRE3W8 Tutorial -  Art.md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
@@ -203,7 +205,6 @@
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.charbackup.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/header.tex",
-    "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.backup.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/remove_yaml_from_merged.py",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build_obsidian_fix.py",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.md",
