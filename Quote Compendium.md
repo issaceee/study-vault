@@ -360,7 +360,7 @@
 - Sound carries history where prose cannot.
 - [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> (“Of the Sorrow Songs”) “Through all the sorrow of the Sorrow Songs there breathes a hope.”
+> (“Of the Sorrow Songs”) “Through all sorrow of the Sorrow Songs there breathes a hope.”
 - Metaphorical respiration (“breathes”) frames expression as living, not explanatory.
 - Meaning is affective and collective rather than analytical.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
@@ -384,3 +384,8 @@
 - Du Bois theorises what Douglass stages: voice that survives through sound, memory, and collective expression. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
 - Time operates as persistence rather than rupture; emancipation does not erase history. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
 - Authority is reclaimed through lyric address rather than empirical demonstration. [[1. AUTHORITY & ITS PERFORMANCE]]
+
+##
+
+i feel like should find one more poem and one play (im thinking Wilde's Salome)
+and maybe one more feminist writing - maybe a Bronte sister? 
