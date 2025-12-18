@@ -2,40 +2,91 @@
 
 PRE 3
 
-## "In an Artists Studio" Christina Rosetti
-- an artist’s overwhelming devotion to his painting subject, a relationship that descends into obsession and possession.
--  artistic idealization can become an act of self-absorbed destruction, thereby reducing women to passive objects of the male fantasy
--  However, at the same time, Rossetti presents an opportunity for women to exist of their own accord and possess a sense of self-agency, resisting this control. Despite this agency being only granted to women in a state separate, or in an environment, absent, of men or audiences, Rossetti posits that this absence is precisely the very condition of authentic female expression.
 
-- From the onset of the poem, the singular “one face” is juxtaposed against “all his canvases”, 
-	- highlighting the pervasiveness of the painting subject in the artist’s creation
-- “he feeds upon her face by day and night”. 
-	- The diction of “feeds” animalises the artist, suggesting a predatory hunger that devours rather than creates. 
-	- extensiveness of the temporal “day and night” reinforces the relentlessness of this devouring impulse, highlighting a sense of animalistic, self-absorbed destruction.
-	- ==> subverts the devotion presented in the octave of the poem, with the pervasiveness of the painting subject no longer seeming to signify the artist’s devotion, but merely a means of the artist in his endeavour to consume as much of the subject as possible.
-- purpose of the painting subject seems to be to “[fill] his dream”
-	- imagery of “fill” and “feed”, all point to a common motif of hunger, one that is never-ending and never fulfilled.
-- use of poetic structure in “fair as the moon and joyful as the light: / Not wan with waiting, not with sorrow dim;”.
-	- immediate contrast between the clauses and the emphatic, insistent repetition of “not” constructs a fragile denial of the suffering of the woman that paradoxically reveals its presence.
-- woman is described through negation — “not wan with waiting, not with sorrow dim”
-	-  the emphatic use of “not” in the last three lines of the poem, serve to position the woman’s true self in the negatives. 
-	- Through the use of linguistic negation, the entire construction of the woman’s identity throughout the poem is turned on its head, allowing what is unsaid to reveal more than what is written
-	- The consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the petrarchan sonnet that masks the artist’s devouring impulses. 
-	- ==> the woman builds a powerful sense of selfhood that makes the woman’s reality of being “wan with waiting” and “with sorrow dim” much more real than that of any of the artist’s paintings
+## Christina Rossetti — *In an Artist’s Studio*
 
+> “One face looks out from all his canvases.”
+- Grammatical subject is “face,” not woman → visibility without agency; the woman exists only as an image, not a speaker.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “He feeds upon her face by day and night.” to "[fill] his dream"
+- Verb “feeds” and "fill" animalises the artist; temporal extensiveness of "day AND night" → devotion collapses into consumption; artistic creation becomes relentless predatory hunger.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “Not wan with waiting, not with sorrow dim.”
+- Identity constructed through negation →  constructs a fragile denial of the suffering of the woman that paradoxically reveals its presence →  the woman’s selfhood exists in what is refused articulation; silence becomes a mode of resistance rather than absence
+- consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the petrarchan sonnet that masks the artist’s devouring impulses.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
 #### Main Points
-- adoption of petrarchan sonnet form to hollow it out from within (initially appears harmonious, yet grammar undermines harmony)
+- adoption of petrarchan sonnet form to hollow it out from within (initially appears harmonious, yet grammar undermines harmony) [[*Form, Experiment, Genre]]
 - demonstrates how an inherited form can be used against itself [[*Form, Experiment, Genre]]
 - allows for a construction of a feminine self that is autonomous in the absence of the male --> one that refuses to speak and refuses a voice [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]], [[1. AUTHORITY & ITS PERFORMANCE]]
-- 
+
 
 
 ## "At Chrighton Abbey" Mary Elizabeth Braddon
 
-- silence produced by narrative closure
 
-- "All was told" appears to promise total revelation, yet its brevity and passivity do the opposite
-	- appears to promise total revelation, yet its brevity and passivity do the opposite
-	- expansive determiner “all” gestures toward completeness, but the passive construction “was told” suppresses agency
-	- ==> Who tells? To whom? The sentence forecloses these questions rather than answering them [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-- 
+## Mary Elizabeth Braddon — *At Chrighton Abbey*
+
+> “All was told.”
+- Totalising determiner “all” gestures toward completeness, while the passive construction “was told” suppresses agency → the sentence promises revelation yet performs narrative foreclosure.
+- ⇒ Who tells? To whom? These questions are foreclosed rather than answered; silence is produced not by absence of information, but by the exhaustion of narrative authority.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+
+> “I stood at my window quite calmly, and watched while the group of men and animals in the yard below noiselessly dispersed.”
+- Adverbs “calmly” and “noiselessly” flatten affect → terror is replaced by detachment; the supernatural is registered only in a muted, observational mode.
+- The narrator’s position (“at my window”) places her at the threshold of experience → proximity without agency; witness rather than participant.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “There was nothing supernatural in the manner of their disappearance.”
+- Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
+- Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
+- [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+#### Main Points
+- Silence is produced through narrative closure rather than absence of events → the story refuses explanatory consolation.  
+- signals not knowledge achieved, but knowledge exhausted; refuses the consolations of explanation and marking limits of narrative [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+- The ghost story form is hollowed out from within: instead of revelation or terror, Braddon offers detachment, repetition, and inevitability. [[*Form, Experiment, Genre]]  
+- Sarah’s narrative position (inside the house but outside inheritance) models a gendered proximity without authority → silence marks structural exclusion rather than mystery. [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+
+## Arthur Conan Doyle — *The Adventure of the Speckled Band*
+
+> “I want to see whether the objections are fatal, or if they may be explained away.”
+- Sets up a false binary between rational explanation and catastrophic threat → anxiety must either be neutralised by reason or become “fatal”.
+- Verb phrase “explained away” already signals repression rather than understanding; danger is managed, not confronted.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; 
+
+> “I had come to an entirely erroneous conclusion, which shows, my dear Watson, how dangerous it always is to reason from insufficient data.”
+- Absolutist diction (“entirely”, “always”) frames logic as moral discipline → reason becomes an ethical corrective.
+- “Insufficient data” imports scientific discourse, positioning detection as quasi-empirical method.
+- [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> “The house is a little dilapidated, but the doctor has made some repairs, and has added a wing.”
+- Architectural division stages a split between decay and modernity → spatial metaphor for imperial anxiety.
+- “Added a wing” suggests unnatural extension rather than organic growth; domestic space already compromised.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “From outside came the occasional cry of a night-bird, and once at our very window a long drawn catlike whine.”
+- Sound replaces speech → the ‘exotic’ is rendered as noise rather than voice.
+- Animalistic imagery (“night-bird”, “catlike”) dehumanises the external threat and displaces it beyond articulation.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> “The band! The speckled band!”
+- Syntactic breakdown at moment of revelation → language fractures precisely when truth is disclosed.
+- Repetition substitutes for explanation; meaning emerges through affect rather than clarity.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[*Form, Experiment, Genre]]
+
+> “Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another.”
+- Moral aphorism retroactively stabilises the narrative → ethical closure imposed after epistemic collapse.
+- “In truth” signals insistence, not discovery; reassurance replaces analysis.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+#### Main Points
+- Detective fiction promises rational mastery, yet relies on repression, displacement, and architectural misdirection.  
+- Imperial anxiety is externalised as animalistic sound rather than articulated voice → empire is present but unspeakable.  
+- Closure is achieved not through full understanding, but through moral aphorism and narrative containment. [[*Form, Experiment, Genre]]  
+- Holmes’s authority depends on managing anxiety rather than resolving it → reason explains danger away rather than confronting its source. [[1. AUTHORITY & ITS PERFORMANCE]]
+
+
