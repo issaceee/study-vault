@@ -24,7 +24,6 @@ PRE 3
 
 
 
-## "At Chrighton Abbey" Mary Elizabeth Braddon
 
 
 ## Mary Elizabeth Braddon — *At Chrighton Abbey*
@@ -90,3 +89,41 @@ PRE 3
 - Holmes’s authority depends on managing anxiety rather than resolving it → reason explains danger away rather than confronting its source. [[1. AUTHORITY & ITS PERFORMANCE]]
 
 
+## Edgar Allan Poe — “The Unparalleled Adventure of One Hans Pfaall”
+
+> “Now, the mean or average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii… the form of the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis…”
+- Extreme numerical specificity and technical lexis (“equatorial radii”, “ellipse of eccentricity”) simulate empirical authority through precision rather than verifiability.
+- Numbers overwhelm the reader into belief; science functions as rhetorical performance rather than reproducible method.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “I had been strengthened in my opinion by certain observations of Mr. Schroeter, of Lilienthal… as well as the aeronautic expedition of Messieurs Gay-Lussac and Biot.”
+- Dense citation situates Hans within a web of scientific authority, borrowing legitimacy from named figures and expeditions.
+- Knowledge appears cumulative and communal, yet remains second-hand and unverifiable.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “The whole of my discovery was due to the accident of my foot becoming entangled… most providentially entangled.”
+- Scientific ‘breakthrough’ attributed to accident and contingency rather than method.
+- The adverb “providentially” introduces theological causation into empirical narrative, collapsing science into chance and belief.
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> “Imagination, feeling herself for once unshackled, roamed at will.”
+- Personification and lyrical cadence mark a decisive shift from scientific report to poetic reverie.
+- Experimentation gives way to aesthetic experience; imagination sustains the narrative where method fails.
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “The loss of my little family of cats… deprived me of the insight which a continued experiment might have afforded.”
+- Affective diction (“little family”) contaminates the empirical register; emotional attachment replaces detachment.
+- Destruction of experimental subjects prevents verification, converting science into narrative without method.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> “I promise nothing complete.”
+- Explicit refusal of completeness undermines encyclopaedic and scientific closure.
+- Incompleteness becomes a formal principle rather than a temporary failure.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+#### Main Points
+- Scientific authority is staged through jargon, numbers, and citation, but repeatedly collapses into accident, affect, and imagination. [[1. AUTHORITY & ITS PERFORMANCE]]  
+- The text oscillates between empirical and poetic registers, revealing science’s dependence on narrative and aesthetic persuasion. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]  
+- Knowledge is communal yet unverifiable, contingent on chance rather than method. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
+- Refusal of completeness and closure parodies the scientific report and exposes epistemic limits. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]  
+- Time and progress are disrupted by accident and memory rather than linear discovery. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
