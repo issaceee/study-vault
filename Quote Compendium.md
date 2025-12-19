@@ -65,12 +65,7 @@
 > “From outside came the occasional cry of a night-bird, and once at our very window a long drawn catlike whine.”
 - Sound replaces speech → the ‘exotic’ is rendered as noise rather than voice.
 - Animalistic imagery (“night-bird”, “catlike”) dehumanises the external threat and displaces it beyond articulation.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
-> “The band! The speckled band!”
-- Syntactic breakdown at moment of revelation → language fractures precisely when truth is disclosed.
-- Repetition substitutes for explanation; meaning emerges through affect rather than clarity.
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[*Form, Experiment, Genre]]
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]]; [[1. AUTHORITY & ITS PERFORMANCE]]; 
 
 > “Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another.”
 - Moral aphorism retroactively stabilises the narrative → ethical closure imposed after epistemic collapse.
