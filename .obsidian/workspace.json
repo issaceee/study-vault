@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
+                "file": "Quote Compendium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. AUTHORITY & ITS PERFORMANCE"
+              "title": "Quote Compendium"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -183,6 +184,12 @@
   },
   "active": "535fbfbb288b06fe",
   "lastOpenFiles": [
+    "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
+    "Readings/Texts/Paper 3/*Time, Memory, Past.md",
+    "Readings/Texts/Paper 3/*Identity, Self.md",
+    "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
+    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
+    "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Quote Compendium.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.backup.md",
     "Readings/Texts/Paper 3/Patterns/4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN.md",
@@ -192,15 +199,12 @@
     "Readings/Texts/Paper 3/Patterns/5. TIME, MEMORY, AND HISTORICAL PRESSURE.md",
     "Readings/Texts/Paper 3/Patterns/3. SURFACE, DEPTH, AND THE CRISIS OF REALISM.md",
     "Readings/Texts/Paper 3/Patterns/2. CLOSURE, ENDINGS, AND CONTAINMENT.md",
-    "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
     "Form, Experiment, Genre.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Literary Worlds, World Literature.md",
     "Empire & Authority.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/GENW1 Paraphrase Friend or Foe?.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
-    "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
     "Readings/Texts/Paper 3/Patterns",
-    "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.charbackup.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/header.tex",
@@ -215,9 +219,6 @@
     "Readings/Assignments/Y1T1 Michaelmas/PRE3W1 Seminar.md",
     "Readings/Lecture Notes/Y1T1 Michaelmas",
     "Readings/Lecture Notes/Untitled.md",
-    "Readings/Assignments/Y1T1 Michaelmas/PRE1bW6 Tut.md",
-    "Readings/Lecture Notes/Michaelmas Y1 Lecture Notes.md",
-    "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.baked.md",
     "Untitled.base",
     "z. Assets/Documents/Pasted image 20251113122446.png",
     "z. Assets/Documents/IMG_2678.jpeg",

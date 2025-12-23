@@ -28,15 +28,16 @@
 - ⇒ Who tells? To whom? These questions are foreclosed rather than answered; silence is produced not by absence of information, but by the exhaustion of narrative authority.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
+> “There was nothing supernatural in the manner of their disappearance.”
+- Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
+- Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
+- [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
 > “I stood at my window quite calmly, and watched while the group of men and animals in the yard below noiselessly dispersed.”
 - Adverbs “calmly” and “noiselessly” flatten affect → terror is replaced by detachment; the supernatural is registered only in a muted, observational mode.
 - The narrator’s position (“at my window”) places her at the threshold of experience → proximity without agency; witness rather than participant.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “There was nothing supernatural in the manner of their disappearance.”
-- Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
-- Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
-- [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
 #### Main Points
 - Silence is produced through narrative closure rather than absence of events → the story refuses explanatory consolation.  
