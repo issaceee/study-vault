@@ -381,6 +381,145 @@
 - Time operates as persistence rather than rupture; emancipation does not erase history. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
 - Authority is reclaimed through lyric address rather than empirical demonstration. [[1. AUTHORITY & ITS PERFORMANCE]]
 
+
+## Leopold Lewis — *The Bells*
+
+> “(Distant sound of Bells heard.) … ‘Bells! Bells!’”
+- begins with sound rather than speech → dramatic meaning initiated by aural sensation, not dialogue
+- adjective “distant” denies visible source → audience cannot attach sound to an object or agent → causal attribution withheld
+- Mathias and villagers forced into reactive positions → listening, pausing, interpreting *after* the sound rather than before it
+- epistemology becomes retrospective rather than prospective → meaning arrives as reaction, not reasoning
+==> dramatic hierarchy inverted: sensation dictates interpretation; speech becomes fragmentary commentary → authority (burgomaster, law, communal narrative) depends on capacity for coherent speech, which Mathias progressively loses  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> “The back of the Scene rises and sinks, disclosing the Bridge of Vechem… the scene is seen through a gauze; lime light.”
+- stage mechanics externalise memory → past is not narrated but staged
+- gauze + limelight signal mediation → vision neither fully real nor dismissible as fantasy
+- scenery performs cognition → memory becomes spatial and visual rather than linguistic
+- spectacle produces “evidence” where testimony fails
+==> realism hollowed out from within: theatrical illusion becomes the means of truth-production while simultaneously exposing its own artifice  
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
+
+> “Mathias utters a prolonged cry of terror, and falls senseless.”
+- speech collapses into involuntary sound → cry replaces declarative language
+- senselessness terminates juridical accountability → no confession, no explanation, no defence
+- authority relocated from speaking subject to failing body
+==> drama stages guilt as physiological compulsion rather than articulable knowledge → actor becomes acted upon  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “We all know that there are no such things [as ghosts], but—”
+- declarative denial cut short → grammar itself fails to complete rational reassurance
+- communal disbelief asserted yet immediately destabilised by interruption
+==> sentence enacts epistemic breakdown: rational explanation cannot finish itself in the face of sensory recurrence  
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+#### Main Points
+- sound displaces dialogue as primary dramatic organiser  
+- stagecraft replaces testimony as mode of truth  
+- bodily collapse substitutes for narrative resolution  
+- *The Bells* stages failure of representational realism via sensory compulsion and theatrical artifice  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+---
+
+## Arthur Wing Pinero — *Trelawny of the “Wells”*
+
+> “A large black trunk, the lid bulging with its contents… some soiled theatrical finery.”
+- theatre introduced as material archive rather than living form → performance survives as residue, not practice
+- “bulging” and “soiled” signal excess and exhaustion rather than value or reverence
+- theatrical identity displaced onto objects → acting reduced to stored remnants
+==> authority of performance already compromised before dialogue begins; theatre appears as cluttered afterlife rather than expressive medium  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
+
+> “Lovely youth should be shown decked uncompromisingly as it was at the time… at the risk… of pointing the chastening moral that… it may appear… not to have been beauty at all.”
+- explicit refusal of aesthetic correction → past staged as visibly awkward and unassimilable
+- theatrical beauty historicised into contingency rather than essence
+- acting bodies made to carry historical difference rather than transcend it
+==> performance exposes its own obsolescence; theatrical authority depends on taste that no longer holds  
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
+
+> “The SCENE represents the stage of a theatre, the footlights and proscenium arch of the actual stage being the proscenium arch and footlights of the mimic stage.”
+- collapse of representational boundary → no stable ‘outside’ the performance
+- apparatus foregrounded → illusion deliberately dismantled
+- audience forced to confront theatre as mechanism rather than transparent medium
+==> drama stages its own conditions of production; theatrical authority becomes self-exposing and unstable  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “The wings and borders… should suggest by their shabbiness a theatre fallen into decay… lit by a dismal light.”
+- decay built into visual field → theatre figured as ruined space
+- lighting denies warmth or immersion → atmosphere of exhaustion rather than enchantment
+- spatial degradation mirrors cultural exhaustion of melodramatic form
+==> theatre becomes Gothic structure in itself: a site of residue, not renewal  
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
+
+> “The scene represents a spacious drawing-room… solemn, formal, and depressing… the lamps are lighted, but the curtains are not drawn, and outside the windows it is twilight.”
+- domestic interior staged as oppressive rather than intimate
+- half-light and undrawn curtains produce liminal visibility → neither public nor private
+- space disciplines bodies through stillness, boredom, and enforced quiet
+==> realism performs containment through atmosphere rather than persuasion; authority maintained spatially, not rhetorically  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “No music when the Vice Chancellor is within doors.”
+- sound explicitly regulated → performance policed through silence
+- aesthetic expression subordinated to institutional authority
+- theatre and music framed as disturbances to civic order
+==> dramatic expression survives only as suppressed potential; authority depends on controlling the sensory field  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+#### Main Points
+- *Trelawny* locates dramatic meaning in staging, props, lighting, and spatial regulation rather than dialogue  
+- theatre is figured as decaying apparatus: performance survives as residue, discipline, and constraint  
+- realism asserts authority by suppressing spectacle, yet is haunted by theatrical excess it cannot erase  
+- pairs structurally with *The Bells*: historical exhaustion of form vs sensory compulsion and breakdown  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+---
+
+## (Secondary) Kelly Jones — *The Theatrical Gothic in the Nineteenth Century*
+
+> “Attempts to repress the Gothic on stage were met with an increasingly Gothic representation of the theatre itself.”
+- Gothic displaced from content to form → theatre becomes haunted medium
+- failure of realism produces Gothic effects at level of space, spectacle, and embodiment
+==> legitimises reading late-century drama as staging formal breakdown rather than Gothic themes  
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[*Form, Experiment, Genre]]
+
+> “The autonomy of the actor’s body became threatened as the spectacle expanded.”
+- spectacle overrides actorly control → body subordinated to machinery and effect
+- actor no longer primary source of meaning
+==> theoretical frame for Mathias’s collapse and Pinero’s prop-dominated stage  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> “The theatre itself becomes a site of Gothic disturbance rather than resolution.”
+- drama no longer resolves anxiety → stages it as persistent malfunction
+==> theatre figures its own limits rather than offering closure  
+- [[*Form, Experiment, Genre]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+#### Main Points
+- Jones reframes Gothic as formal pressure, not genre content  
+- supports reading drama as medium under strain  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+---
+
+## (Secondary) Iwan Rhys Morus — *Worlds of Wonder*
+
+> “Authority was the outcome of successful performance.”
+- authority contingent on convincing enactment rather than truth itself
+- performance failure = authority failure
+==> transferable model for theatrical legitimacy  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “When performances misfired, they exposed the fragility of authority itself.”
+- misfire reveals dependence on illusion
+- breakdown becomes diagnostic, not accidental
+==> theatrical failure exposes social power as performative  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+#### Main Points
+- Morus supplies performance-based model of authority  
+- useful bridge between spectacle (Jones) and dramatic breakdown (*The Bells*, *Trelawny*)  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
 ##
 
 i feel like should find one more poem and one play (im thinking Wilde's Salome)
