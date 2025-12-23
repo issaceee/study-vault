@@ -599,3 +599,31 @@
 - Morus supplies performance-based model of authority
 - useful bridge between spectacle (Jones) and dramatic breakdown (*The Bells*, *Trelawny*)
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+
+
+##
+
+Christina Rossetti, _In an Artist’s Studio_ → **failure as poetic form**, where grammatical negation hollows the sonnet from within.
+
+Mary Elizabeth Braddon, _At Chrighton Abbey_ → **failure as narrative closure**, where “All was told” exhausts knowledge rather than revealing it.
+
+Arthur Conan Doyle, _The Adventure of the Speckled Band_ → **failure as genre logic**, where detective explanation manages anxiety instead of resolving it.
+
+Edgar Allan Poe, “The Unparalleled Adventure of One Hans Pfaall” → **failure as scientific authority**, where empirical language collapses into spectacle and belief.
+
+Herman Melville, _Moby-Dick_ → **failure as encyclopaedic totality**, where incompleteness becomes the only viable truth.
+
+George Eliot, _Middlemarch_ → **failure as realist knowledge**, where ethical understanding exceeds articulation.
+
+Henry James, _The Figure in the Carpet_ → **failure as interpretation**, where possessive reading turns knowledge into obsession and revenge.
+
+Frederick Douglass, _Narrative of the Life of Frederick Douglass_ → **failure as testimony**, where silence becomes the most ethical speech.
+
+Harriet Beecher Stowe, _Uncle Tom’s Cabin_ → **failure as sentiment**, where sympathy contains rather than dismantles injustice.
+
+W. E. B. Du Bois, _The Souls of Black Folk_ → **failure as empiricism**, where sound and memory carry history beyond explanation.
+
+Leopold Lewis, _The Bells_ → **failure as dramatic explanation**, where sound and spectacle replace reason.
+
+Arthur Wing Pinero, _Trelawny of the “Wells”_ → **failure as theatrical authority**, where performance survives only as discipline and residue.
