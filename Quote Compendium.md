@@ -499,7 +499,6 @@
 
 ---
 
-l
 
 > (Ch. I) “So spoke two of the South’s peculiar institution.”
 - Opening frames slavery through a controlling narratorial voice.
