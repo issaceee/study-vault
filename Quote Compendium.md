@@ -6,9 +6,10 @@
 
 > “One face looks out from all his canvases.”
 - Grammatical subject is “face,” not woman → visibility without agency; the woman exists only as an image, not a speaker.
+- singular one /x expansive "all"
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “He feeds upon her face by day and night.” to "[fill] his dream"
+> “He feeds upon her face by day and night” to "[fill] his dream"
 - Verb “feeds” and "fill" animalises the artist; temporal extensiveness of "day AND night" → devotion collapses into consumption; artistic creation becomes relentless predatory hunger.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
 
