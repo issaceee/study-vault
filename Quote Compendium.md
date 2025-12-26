@@ -17,10 +17,17 @@
 - Identity constructed through negation →  constructs a fragile denial of the suffering of the woman that paradoxically reveals its presence →  the woman’s selfhood exists in what is refused articulation; silence becomes a mode of resistance rather than absence
 - consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the petrarchan sonnet that masks the artist’s devouring impulses.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
+
+### Context
+- Lyric poem by a woman writer operating within a male-coded Petrarchan tradition → inherited form structures a gaze that precedes and constrains female subjectivity.
+- Compression of lyric form leaves no narrative space for dialogue, correction, or self-revision → resistance must occur at the level of grammar and negation rather than speech.
+- Circulation within print culture foregrounds visibility over voice → being seen does not entail being known.
+
 #### Main Points
 - adoption of petrarchan sonnet form to hollow it out from within (initially appears harmonious, yet grammar undermines harmony) [[*Form, Experiment, Genre]]
 - demonstrates how an inherited form can be used against itself [[*Form, Experiment, Genre]]
 - allows for a construction of a feminine self that is autonomous in the absence of the male --> one that refuses to speak and refuses a voice [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]], [[1. AUTHORITY & ITS PERFORMANCE]]
+
 
 ## Mary Elizabeth Braddon — *At Chrighton Abbey*
 
@@ -39,6 +46,10 @@
 - The narrator’s position (“at my window”) places her at the threshold of experience → proximity without agency; witness rather than participant.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
+### Context
+- Sensation / ghost story published within periodical culture → genre promises revelation but is constrained by brevity and closure.
+- Narrative economy of short fiction encourages finality rather than revision → knowledge is sealed rather than developed.
+- Female narrator positioned within, but not empowered by, domestic inheritance structures → proximity to events does not confer authority.
 
 #### Main Points
 - Silence is produced through narrative closure rather than absence of events → the story refuses explanatory consolation.  
@@ -74,6 +85,11 @@
 - “In truth” signals insistence, not discovery; reassurance replaces analysis.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
+### Context
+- Popular detective fiction written for a mass readership invested in reassurance and moral legibility.
+- Genre depends on rational mastery and closure to stabilise social anxiety → explanation functions as containment rather than understanding.
+- Detection aligns with late-Victorian confidence in method, but must suppress what cannot be assimilated into reason.
+
 #### Main Points
 - Detective fiction promises rational mastery, yet relies on repression, displacement, and architectural misdirection.  
 - Imperial anxiety is externalised as animalistic sound rather than articulated voice → empire is present but unspeakable.  
@@ -94,6 +110,11 @@
 - positions empire as something that resurfaces within domestic space
 - provides psychoanalytic vocabulary for misdirection and delayed recognition
 - [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+### Context
+- Late-twentieth-century postcolonial critical intervention drawing on psychoanalytic models.
+- Reframes empire as structurally internal rather than geographically external → anxiety returns within domestic form.
+- Provides vocabulary for understanding misdirection, repression, and delayed recognition in nineteenth-century genres.
 
 #### Main Points
 - Siddiqi provides a structural account of imperial identity rather than a moral one  
@@ -117,6 +138,11 @@
 - foregrounds process rather than identity
 - enables cross-text linkage with Rossetti and Braddon
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
+
+### Context
+- Feminist-materialist critique of popular imperial texts.
+- Shifts attention from individual acts of violence to infrastructural and spatial arrangements.
+- Treats gender not as identity but as a process produced by narrative, architecture, and circulation.
 
 #### Main Points
 - Hennessy & Mohan theorise violence as structural rather than exceptional  
@@ -157,6 +183,11 @@
 - Explicit refusal of completeness undermines encyclopaedic and scientific closure.
 - Incompleteness becomes a formal principle rather than a temporary failure.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+### Context
+- Antebellum print culture where journalism, science, and fiction circulate through the same popular venues.
+- Scientific authority not yet fully institutionalised → credibility must be staged rhetorically rather than secured methodologically.
+- Empirical discourse competes with spectacle and sensation for belief → knowledge depends on persuasion as much as verification.
 
 #### Main Points
 - Scientific authority is staged through jargon, numbers, and citation, but repeatedly collapses into accident, affect, and imagination. [[1. AUTHORITY & ITS PERFORMANCE]]  
@@ -207,6 +238,11 @@
 - Metatheatrical closure gestures toward completion while exposing its contingency.
 - Survival, not resolution or knowledge, structures narrative ending.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+### Context
+- Mid-nineteenth-century American novel engaging with encyclopaedic ambition, scientific discourse, and national myth-making.
+- Expansive prose form permits accumulation without synthesis → knowledge proliferates but refuses totalisation.
+- Print culture enables compilation and quotation, foregrounding mediation and second-hand authority.
 
 #### Main Points
 - *Moby-Dick* destabilises authority by filtering knowledge through parody, marginal figures, and exhausted labour. [[1. AUTHORITY & ITS PERFORMANCE]]  
@@ -267,6 +303,11 @@
 - Dorothea’s impact is real but not monumental.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
+### Context
+- Victorian realist novel published serially → narrative unfolds through delay, interruption, and revision.
+- Serial form resists instantaneous moral resolution → knowledge develops cumulatively rather than epiphanically.
+- Realism emerges as an ethical project attentive to ordinary life, requiring mediation rather than total exposure.
+
 #### Main Points
 - *Middlemarch* defines realism as ethical attention to ordinary suffering rather than dramatic exception. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]  
 - Knowledge (religious, scholarly, scientific) repeatedly overreaches and fails without sympathy and social embeddedness. [[1. AUTHORITY & ITS PERFORMANCE]]  
@@ -274,6 +315,66 @@
 - Time works through accumulation, return, and consequence rather than revolutionary change. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
 - Closure affirms moral influence without heroic transformation. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
+
+## Elizabeth Gaskell — *North and South*
+
+> “Two classes dependent on each other in every possible way... running each other down.”
+- Symmetrical construction exposes mutual dependency alongside mutual antagonism.
+- Neither class possesses epistemic priority → truth is split across irreconcilable perspectives.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “Once brought face to face, man to man… they had each begun to recognise that ‘we have all of us one human heart.’”
+- Ethical recognition emerges only through direct, interpersonal encounter rather than institutional mediation.
+- Abstract systems (union, capital, law) fail where embodied presence succeeds.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “How reconcile those eyes, that voice, with the hard-reasoning, dry, merciless way in which he laid down the axioms of trade?”
+- Sensory immediacy (“eyes”, “voice”) clashes with abstract economic reasoning.
+- Knowledge is divided between felt encounter and ideological systematisation.
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “I do not care to understand.”
+- Explicit refusal of comprehension signals the affective limits of rational discourse.
+- Misunderstanding is not ignorance but emotional and ethical resistance.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+
+> “The dead stand between yo’ and every angry word o’ mine.”
+- Death interrupts political discourse, forcing silence where ideology had dominated.
+- Mortality reorders ethical priority, displacing argument with shared vulnerability.
+- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “There are forms and ceremonies to be gone through, not so much to satisfy oneself, as to stop the world’s mouth.”
+- Social rituals prioritise public legibility over private truth.
+- Communication is shaped by reputational management rather than sincerity.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “No mere institutions… can attach class to class… unless the working out of such institutions bring the individuals… into actual personal contact.”
+- Institutional reform is framed as insufficient without interpersonal relation.
+- The novel privileges ethical proximity over abstract governance.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “And that was death! It looked more peaceful than life.”
+- Death is rendered anti-dramatic, disrupting the novel’s forward political momentum.
+- The narrative pauses rather than resolves → realism refuses consolatory closure.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> “She stood as a liar in his eyes.”
+- Moral judgment is mediated through perception rather than fact.
+- Being *seen* as false outweighs objective truth → reputation supersedes interiority.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+### Context
+- Industrial realist novel published serially → narrative unfolds through delay, interruption, and partial resolution rather than decisive reform.
+- Written in response to mid-century economic upheaval, where industrial conflict is experienced as a crisis of communication rather than purely material opposition.
+- Serial form and “condition-of-England” purpose privilege mediation, conscience, and face-to-face encounter over abstract systems (law, union, capital).
+- Reconciliation is imagined ethically and interpersonally, while structural contradictions remain formally unresolved.
+
+#### Main Points
+- *North and South* stages industrial conflict as an epistemological problem rather than a purely economic one. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+- Abstract systems (capital, unions, doctrine) repeatedly fail to produce ethical understanding. [[1. AUTHORITY & ITS PERFORMANCE]]
+- Knowledge emerges intermittently through face-to-face encounter, death, and shared vulnerability. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+- Serial realist form enables delay, miscommunication, and partial recognition rather than decisive resolution. [[*Form, Experiment, Genre]]
+- Closure gestures toward reconciliation but leaves structural tensions intact. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
 ## Henry James — *The Figure in the Carpet*
 
@@ -308,6 +409,11 @@
 - meaning requires distance, movement, and exchange
 ==> counters the narrator’s eroticised fixation; understanding is produced by collaboration and displacement, not possession
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+### Context
+- Late-nineteenth-century professionalisation of literary criticism → interpretation becomes a public, reputational practice.
+- Magazine culture incentivises originality, possession, and secrecy of meaning rather than shared understanding.
+- Hermeneutic authority is no longer grounded in authorship alone, but in the critic’s ability to perform insight.
 
 #### Main Points
 - James stages interpretation as erotic desire when pursued solitarily and possessively
@@ -380,6 +486,12 @@
 - Authority is mediated through paratext rather than intrinsic.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
+### Context
+- Autobiographical slave narrative produced within abolitionist print networks → Black testimony circulates through, and is constrained by, white-authored paratexts.
+- Genre demands factuality and moral legibility, yet the conditions of enslavement make full articulation dangerous or impossible.
+- Silence functions not as absence, but as a strategic and ethical refusal shaped by collective risk.
+
+
 #### Main Points
 - Voice under slavery is structurally constrained; both speech and silence are punished. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
 - Memory and sound transmit historical knowledge where articulation fails. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
@@ -418,6 +530,11 @@
 - Closure recentres moral agency in exemplary figures.
 - Structural inequalities remain intact beneath sentimental resolution.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+### Context
+- Sentimental novel written for a broad, predominantly white, middle-class readership.
+- Relies on affective identification and narratorial guidance to mobilise moral response.
+- Anti-slavery critique operates through sympathy rather than structural analysis, prioritising emotional conversion over political transformation.
 
 #### Main Points
 - Stowe amplifies voice through sentiment but retains narratorial control. [[1. AUTHORITY & ITS PERFORMANCE]]  
@@ -458,6 +575,11 @@
 - Cultural authority is reclaimed through Black expressive forms.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
+### Context
+- Hybrid text combining sociology, history, lyric prose, and spirituals at the turn of the twentieth century.
+- Written in the aftermath of Reconstruction, where legal emancipation coexists with ongoing racial violence and exclusion.
+- Authority is asserted through address, sound, and form rather than empirical proof or institutional validation.
+
 #### Main Points
 - Du Bois theorises what Douglass stages: voice that survives through sound, memory, and collective expression. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
 - Time operates as persistence rather than rupture; emancipation does not erase history. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
@@ -493,6 +615,12 @@
 - communal disbelief asserted yet immediately destabilised by interruption
 ==> sentence enacts epistemic breakdown: rational explanation cannot finish itself in the face of sensory recurrence
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+### Context
+- Late-nineteenth-century melodrama written for popular theatre audiences.
+- Performance culture privileges sensation, spectacle, and affect over psychological realism.
+- The stage enables sound, light, and bodily response to function as epistemic forces independent of dialogue.
+
 
 #### Main Points
 - sound displaces dialogue as primary dramatic organiser
@@ -546,6 +674,11 @@
 - theatre and music framed as disturbances to civic order
 ==> dramatic expression survives only as suppressed potential; authority depends on controlling the sensory field
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+### Context
+- Late-Victorian realist comedy written in response to changing theatrical tastes.
+- Marks a transition from melodrama to restrained realism, policing spectacle in favour of social decorum.
+- Theatre reflects on its own historical obsolescence, staging performance as residue rather than vitality.
 
 #### Main Points
 - *Trelawny* locates dramatic meaning in staging, props, lighting, and spatial regulation rather than dialogue
@@ -628,3 +761,45 @@ W. E. B. Du Bois, _The Souls of Black Folk_ → **failure as empiricism**, wh
 Leopold Lewis, _The Bells_ → **failure as dramatic explanation**, where sound and spectacle replace reason.
 
 Arthur Wing Pinero, _Trelawny of the “Wells”_ → **failure as theatrical authority**, where performance survives only as discipline and residue.
+
+
+#### Cluster 1 — Silence under constraint
+
+- Rossetti
+    
+- Braddon
+    
+- Douglass
+    
+
+#### Cluster 2 — Authority and containment
+
+- Doyle
+    
+- Stowe
+    
+
+#### Cluster 3 — Epistemic overload / failure
+
+- Poe
+    
+- Melville
+    
+
+#### Cluster 4 — Realism and mediation
+
+- _Middlemarch_
+    
+- _North and South_
+    
+
+#### Cluster 5 — After realism
+
+- Henry James
+    
+
+#### Cluster 6 — Performance & breakdown
+
+- _The Bells_
+    
+- _Trelawny of the “Wells”_
