@@ -586,49 +586,73 @@
 
 ## Leopold Lewis — *The Bells*
 
-> “(Distant sound of Bells heard.) [...] ‘Bells! Bells!’”
-- begins with sound rather than speech → dramatic meaning initiated by aural sensation, not dialogue
-- adjective “distant” denies visible source → audience cannot attach sound to an object or agent → causal attribution withheld
-- Mathias and villagers forced into reactive positions → listening, pausing, interpreting *after* the sound rather than before it
-- epistemology becomes retrospective rather than prospective → meaning arrives as reaction, not reasoning
-==> dramatic hierarchy inverted: sensation dictates interpretation; speech becomes fragmentary commentary → authority (burgomaster, law, communal narrative) depends on capacity for coherent speech, which Mathias progressively loses
+> “(Distant sound of Bells heard.) […] ‘Bells! Bells!’”
+- The bell sound intrudes decisively into the play → narrative progression is interrupted by sensation rather than initiated by explanation.
+- Adjective “distant” withholds spatial and causal attribution → neither audience nor characters can locate an origin, agent, or intention.
+- The repetition “Bells! Bells!” marks a failed attempt to translate sensation into language → speech becomes echo rather than explanation.
+- ⇒ The play trains its audience to **experience before understanding**, undermining the authority of explanation itself.
+- ⇒ Authority (law, reason, communal narrative) is destabilised at the moment sound replaces speech as the primary organiser of meaning.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
-> “The back of the Scene rises and sinks, disclosing the Bridge of Vechem[...] the scene is seen through a gauze; lime light.”
-- stage mechanics externalise memory → past is not narrated but staged
-- gauze + limelight signal mediation → vision neither fully real nor dismissible as fantasy
-- scenery performs cognition → memory becomes spatial and visual rather than linguistic
-- spectacle produces “evidence” where testimony fails
-==> realism hollowed out from within: theatrical illusion becomes the means of truth-production while simultaneously exposing its own artifice
+> “The back of the Scene rises and sinks, disclosing the Bridge of Vechem[…] the scene is seen through a gauze; lime light.”
+- Stage mechanics externalise memory → the past is not narrated but staged.
+- Gauze and limelight signal mediation → vision is neither fully real nor dismissible as fantasy.
+- Scenery performs cognition → memory becomes spatial and visual rather than linguistic.
+- Spectacle produces “evidence” where testimony fails.
+- ⇒ Realism is hollowed out from within: theatrical illusion becomes the means of truth-production while simultaneously exposing its own artifice.
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
 
 > “Mathias utters a prolonged cry of terror, and falls senseless.”
-- speech collapses into involuntary sound → cry replaces declarative language
-- senselessness terminates juridical accountability → no confession, no explanation, no defence
-- authority relocated from speaking subject to failing body
-==> drama stages guilt as physiological compulsion rather than articulable knowledge → actor becomes acted upon
+- Speech collapses into involuntary sound → the cry replaces declarative language.
+- “Prolonged” emphasises duration over content → affect stretches time without producing meaning.
+- Senselessness terminates juridical accountability → no confession, no defence, no explanation.
+- Authority relocates from speaking subject to failing body.
+- ⇒ Guilt is staged as physiological compulsion rather than articulable knowledge.
+- ⇒ The actor becomes acted upon; agency dissolves into sensation.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “We all know that there are no such things [as ghosts], but—”
-- declarative denial cut short → grammar itself fails to complete rational reassurance
-- communal disbelief asserted yet immediately destabilised by interruption
-==> sentence enacts epistemic breakdown: rational explanation cannot finish itself in the face of sensory recurrence
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+> “(Music, forte — while the waltz is at its height the Act Drop falls.)”
+- Music reaches “its height” at the moment narrative is forcibly cut off → sensation culminates where explanation should occur.
+- The Act Drop interrupts interpretation mid-intensity → closure is imposed mechanically rather than earned narratively.
+- Music overwhelms individual speech, dissolving subjectivity into rhythm and collective affect.
+- ⇒ Narrative authority is subordinated to sensory climax; form resolves through interruption, not understanding.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[*Form, Experiment, Genre]]
+
+> “The Crowd: […] move simultaneously, each person performing exactly the same movement of negation”
+- Synchronised movement replaces verbal dissent → judgment becomes bodily reflex rather than articulated reason.
+- “Exactly the same” erases individual perspective → collective response is automated, not deliberative.
+- Gesture of negation (“no”) is enacted physically rather than spoken → refusal becomes ritualised and empty.
+- ⇒ Communal authority persists through choreography, not consensus.
+- ⇒ Realism’s promise of social intelligibility collapses into mechanical repetition.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “The death-bell tolls” […] “The Bells cease.”
+- Sound governs the narrative’s duration → meaning persists only as long as the bell sounds.
+- The bells cease **only with death** → silence is achieved through extinction, not understanding.
+- Resolution is somatic rather than epistemic → the body’s removal restores order.
+- ⇒ Closure is produced by erasure, not reconciliation or truth.
+- ⇒ Silence marks not comprehension, but the end of sensation.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> George R. Sims (*The Evening News*): “the most masterly form of tragic acting that the British stage had seen for many a long day”
+- Critical praise centres on **performance**, not narrative coherence or moral clarity.
+- Emphasis on “acting” reinforces the play’s reliance on bodily and sensory effect.
+- Reception confirms the play’s success as sensation rather than explanation.
+- ⇒ Authority shifts from text to performance, from meaning to impact.
+- [[*Form, Experiment, Genre]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
 ### Context
 - Late-nineteenth-century melodrama written for popular theatre audiences.
 - Performance culture privileges sensation, spectacle, and affect over psychological realism.
 - The stage enables sound, light, and bodily response to function as epistemic forces independent of dialogue.
 
-
 #### Main Points
-- sound displaces dialogue as primary dramatic organiser
-- stagecraft replaces testimony as mode of truth
-- bodily collapse substitutes for narrative resolution
-- *The Bells* stages failure of representational realism via sensory compulsion and theatrical artifice
+- Sound displaces dialogue as the primary dramatic organiser.
+- Stagecraft replaces testimony as the dominant mode of truth-production.
+- Bodily collapse substitutes for narrative and juridical resolution.
+- *The Bells* stages the failure of representational realism through sensory compulsion and theatrical artifice.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
----
 
 ## Arthur Wing Pinero — *Trelawny of the “Wells”*
 
