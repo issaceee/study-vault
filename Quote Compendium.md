@@ -626,7 +626,7 @@
 - ⇒ Realism’s promise of social intelligibility collapses into mechanical repetition.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
-> “The death-bell tolls” […] “The Bells cease.”
+> “The death-bell tolls” […] “The Bells cease.” only once Matthias is dead
 - Sound governs the narrative’s duration → meaning persists only as long as the bell sounds.
 - The bells cease **only with death** → silence is achieved through extinction, not understanding.
 - Resolution is somatic rather than epistemic → the body’s removal restores order.
@@ -648,7 +648,8 @@
 
 #### Main Points
 - Sound displaces dialogue as the primary dramatic organiser.
-- Stagecraft replaces testimony as the dominant mode of truth-production.
+- Stagecraft produces testimony by bypassing intention → truth is extracted through trance, sound, and bodily compulsion rather than reasoned self-disclosure.
+	- ⇒ Realism’s juridical model of truth (confession, explanation, defence) is hollowed out, not replaced.
 - Bodily collapse substitutes for narrative and juridical resolution.
 - *The Bells* stages the failure of representational realism through sensory compulsion and theatrical artifice.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
