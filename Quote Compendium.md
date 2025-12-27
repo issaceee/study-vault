@@ -712,26 +712,6 @@
 
 ---
 
-## (Secondary) Iwan Rhys Morus — *Worlds of Wonder*
-
-> “Authority was the outcome of successful performance.”
-- authority contingent on convincing enactment rather than truth itself
-- performance failure = authority failure
-==> transferable model for theatrical legitimacy
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
-
-> “When performances misfired, they exposed the fragility of authority itself.”
-- misfire reveals dependence on illusion
-- breakdown becomes diagnostic, not accidental
-==> theatrical failure exposes social power as performative
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-#### Main Points
-- Morus supplies performance-based model of authority
-- useful bridge between spectacle (Jones) and dramatic breakdown (*The Bells*, *Trelawny*)
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-
 
 ##
 
