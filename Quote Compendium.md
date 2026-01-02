@@ -179,11 +179,6 @@
 - Destruction of experimental subjects prevents verification, converting science into narrative without method.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
-> ==“I promise nothing complete.”==
-- Explicit refusal of completeness undermines encyclopaedic and scientific closure.
-- Incompleteness becomes a formal principle rather than a temporary failure.
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
 ### Context
 - Antebellum print culture where journalism, science, and fiction circulate through the same popular venues.
 - Scientific authority not yet fully institutionalised → credibility must be staged rhetorically rather than secured methodologically.
