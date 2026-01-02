@@ -70,20 +70,25 @@
 - “Insufficient data” imports scientific discourse, positioning detection as quasi-empirical method.
 - [[1. AUTHORITY & ITS PERFORMANCE]]
 
-> “The house is a little dilapidated, but the doctor has made some repairs, and has added a wing.”
+> In one of these wings the windows were broken and blocked with wooden boards, [...] a picture of ruin [...] but the right-hand block was comparatively modern"
 - Architectural division stages a split between decay and modernity → spatial metaphor for imperial anxiety.
-- “Added a wing” suggests unnatural extension rather than organic growth; domestic space already compromised.
+- Notably, the crime occurs in this modern space rather than the expected site of ruin, hinted in the diction of "comparatively" which acts as a hedge to undercut the decisive comparison
+- Modernity and civilisation here appears partial and precarious, and locating the crime in this space, or more particularly, furnishing the crime and mechanisms of harm with "improvements" and "renovations" meant to heighten this false sense of modernity, **creates a fragile facade of safety in the very space that engineers danger**.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
 
-> “From outside came the occasional cry of a night-bird, and once at our very window a long drawn catlike whine.”
-- Sound replaces speech → the ‘exotic’ is rendered as noise rather than voice.
-- Animalistic imagery (“night-bird”, “catlike”) dehumanises the external threat and displaces it beyond articulation.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]]; [[1. AUTHORITY & ITS PERFORMANCE]]; 
 
 > “Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another.”
 - Moral aphorism retroactively stabilises the narrative → ethical closure imposed after epistemic collapse.
 - “In truth” signals insistence, not discovery; reassurance replaces analysis.
+- the "Speckled Band" is literalised when the snake coils back upon Roylott's head. The spoils of the Empire crowns and kills its master.
+	-  It is Dr Roylott that actively "trained" the snake
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> "The murder is also attributed to Roylott's "eastern training""
+- Yumna Siddiqi argues that Doyle portrays returned colonialists either as the "respectable colonial" or his "undesirable double: the imperial lumpenproletarian" (238). In this story however, these two characters collapse into one body, where Roylott is framed as failed respectability.
+	- claims the signs of the respectable colonial in the claiming of the ancestral seat of the mansion, his professional title that mimics gentility, and his "comparatively modern” renovations,
+- Collapse into one body demonstrates the doubleness and hypocrisy of the empire
+- [[1. AUTHORITY & ITS PERFORMANCE]] 
 
 ### Context
 - Popular detective fiction written for a mass readership invested in reassurance and moral legibility.
@@ -164,7 +169,7 @@
 - Knowledge appears cumulative and communal, yet remains second-hand and unverifiable.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “The whole of my discovery was due to the accident of my foot becoming entangled[...] most providentially entangled.”
+> “The whole of my discovery was due to the accident of my foot becoming entangled[...] most providentially entangled [...] the disclosures now made would have been utterly lost to posterity"
 - Scientific ‘breakthrough’ attributed to accident and contingency rather than method.
 - The adverb “providentially” introduces theological causation into empirical narrative, collapsing science into chance and belief.
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
@@ -172,6 +177,7 @@
 > “Imagination, feeling herself for once unshackled, roamed at will.”
 - Personification and lyrical cadence mark a decisive shift from scientific report to poetic reverie.
 - Experimentation gives way to aesthetic experience; imagination sustains the narrative where method fails.
+- **Poe exposes the dependence of the scientific report on the creative energies it pretends to repress**
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
 > “The loss of my little family of cats[...] deprived me of the insight which a continued experiment might have afforded.”
@@ -179,6 +185,10 @@
 - Destruction of experimental subjects prevents verification, converting science into narrative without method.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
+> "the letter, having been published, gave rise to a variety of gossip and opinion [...] Imprimis [...] Secondly [...]"
+- the numbered "Imprimis", "Secondly" and so on imitates scientific order, it merely recirculates and repeats gossip ("Let us see what they say")
+- The scientific report, rather than giving rise to knowledge and fact, gives rise to "gossip" and "opinion". 
+- Science is thus represented as a print spectacle
 ### Context
 - Antebellum print culture where journalism, science, and fiction circulate through the same popular venues.
 - Scientific authority not yet fully institutionalised → credibility must be staged rhetorically rather than secured methodologically.
