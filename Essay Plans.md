@@ -4,7 +4,7 @@
 
 ![[[EXAMP]A10112W1_2017_2018_T.pdf]]
 
-1. ==‘No individual in the universe stands alone; he is a component part of a system of mutual dependencies’ (SAMUEL SMILES). 
+1. ==‘No individual in the universe stands alone; he is a component part of a system of mutual dependencies’ (SAMUEL SMILES).==
    
    ==Discuss any part of this statement in relation to the work of ONE OR MORE writers.==
 
