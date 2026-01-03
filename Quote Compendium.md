@@ -726,7 +726,57 @@
 
 
 
+---
+
 ## Question Type Hinges 
+
+### EXPLANATION & KNOWLEDGE; TRUTH & CREDIBILITY
+(Poe, Doyle, James, Melville)
+
+> Explanation reassures by displacing uncertainty, requiring accumulation, rather than resolving it.
+- the text doesnt want to answer hard questions, instead redirecting anxiety away from what is unknown towards the appearance of method, logic, or system
+- admitting uncertainty directly would collapse authority.
+	- displacement allows text to maintain control without claiming impossible certainty
+==> A performance of belief and credibility --> the comfort of explanation also thus depends on the reader's willingness to mistake form for truth
+
+- Accumulation also allows for expansion to conceal own narrative limts --> to acknowledge limits would be to undermine narrative's governing logic
+
+> Explanatory authority survives only by refusing epistemic closure.
+- 
+
+### Attention, Witholding & Representation
+(Rosetti, Douglass, James)
+
+> Withholding governs meaning not because it reveals truth, but because it controls interpretive access.
+- What the reader is _not_ allowed to see becomes more significant than what is shown.
+- Control over access prevents misreading, exploitation, or voyeuristic consumption of sensitive material.
+
+- Ethical engagement requires resistance, not gratification. Denial disrupts passive consumption. --> - Silence functions as an active boundary that structures authority.
+- Representation risks turning subjects into objects. Refusal protects agency and dignity.
+
+> Attention becomes ethically charged when it is denied rather than satisfied.
+- Frustrated attention forces the reader to confront their own expectations and entitlement
+- Ethical engagement requires resistance, not gratification. Denial disrupts passive consumption.
+
+> Visibility produces ethical failure when it replaces responsibility.
+- Seeing something does not equal understanding or accountability.
+- Texts expose the danger of equating awareness with moral action.
+
+
+### Time, Memory & Aftermath
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##
 
