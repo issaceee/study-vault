@@ -35,7 +35,8 @@
               "title": "Quote Compendium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,8 +197,9 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "535fbfbb288b06fe",
+  "active": "b793c7034bba5b41",
   "lastOpenFiles": [
+    "Essay Plans.md",
     "Readings/Texts/Paper 3/Patterns/5. TIME, MEMORY, AND HISTORICAL PRESSURE.md",
     "Quote Compendium.md",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
@@ -213,7 +215,6 @@
     "Readings/Texts/Paper 3/Patterns/3. SURFACE, DEPTH, AND THE CRISIS OF REALISM.md",
     "Readings/Texts/Paper 3/Patterns/2. CLOSURE, ENDINGS, AND CONTAINMENT.md",
     "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
-    "Essay Plans.md",
     "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
     "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",

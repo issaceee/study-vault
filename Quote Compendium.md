@@ -31,6 +31,10 @@
 
 ## Mary Elizabeth Braddon — *At Chrighton Abbey*
 
+> “Out of respect for the traditions and prejudices of my race, I made it my business to  seek employment abroad, where the degradation of one solitary Chrighton was not so likely to  inflict shame on the ancient house to which I belonged”
+- Sarah must not just leave the Abbey but England itself to preserve the Chrighton's reputation
+- Sarah refers to the “business” of working in  service and openly discusses her wages, acting like a professional woman who approaches  governessing as a lucrative career
+
 > “All was told.”
 - Totalising determiner “all” gestures toward completeness, while the passive construction “was told” suppresses agency → the sentence promises revelation yet performs narrative foreclosure.
 - ⇒ Who tells? To whom? These questions are foreclosed rather than answered; silence is produced not by absence of information, but by the exhaustion of narrative authority.
@@ -40,6 +44,9 @@
 - Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
 - Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
 - [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> "a quiet spectator of life’s great drama, disturbed by no feverish desire for an active part in the play"
+- treated as a “quiet spectator” akin to a ghost by the Chrightons. Sarah feels so estranged  from her home that she adopts a foreigner’s perspective toward it: "weird palace in a German legend"
 
 > “I stood at my window quite calmly, and watched while the group of men and animals in the yard below noiselessly dispersed.”
 - Adverbs “calmly” and “noiselessly” flatten affect → terror is replaced by detachment; the supernatural is registered only in a muted, observational mode.

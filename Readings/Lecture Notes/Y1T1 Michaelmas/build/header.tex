@@ -1,9 +1,0 @@
-% Increase maximum list nesting depth for itemize/enumerate/description
-\usepackage{enumitem}
-\setlistdepth{20}
-\renewlist{itemize}{itemize}{20}
-\renewlist{enumerate}{enumerate}{20}
-\renewlist{description}{description}{20}
-% Make nested labels fall back to bullets/numbers consistently
-\setlist[itemize]{label=\textbullet}
-\setlist[enumerate]{label=\arabic*.}
