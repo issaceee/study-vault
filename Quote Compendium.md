@@ -722,13 +722,158 @@
 - supports reading drama as medium under strain
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
+
+
+##
 ---
 
 
 
----
+## PRESSURES & HINGES
 
-## Question Type Hinges 
+### 1. **AUTHORITY SURVIVES BY MANAGING FAILURE, NOT ELIMINATING IT**
+(Explanation, knowledge, form, mastery)  
+James, Poe, Doyle, Melville
+
+- If explanation reassures without revealing, it risks converting ignorance into authority.  
+	- ELABORATION: Explanation generates confidence and trust even when it does not actually stabilise knowledge. Rather than answering uncertainty, it redirects attention toward procedure, logic, or method, allowing authority to persist without truth.  
+	- WHY: Victorian texts cannot fully know or explain the world they depict, but they also cannot afford to admit ignorance outright. Reassurance becomes a way of preserving authority in the face of epistemic failure.
+
+- The comfort of explanation depends on obscuring who bears the cost of not knowing.  
+	- ELABORATION: Explanation displaces uncertainty away from its real consequences and onto abstract systems of logic or method. In doing so, it hides whose lives, bodies, or ethics are affected by the absence of knowledge.  
+	- WHY: Direct confrontation with ignorance would expose moral responsibility and structural failure. Obscuring cost allows authority to continue functioning without accountability.
+
+- Explanation can only reassure by expanding endlessly, revealing excess rather than clarity as its governing logic.  
+	- ELABORATION: Long lists, detailed reasoning, and accumulated data substitute for resolution, overwhelming doubt through sheer volume. Meaning is produced through endurance rather than insight.  
+	- WHY: When clarity is impossible, accumulation simulates control. Excess keeps the explanatory system intact even as certainty collapses.
+
+- When explanation fails to reveal, it must conceal its own limits through performance.  
+	- ELABORATION: Logic, science, or deduction are staged as spectacles of competence, even when they fail to produce stable knowledge. Explanation becomes something enacted rather than achieved.  
+	- WHY: Acknowledging limits directly would undermine the authority of reason itself. Performance disguises failure as mastery.
+
+- Explanatory authority survives only by refusing epistemic closure.  
+	- ELABORATION: Knowledge is kept open-ended so that explanation can continue indefinitely, maintaining its hold over interpretation. Closure would expose uncertainty rather than resolve it.  
+	- WHY: Final answers would collapse authority by revealing how little can truly be known. Deferral keeps explanation alive and powerful.
+
+
+### **2. CLOSURE REASSURES EVEN WHEN IT CANNOT RESOLVE**
+(Endings, containment, genre)  
+Doyle, Braddon, Middlemarch
+
+- If closure reassures rather than resolves, narrative endings become ethically suspect.  
+	- ELABORATION: Endings provide emotional relief without addressing the harm or responsibility that precedes them. Closure soothes readers while leaving ethical problems intact.  
+	- WHY: Moral and social pressures often exceed what narrative resolution can honestly contain. Reassurance replaces reckoning.
+
+- Closure functions as containment, not settlement.  
+	- ELABORATION: Problems are boxed off, sealed, or silenced rather than solved. Narrative order is restored without genuine ethical repair.  
+	- WHY: Full settlement would expose the insufficiency of narrative solutions. Containment preserves coherence without confronting failure.
+
+- Narrative resolution absorbs anxiety at the cost of moral clarity.  
+	- ELABORATION: Endings redirect discomfort into relief, allowing readers to move on without ethical unease. Responsibility is softened or diffused.  
+	- WHY: Readers demand emotional resolution even when ethics remain unresolved. Narrative prioritises manageability over truth.
+
+- Endings offer relief precisely by refusing full responsibility.  
+	- ELABORATION: Accountability is deferred, displaced, or minimised at the point of closure. Harm is acknowledged but not owned.  
+	- WHY: Accepting full responsibility would destabilise narrative order and challenge the legitimacy of closure itself.
+
+- The promise of closure depends on leaving ethical debt unfinished.  
+	- ELABORATION: Obligation and consequence linger beneath apparently resolved endings. The narrative moves forward while ethical pressure remains.  
+	- WHY: Erasing ethical debt would misrepresent ongoing harm and structural injustice.
+
+
+### **3. ETHICS EMERGE THROUGH RESTRAINT AND COMPROMISE, NOT DECISIVE ACTION**
+(Responsibility, survival, moral pressure)  
+Douglass, Middlemarch, Braddon
+
+- Moral responsibility emerges not from choice, but from managing the consequences of constraint.  
+	- ELABORATION: Characters are judged by how they endure and navigate limitation rather than by bold moral decisions. Ethics becomes a question of sustained response, not isolated action.  
+	- WHY: Victorian subjects operate within restrictive systems where freedom is limited. Responsibility must function within constraint, not outside it.
+
+- Ethical compromise becomes necessary when systems make purity impossible.  
+	- ELABORATION: Characters abandon ideals or settle for partial goods in order to remain viable within social, economic, or institutional pressures.  
+	- WHY: Absolute morality cannot survive intact within oppressive structures. Compromise reflects the reality of ethical life under constraint.
+
+- Restraint functions as ethical action because decisive action would reproduce harm.  
+	- ELABORATION: Silence, refusal, or delay prevent further damage when action would reinforce existing violence or injustice.  
+	- WHY: Acting decisively often strengthens the very systems producing harm. Restraint interrupts those cycles.
+
+- Responsibility is managed rather than resolved under structural pressure.  
+	- ELABORATION: Blame is redistributed, deferred, or shared rather than conclusively assigned. Ethical clarity is deliberately postponed.  
+	- WHY: Clean moral judgement would oversimplify complex causality and obscure systemic responsibility.
+
+- Ethics are sustained through endurance rather than heroism.  
+	- ELABORATION: Moral life is framed as ongoing pressure rather than decisive victory. Characters persist rather than triumph.  
+	- WHY: Heroic action is frequently impossible or destructive. Endurance becomes the only viable ethical stance.
+
+
+### **4. AFTERMATH EXPOSES RESPONSIBILITY THAT EVENTS CONCEAL**
+(Time, memory, consequence)  
+Middlemarch, Braddon, Douglass
+
+- If ethical meaning resides in aftermath, narrative action loses its authority.  
+	- ELABORATION: Events no longer justify themselves as morally sufficient. Consequences outweigh intention.  
+	- WHY: Victorian texts confront situations where action fails to resolve harm. Shifting weight to aftermath exposes that insufficiency.
+
+- Aftermath forces responsibility to persist beyond narrative closure.  
+	- ELABORATION: Obligation outlives endings, preventing moral release. Responsibility continues even when the story stops.  
+	- WHY: Closure would falsely absolve characters and readers from ongoing consequence.
+
+- By privileging aftermath, Victorian texts destabilise event-based moral thinking.  
+	- ELABORATION: Moral frameworks based on decisive moments collapse when consequences unfold slowly and diffusely.  
+	- WHY: Event-centred ethics simplify responsibility too neatly.
+
+- Memory persists because ethical reckoning remains incomplete.  
+	- ELABORATION: The past intrudes where harm has not been addressed. Memory becomes a form of pressure.  
+	- WHY: Forgetting would allow moral escape and erase unresolved injustice.
+
+- Temporal distance collapses where responsibility is deferred.  
+	- ELABORATION: Past and present blur when accountability is postponed. Ethical time does not move forward cleanly.  
+	- WHY: Distance would falsely neutralise consequence.
+
+
+### **5. INDIVIDUALS ARE LEGIBLE ONLY THROUGH SYSTEMS THAT CONSTRAIN THEM**
+(Scale, institutions, structure)  
+Middlemarch, Douglass, Melville
+
+- Individual failure becomes legible only through structural pressure.  
+	- ELABORATION: Personal shortcomings are revealed as products of institutional constraint rather than isolated weakness.  
+	- WHY: Focusing on individuals alone obscures systemic causality.
+
+- Systems absorb responsibility to preserve continuity.  
+	- ELABORATION: Institutions displace blame onto individuals in order to survive intact.  
+	- WHY: Structural stability depends on moral deflection.
+
+- Heroic individualism collapses under scale.  
+	- ELABORATION: Singular action proves insufficient against vast economic, imperial, or social systems.  
+	- WHY: Scale exceeds personal capacity.
+
+- Personal agency is overwhelmed by institutional continuity.  
+	- ELABORATION: Structures outlast intention and absorb resistance.  
+	- WHY: Institutions prioritise survival over justice.
+
+- Responsibility is redistributed from individuals to systems.  
+	- ELABORATION: Ethics becomes structural rather than personal.  
+	- WHY: Individual blame is inadequate to explain widespread harm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###
+
+---
+## Question Type Hinges (draft)
 
 ### EXPLANATION & KNOWLEDGE; TRUTH & CREDIBILITY
 (Poe, Doyle, James, Melville)
