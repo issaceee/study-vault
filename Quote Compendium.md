@@ -851,7 +851,7 @@ Middlemarch, Braddon, Douglass
 	- STAKES: Time loses its power to absolve. Responsibility becomes inescapable.
 
 
-### **5. INDIVIDUALS ARE LEGIBLE ONLY THROUGH SYSTEMS THAT CONSTRAIN THEM**
+### **5. INDIVIDUAL AGENCY IS ALWAYS MEDIATED BY LARGER SYSTEMS**
 (Scale, institutions, structure)  
 Middlemarch, Douglass, Melville, Rosetti / Braddon (Female Agency)
 
