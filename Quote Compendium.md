@@ -745,14 +745,10 @@ James, Poe, Doyle, Melville
 	- ELABORATION: Texts rely on logic, method, and structure to redirect anxiety away from what cannot be known, while simultaneously revealing the strain this redirection creates. Explanation functions both as support and as evidence of instability.  
 	- WHY: Victorian texts cannot abandon explanation without forfeiting authority, but they also cannot rely on it to produce certainty. Explanation becomes a strategy for surviving uncertainty rather than resolving it.  
 	- STAKES: Authority is sustained at the cost of truth. Readers are encouraged to accept confidence as a substitute for understanding, normalising ignorance as legitimate knowledge.
-- Explanation produces authority by accumulating structure where clarity fails.  
-	- ELABORATION: Lists, technical detail, and extended reasoning overwhelm doubt through scale rather than insight. Meaning is generated through persistence, not resolution.  
+- Explanation produces authority by accumulating structure/performing where clarity fails.  
+	- ELABORATION: Lists, technical detail, and extended reasoning overwhelm doubt through scale rather than insight; staged as spectacles of competence, even when they fail to stabilise knowledge. Meaning is generated through persistence, not resolution;  Explanation becomes enacted rather than achieved.  
 	- WHY: When clarity is unattainable, accumulation simulates mastery. Excess preserves the appearance of control even as certainty collapses.  
-	- STAKES: Accumulation risks exhausting readers into acceptance. Understanding gives way to submission to the explanatory system itself.
-- When explanation reaches its limits, it turns to performance rather than admission.  
-	- ELABORATION: Scientific, logical, or rational modes are staged as spectacles of competence, even when they fail to stabilise knowledge. Explanation becomes enacted rather than achieved.  
-	- WHY: Acknowledging epistemic limits directly would undermine the authority of reason. Performance disguises failure as mastery.  
-	- STAKES: Performance replaces accountability. Readers mistake confidence for competence and authority for truth.
+	- STAKES: Performance replaces accountability. Readers mistake confidence for competence and authority for truth and understanding gives way to submission to the explanatory system itself.
 - Explanatory authority persists by refusing to conclude.  
 	- ELABORATION: Knowledge is kept open-ended so that explanation can continue indefinitely, maintaining control over interpretation. Closure would reveal uncertainty rather than resolve it.  
 	- WHY: Definitive answers would expose the fragility of explanatory systems. Deferral keeps authority alive.  
