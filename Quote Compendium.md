@@ -739,6 +739,7 @@ James, Poe, Doyle, Melville
 > - _the pressure to appear authoritative in a world where authority itself is unstable_
 > - _the need for explanation at a moment when explanation can no longer deliver certainty_
 
+*what breaks when explanation reassures without knowing*
 - If explanation reassures without revealing, it risks converting ignorance into authority.  
 	- ELABORATION: Explanation generates confidence and trust even when it does not actually stabilise knowledge. Rather than answering uncertainty, it redirects attention toward procedure, logic, or method, allowing authority to persist without truth.  
 	- WHY: Victorian texts cannot fully know or explain the world they depict, but they also cannot afford to admit ignorance outright. Reassurance becomes a way of preserving authority in the face of epistemic failure.  
@@ -751,7 +752,7 @@ James, Poe, Doyle, Melville
 	- ELABORATION: Long lists, detailed reasoning, and accumulated data substitute for resolution, overwhelming doubt through sheer volume. Meaning is produced through endurance rather than insight.  
 	- WHY: When clarity is impossible, accumulation simulates control. Excess keeps the explanatory system intact even as certainty collapses.  
 	- STAKES: Excess risks exhausting the reader into acceptance, making persistence itself feel like proof. Understanding is replaced by submission to the system’s scale.
-- When explanation fails to reveal, it must conceal its own limits through performance.  
+- ==When explanation fails to reveal, it must conceal its own limits through performance. == 
 	- ELABORATION: Logic, science, or deduction are staged as spectacles of competence, even when they fail to produce stable knowledge. Explanation becomes something enacted rather than achieved.  
 	- WHY: Acknowledging limits directly would undermine the authority of reason itself. Performance disguises failure as mastery.  
 	- STAKES: Performance creates the illusion of control while blocking critical interrogation. Readers are encouraged to mistake confidence for competence.
@@ -761,7 +762,7 @@ James, Poe, Doyle, Melville
 	- STAKES: Endless deferral prevents reckoning and sustains dependency on explanatory systems. Authority becomes permanent precisely because knowledge never concludes.
 
 
-### **2. CLOSURE REASSURES EVEN WHEN IT CANNOT RESOLVE**
+### **2. CLOSURE (OR ITS WITHHOLDING) REASSURES EVEN WHEN IT CANNOT RESOLVE**
 (Endings, containment, genre)  
 Doyle, Braddon, Middlemarch
 
@@ -769,6 +770,7 @@ Doyle, Braddon, Middlemarch
 > - _the demand for endings in a world where consequences do not end_
 > - _the need to conclude stories that cannot honestly be concluded_
 
+*so what does closure do then instead of resolving?*
 - If closure reassures rather than resolves, narrative endings become ethically suspect.  
 	- ELABORATION: Endings provide emotional relief without addressing the harm or responsibility that precedes them. Closure soothes readers while leaving ethical problems intact.  
 	- WHY: Moral and social pressures often exceed what narrative resolution can honestly contain. Reassurance replaces reckoning.  
@@ -799,6 +801,7 @@ Douglass, Middlemarch, Braddon
 > - _the pressure to act ethically within systems that restrict meaningful choice_
 > - _the gap between moral ideals and the realities of survival under constraint_
 
+*why is restraint or compromis ethical, not weak?*
 - Moral responsibility emerges not from choice, but from managing the consequences of constraint.  
 	- ELABORATION: Characters are judged by how they endure and navigate limitation rather than by bold moral decisions. Ethics becomes a question of sustained response, not isolated action.  
 	- WHY: Victorian subjects operate within restrictive systems where freedom is limited. Responsibility must function within constraint, not outside it.  
@@ -829,6 +832,7 @@ Middlemarch, Braddon, Douglass
 > - _the distance between what happens and what continues to matter_
 > - _the failure of events to absorb the responsibility they appear to resolve_
 
+*how aftermath destabilises action, closure, or responsibility*
 - If ethical meaning resides in aftermath, narrative action loses its authority.  
 	- ELABORATION: Events no longer justify themselves as morally sufficient. Consequences outweigh intention.  
 	- WHY: Victorian texts confront situations where action fails to resolve harm. Shifting weight to aftermath exposes that insufficiency.  
@@ -859,6 +863,7 @@ Middlemarch, Douglass, Melville, Rosetti / Braddon (Female Agency)
 > - _the desire to preserve individual agency within systems that consistently overwhelm it_
 > - _the difficulty of telling personal stories in a world organised by institutions_
 
+*what does this do to blame, agency or heroism?*
 - Individual failure becomes legible only through structural pressure.  
 	- ELABORATION: Personal shortcomings are revealed as products of institutional constraint rather than isolated weakness.  
 	- WHY: Focusing on individuals alone obscures systemic causality.  
