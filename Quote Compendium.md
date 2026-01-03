@@ -739,7 +739,7 @@
 	- displacement allows text to maintain control without claiming impossible certainty
 ==> A performance of belief and credibility --> the comfort of explanation also thus depends on the reader's willingness to mistake form for truth
 
-- Accumulation also allows for expansion to conceal own narrative limts --> to acknowledge limits would be to undermine narrative's governing logic
+- Accumulation also allows for expansion to conceal own narrative limits --> to acknowledge limits would be to undermine narrative's governing logic
 
 > Explanatory authority survives only by refusing epistemic closure.
 - 
