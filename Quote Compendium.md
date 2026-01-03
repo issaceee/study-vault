@@ -725,6 +725,9 @@
 ---
 
 
+
+## Question Type Hinges 
+
 ##
 
 Christina Rossetti, _In an Artist’s Studio_ → **failure as poetic form**, where grammatical negation hollows the sonnet from within.
