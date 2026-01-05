@@ -97,10 +97,9 @@
 - Collapse into one body demonstrates the doubleness and hypocrisy of the empire
 - [[1. AUTHORITY & ITS PERFORMANCE]] 
 
-> (SECONDARY)
-
 
 > (SECONDARY) illusion [...] is a second narrative, one that runs parallel with its principal, and is ultimately dispelled by it. This alternative narrative is the one which is pre-eminent in the text until it is supplanted, and is, therefore, the one with which we are most familiar.
+- Michael Cook's Novel: *Narratives of Enclosure in Detective Fiction : The Locked Room Mystery*
 ### Context
 - Popular detective fiction written for a mass readership invested in reassurance and moral legibility.
 - Genre depends on rational mastery and closure to stabilise social anxiety → explanation functions as containment rather than understanding.
