@@ -166,11 +166,6 @@
 - **Poe exposes the dependence of the scientific report on the creative energies it pretends to repress**
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “The loss of my little family of cats[...] deprived me of the insight which a continued experiment might have afforded.”
-- Affective diction (“little family”) contaminates the empirical register; emotional attachment replaces detachment.
-- Destruction of experimental subjects prevents verification, converting science into narrative without method.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
 > "the letter, having been published, gave rise to a variety of gossip and opinion [...] Imprimis [...] Secondly [...]"
 - the numbered "Imprimis", "Secondly" and so on imitates scientific order, it merely recirculates and repeats gossip ("Let us see what they say")
 - The scientific report, rather than giving rise to knowledge and fact, gives rise to "gossip" and "opinion". 
@@ -294,65 +289,6 @@
 - Closure affirms moral influence without heroic transformation. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
 
-## Elizabeth Gaskell — *North and South*
-
-> “Two classes dependent on each other in every possible way... running each other down.”
-- Symmetrical construction exposes mutual dependency alongside mutual antagonism.
-- Neither class possesses epistemic priority → truth is split across irreconcilable perspectives.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> “Once brought face to face, man to man… they had each begun to recognise that ‘we have all of us one human heart.’”
-- Ethical recognition emerges only through direct, interpersonal encounter rather than institutional mediation.
-- Abstract systems (union, capital, law) fail where embodied presence succeeds.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> “How reconcile those eyes, that voice, with the hard-reasoning, dry, merciless way in which he laid down the axioms of trade?”
-- Sensory immediacy (“eyes”, “voice”) clashes with abstract economic reasoning.
-- Knowledge is divided between felt encounter and ideological systematisation.
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> “I do not care to understand.”
-- Explicit refusal of comprehension signals the affective limits of rational discourse.
-- Misunderstanding is not ignorance but emotional and ethical resistance.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
-
-> “The dead stand between yo’ and every angry word o’ mine.”
-- Death interrupts political discourse, forcing silence where ideology had dominated.
-- Mortality reorders ethical priority, displacing argument with shared vulnerability.
-- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> “There are forms and ceremonies to be gone through, not so much to satisfy oneself, as to stop the world’s mouth.”
-- Social rituals prioritise public legibility over private truth.
-- Communication is shaped by reputational management rather than sincerity.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> “No mere institutions… can attach class to class… unless the working out of such institutions bring the individuals… into actual personal contact.”
-- Institutional reform is framed as insufficient without interpersonal relation.
-- The novel privileges ethical proximity over abstract governance.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
-
-> “And that was death! It looked more peaceful than life.”
-- Death is rendered anti-dramatic, disrupting the novel’s forward political momentum.
-- The narrative pauses rather than resolves → realism refuses consolatory closure.
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
-
-> “She stood as a liar in his eyes.”
-- Moral judgment is mediated through perception rather than fact.
-- Being *seen* as false outweighs objective truth → reputation supersedes interiority.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-### Context
-- Industrial realist novel published serially → narrative unfolds through delay, interruption, and partial resolution rather than decisive reform.
-- Written in response to mid-century economic upheaval, where industrial conflict is experienced as a crisis of communication rather than purely material opposition.
-- Serial form and “condition-of-England” purpose privilege mediation, conscience, and face-to-face encounter over abstract systems (law, union, capital).
-- Reconciliation is imagined ethically and interpersonally, while structural contradictions remain formally unresolved.
-
-#### Main Points
-- *North and South* stages industrial conflict as an epistemological problem rather than a purely economic one. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-- Abstract systems (capital, unions, doctrine) repeatedly fail to produce ethical understanding. [[1. AUTHORITY & ITS PERFORMANCE]]
-- Knowledge emerges intermittently through face-to-face encounter, death, and shared vulnerability. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-- Serial realist form enables delay, miscommunication, and partial recognition rather than decisive resolution. [[*Form, Experiment, Genre]]
-- Closure gestures toward reconciliation but leaves structural tensions intact. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
 ## Henry James — *The Figure in the Carpet*
 
@@ -848,3 +784,63 @@ Arthur Wing Pinero, _Trelawny of the “Wells”_ → **failure as theatrical
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
 ---
+
+## Elizabeth Gaskell — *North and South*
+
+> “Two classes dependent on each other in every possible way... running each other down.”
+- Symmetrical construction exposes mutual dependency alongside mutual antagonism.
+- Neither class possesses epistemic priority → truth is split across irreconcilable perspectives.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “Once brought face to face, man to man… they had each begun to recognise that ‘we have all of us one human heart.’”
+- Ethical recognition emerges only through direct, interpersonal encounter rather than institutional mediation.
+- Abstract systems (union, capital, law) fail where embodied presence succeeds.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “How reconcile those eyes, that voice, with the hard-reasoning, dry, merciless way in which he laid down the axioms of trade?”
+- Sensory immediacy (“eyes”, “voice”) clashes with abstract economic reasoning.
+- Knowledge is divided between felt encounter and ideological systematisation.
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “I do not care to understand.”
+- Explicit refusal of comprehension signals the affective limits of rational discourse.
+- Misunderstanding is not ignorance but emotional and ethical resistance.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+
+> “The dead stand between yo’ and every angry word o’ mine.”
+- Death interrupts political discourse, forcing silence where ideology had dominated.
+- Mortality reorders ethical priority, displacing argument with shared vulnerability.
+- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> “There are forms and ceremonies to be gone through, not so much to satisfy oneself, as to stop the world’s mouth.”
+- Social rituals prioritise public legibility over private truth.
+- Communication is shaped by reputational management rather than sincerity.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “No mere institutions… can attach class to class… unless the working out of such institutions bring the individuals… into actual personal contact.”
+- Institutional reform is framed as insufficient without interpersonal relation.
+- The novel privileges ethical proximity over abstract governance.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
+
+> “And that was death! It looked more peaceful than life.”
+- Death is rendered anti-dramatic, disrupting the novel’s forward political momentum.
+- The narrative pauses rather than resolves → realism refuses consolatory closure.
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+> “She stood as a liar in his eyes.”
+- Moral judgment is mediated through perception rather than fact.
+- Being *seen* as false outweighs objective truth → reputation supersedes interiority.
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+### Context
+- Industrial realist novel published serially → narrative unfolds through delay, interruption, and partial resolution rather than decisive reform.
+- Written in response to mid-century economic upheaval, where industrial conflict is experienced as a crisis of communication rather than purely material opposition.
+- Serial form and “condition-of-England” purpose privilege mediation, conscience, and face-to-face encounter over abstract systems (law, union, capital).
+- Reconciliation is imagined ethically and interpersonally, while structural contradictions remain formally unresolved.
+
+#### Main Points
+- *North and South* stages industrial conflict as an epistemological problem rather than a purely economic one. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+- Abstract systems (capital, unions, doctrine) repeatedly fail to produce ethical understanding. [[1. AUTHORITY & ITS PERFORMANCE]]
+- Knowledge emerges intermittently through face-to-face encounter, death, and shared vulnerability. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+- Serial realist form enables delay, miscommunication, and partial recognition rather than decisive resolution. [[*Form, Experiment, Genre]]
+- Closure gestures toward reconciliation but leaves structural tensions intact. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
