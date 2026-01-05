@@ -45,7 +45,7 @@
 - Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
 - [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
-> “I stood at my window quite calmly, and watched while the group of men and animals [...] noiselessly dispersed.”
+> “I stood at my window quite calmly, and watched while the group [...] noiselessly dispersed.”
 - Adverbs “calmly” and “noiselessly” flatten affect → terror is replaced by detachment; the supernatural is registered only in a muted, observational mode.
 - The narrator’s position (“at my window”) places her at the threshold of experience → proximity without agency; witness rather than participant.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
