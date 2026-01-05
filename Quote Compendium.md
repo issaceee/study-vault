@@ -266,25 +266,12 @@
 - Authority becomes accumulation without life; knowledge detached from sympathy.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
+//
+
 > (Lydgate) “And I am more and more convinced that it will be possible to demonstrate the homogeneous origin of all the tissues.”
 - Absolutist scientific ambition mirrors Casaubon’s totalising intellectual project.
 - Modern science repeats older failures of system-building without social embeddedness.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> (Lydgate) “He had been trained to regard himself as a discoverer.”
-- Self-conception precedes social reality → ambition blinds Lydgate to institutional constraints.
-- Knowledge alone cannot override credit, reputation, and domestic economy.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
-
-> (Rosamond) “She liked to be admired.”
-- Minimalist sentence encodes Rosamond’s governing principle.
-- Social surface displaces ethical depth; aesthetic desire consumes moral economy.
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
-> (Bulstrode) “He had begun to feel that the past was not safely buried.”
-- Moral authority eroded by suppressed history.
-- Time operates as return rather than progress; concealment corrodes social trust.
-- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
 > (Finale) “The growing good of the world is partly dependent on unhistoric acts.”
 - Closure refuses heroic resolution; moral influence is diffuse and collective.
@@ -380,12 +367,6 @@
 ==> authority collapses inward: interpretation becomes solipsistic, driven by appetite rather than epistemic humility
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
-> “The poor man’s state was his consolation.”
-- withholding of the secret recoded as “revenge”
-- interpretive failure turned outward → the narrator inflicts his own deprivation on others
-==> closure arrives not as knowledge but as retaliation; narrative ends with ethical corrosion rather than revelation
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
 > “We had perfectly, we had admirably calculated.”
 - collaborative pronoun (“we”) contrasts sharply with the narrator’s solitary “I”
 - success framed as relational, shared, and procedural rather than ecstatic
@@ -397,6 +378,13 @@
 - meaning requires distance, movement, and exchange
 ==> counters the narrator’s eroticised fixation; understanding is produced by collaboration and displacement, not possession
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
+
+
+> “The poor man’s state was his consolation.”
+- withholding of the secret recoded as “revenge”
+- interpretive failure turned outward → the narrator inflicts his own deprivation on others
+==> closure arrives not as knowledge but as retaliation; narrative ends with ethical corrosion rather than revelation
+- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
 ### Context
 - Late-nineteenth-century professionalisation of literary criticism → interpretation becomes a public, reputational practice.
@@ -413,6 +401,29 @@
 
 
 ## Frederick Douglass — *Narrative of the Life of Frederick Douglass, an American Slave*
+
+> (Ch. I — Aunt Hester) “He would whip her to make her scream, and whip her to make her hush.”
+- Symmetrical coordination collapses speech and silence → no communicative position is available to the enslaved subject. 
+- Violence responds equally to sound and muteness; voice is rendered futile rather than denied.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> (Ch. I — Aunt Hester) “I remember the first time I ever witnessed this horrible exhibition[...] I never shall forget it whilst I remember any thing.”
+- Memory becomes foundational rather than episodic → trauma structures consciousness itself.
+- The term “exhibition” frames slavery as enforced spectacle rather than private cruelty.
+- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> (Ch. I — Aunt Hester) “It was the blood-stained gate, the entrance to the hell of slavery.”
+- Spatial metaphor marks initiation rather than exception → slavery is entered, not merely observed.
+- Aunt Hester’s scream functions as a threshold through which historical knowledge is transmitted
+- [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+> (Ch. XI — Escape) “I would not disclose the manner of my escape [...] It would close the slightest avenue by which a brother slave might escape.”
+- Strategic refusal converts silence into ethical action.
+- Withholding protects collective agency rather than satisfying narrative expectation.
+- Speech is shown to have material consequences; silence preserves possibility.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
+
+> (Prefatory Matter) “I am confident that it is essentially true in all its statements.”
 - White abolitionist authentication frames Black voice as requiring external validation.
 - Authority is mediated through paratext rather than intrinsic.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
@@ -422,54 +433,10 @@
 - Genre demands factuality and moral legibility, yet the conditions of enslavement make full articulation dangerous or impossible.
 - Silence functions not as absence, but as a strategic and ethical refusal shaped by collective risk.
 
-
 #### Main Points
 - Voice under slavery is structurally constrained; both speech and silence are punished. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
 - Memory and sound transmit historical knowledge where articulation fails. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
 - Authority is mediated by abolitionist framing, complicating claims of direct testimony. [[1. AUTHORITY & ITS PERFORMANCE]]
-
----
-
-
-> (Ch. I) “So spoke two of the South’s peculiar institution.”
-- Opening frames slavery through a controlling narratorial voice.
-- Enslaved subjects are immediately mediated rather than allowed to speak autonomously.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> (Narratorial Address) “If it were your Harry, mother[...]”
-- Direct address conscripts the reader into sentimental identification.
-- Sympathy is produced through imaginative substitution rather than structural critique.
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
-> (Eliza’s Escape) “The child lay close to her bosom.”
-- Maternal imagery centres affective immediacy.
-- Voice is displaced into bodily action and spectacle rather than speech.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> (Uncle Tom) “Mas’r never was cruel to me.”
-- Dialogue is framed to reinforce Christian submission.
-- Voice is permitted only within moral frameworks that stabilise white sympathy.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> (Narratorial Commentary) “The heart is a wonderful organ.”
-- Moral generalisation subsumes individual suffering into universal feeling.
-- Ethical force relies on readerly affect rather than social transformation.
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
-
-> (Finale) “The true history of the world is the history of the great men who have wrought it.”
-- Closure recentres moral agency in exemplary figures.
-- Structural inequalities remain intact beneath sentimental resolution.
-- [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
-### Context
-- Sentimental novel written for a broad, predominantly white, middle-class readership.
-- Relies on affective identification and narratorial guidance to mobilise moral response.
-- Anti-slavery critique operates through sympathy rather than structural analysis, prioritising emotional conversion over political transformation.
-
-#### Main Points
-- Stowe amplifies voice through sentiment but retains narratorial control. [[1. AUTHORITY & ITS PERFORMANCE]]  
-- Sympathy is mobilised as moral engine, yet risks containment and simplification. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]  
-- Closure reassures affectively rather than structurally dismantling slavery. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
 ---
 
@@ -489,21 +456,6 @@
 - Metaphorical respiration (“breathes”) frames expression as living, not explanatory.
 - Meaning is affective and collective rather than analytical.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> (Epigraphs) “Hear my cry, O God the reader[...]”
-- Biblical register invokes testimony without empirical proof.
-- Authority derives from address rather than verification.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> (“Of the Coming of John”) “The Veil lay between.”
-- Visual metaphor encodes structural invisibility and epistemic separation.
-- Silence is imposed by social form, not personal failure.
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
-> (“Of the Sorrow Songs”) “Little of beauty has America given the world save the rude grandeur God himself stamped on her bosom.”
-- National critique embedded in elevated lyric prose.
-- Cultural authority is reclaimed through Black expressive forms.
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
 ### Context
 - Hybrid text combining sociology, history, lyric prose, and spirituals at the turn of the twentieth century.
