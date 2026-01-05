@@ -13,7 +13,9 @@
 - Verb “feeds” and "fill" animalises the artist; temporal extensiveness of "day AND night" → devotion collapses into consumption; artistic creation becomes relentless predatory hunger.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
 
-> “Not wan with waiting, not with sorrow dim.”
+> “Not wan with waiting, not with sorrow dim.
+> Not as she is, but was when hope shone bright;  
+> Not as she is, but as she fills his dream."
 - Identity constructed through negation →  constructs a fragile denial of the suffering of the woman that paradoxically reveals its presence →  the woman’s selfhood exists in what is refused articulation; silence becomes a mode of resistance rather than absence
 - consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the petrarchan sonnet that masks the artist’s devouring impulses.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
@@ -31,27 +33,28 @@
 
 ## Mary Elizabeth Braddon — *At Chrighton Abbey*
 
-> “Out of respect for the traditions and prejudices of my race, I made it my business to  seek employment abroad, where the degradation of one solitary Chrighton was not so likely to  inflict shame on the ancient house to which I belonged”
+> “Out of respect for the traditions and prejudices of my race, I made it my business to seek employment abroad, where the degradation of one solitary Chrighton was not so likely to  inflict shame on the ancient house to which I belonged”
 - Sarah must not just leave the Abbey but England itself to preserve the Chrighton's reputation
-- Sarah refers to the “business” of working in  service and openly discusses her wages, acting like a professional woman who approaches  governessing as a lucrative career
+- Sarah refers to the “business” of working in service and openly discusses her wages, acting like a professional woman who approaches governessing as a lucrative career
 
-> “All was told.”
-- Totalising determiner “all” gestures toward completeness, while the passive construction “was told” suppresses agency → the sentence promises revelation yet performs narrative foreclosure.
-- ⇒ Who tells? To whom? These questions are foreclosed rather than answered; silence is produced not by absence of information, but by the exhaustion of narrative authority.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+> "a quiet spectator of life’s great drama, disturbed by no feverish desire for an active part in the play"
+- treated as a “quiet spectator” akin to a ghost by the Chrightons. Sarah feels so estranged  from her home that she adopts a foreigner’s perspective toward it: "weird palace in a German legend"
 
 > “There was nothing supernatural in the manner of their disappearance.”
 - Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
 - Passive temporality (“was”) aligns haunting with inevitability rather than disruption; the supernatural becomes mechanical repetition rather than revelation.
 - [[*Form, Experiment, Genre]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
-> "a quiet spectator of life’s great drama, disturbed by no feverish desire for an active part in the play"
-- treated as a “quiet spectator” akin to a ghost by the Chrightons. Sarah feels so estranged  from her home that she adopts a foreigner’s perspective toward it: "weird palace in a German legend"
-
-> “I stood at my window quite calmly, and watched while the group of men and animals in the yard below noiselessly dispersed.”
+> “I stood at my window quite calmly, and watched while the group of men and animals [...] noiselessly dispersed.”
 - Adverbs “calmly” and “noiselessly” flatten affect → terror is replaced by detachment; the supernatural is registered only in a muted, observational mode.
 - The narrator’s position (“at my window”) places her at the threshold of experience → proximity without agency; witness rather than participant.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+
+> “All was told.”
+- Totalising determiner “all” gestures toward completeness, while the passive construction “was told” suppresses agency → the sentence promises revelation yet performs narrative foreclosure.
+- ⇒ Who tells? To whom? These questions are foreclosed rather than answered; silence is produced not by absence of information, but by the exhaustion of narrative authority.
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
 
 ### Context
 - Sensation / ghost story published within periodical culture → genre promises revelation but is constrained by brevity and closure.
@@ -603,7 +606,7 @@ Douglass, Middlemarch, Braddon
 
 *what breaks when action is treated as the ethical ideal*
 
-- Moral responsibility emerges through negotiating constraint rather than exercising unrestricted choice.  
+- Moral responsibility emerges through negotiating constraint rather than exercising unrestricted and deliberate choice.  
 	- ELABORATION: Characters are judged by how they endure and navigate limitation rather than by bold moral decisions. Ethics becomes a sustained practice rather than a single act.  
 	- WHY: Victorian subjects operate within restrictive systems where freedom is limited. Responsibility must function within constraint, not outside it.  
 	- STAKES: Moral judgement shifts away from intention toward endurance. Ethical value becomes harder to locate but more honest.
