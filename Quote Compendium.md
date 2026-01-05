@@ -101,7 +101,7 @@
 - [[1. AUTHORITY & ITS PERFORMANCE]] 
 
 
-> (SECONDARY) illusion [...] is a second narrative, one that runs parallel with its principal, and is ultimately dispelled by it. This alternative narrative is the one which is pre-eminent in the text until it is supplanted, and is, therefore, the one with which we are most familiar.
+> (SECONDARY) illusion [...] is a second narrative [...] which is pre-eminent in the text until it is supplanted, and is, therefore, the one with which we are most familiar.
 - Michael Cook's Novel: *Narratives of Enclosure in Detective Fiction : The Locked Room Mystery*
 ### Context
 - Popular detective fiction written for a mass readership invested in reassurance and moral legibility.
