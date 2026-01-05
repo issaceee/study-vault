@@ -80,7 +80,7 @@
 - “Insufficient data” imports scientific discourse, positioning detection as quasi-empirical method.
 - [[1. AUTHORITY & ITS PERFORMANCE]]
 
-> In one of these wings the windows were broken and blocked with wooden boards, [...] a picture of ruin [...] but the right-hand block was comparatively modern"
+> one of these wings [...] a picture of ruin [...] but the right-hand block was comparatively modern"
 - Architectural division stages a split between decay and modernity → spatial metaphor for imperial anxiety.
 - Notably, the crime occurs in this modern space rather than the expected site of ruin, hinted in the diction of "comparatively" which acts as a hedge to undercut the decisive comparison
 - Modernity and civilisation here appears partial and precarious, and locating the crime in this space, or more particularly, furnishing the crime and mechanisms of harm with "improvements" and "renovations" meant to heighten this false sense of modernity, **creates a fragile facade of safety in the very space that engineers danger**.
