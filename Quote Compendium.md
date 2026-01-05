@@ -139,33 +139,6 @@
 
 ---
 
-## (Secondary) Rosemary Hennessy & Rajeswari Mohan — “The Construction of Woman in Three Popular Texts of Empire”
-
-> “symbolic rape (Roylott kills Julia by means of a poisonous snake sent through a vent connecting his bedroom to hers)” 
-- reframes the murder as sexualised violence rather than neutral crime
-- identifies architecture as the conduit of harm
-- shifts analysis from exotic weapon to domestic structure
-- supports reading imperial and patriarchal violence as intimate and infrastructural
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-> “the construction of woman” 
-- positions gender as produced through narrative and spatial arrangements
-- foregrounds process rather than identity
-- enables cross-text linkage with Rossetti and Braddon
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
-
-### Context
-- Feminist-materialist critique of popular imperial texts.
-- Shifts attention from individual acts of violence to infrastructural and spatial arrangements.
-- Treats gender not as identity but as a process produced by narrative, architecture, and circulation.
-
-#### Main Points
-- Hennessy & Mohan theorise violence as structural rather than exceptional  
-- Their framework supports your emphasis on domestic containment and misdirection  
-- Useful for linking empire, gender, and form across genres  
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
----
 
 ## Edgar Allan Poe — “The Unparalleled Adventure of One Hans Pfaall”
 
@@ -438,36 +411,6 @@
 - the story denies the reader the very closure it critiques, implicating us in the narrator’s frustration
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-## (Secondary) John Carlos Rowe — *The Other Henry James*
-
-> “as rich with homoerotic suggestiveness”
-- Rowe establishes erotic registers as a recognised feature of James’s prose
-- legitimises sexualised readings without reducing them to content
-- provides critical precedent for reading desire as structuring logic
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-#### Main Points
-- Rowe authorises attention to eroticised language as formal, not sensational  
-- Allows you to situate *Figure* within Jamesian tradition while extending it  
-- [[*Form, Experiment, Genre]]
-
----
-
-## (Secondary) Pascale Casanova — *The World Republic of Letters*
-
-> “A literary work can be deciphered only on the basis of the whole of the composition, for its rediscovered coherence stands revealed only in relation to the entire literary universe of which it is a part”
-- asserts that meaning is relational rather than extractive
-- rejects single-point revelation in favour of corpus-wide patterning
-- supports reading of “figure in the carpet” as non-detachable structure
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
-
-#### Main Points
-- Casanova provides theoretical grounding for relational hermeneutics  
-- Directly opposes the narrator’s possessive interpretive model  
-- Enables your ethical distinction between extraction and relation  
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
----
 
 ## Frederick Douglass — *Narrative of the Life of Frederick Douglass, an American Slave*
 - White abolitionist authentication frames Black voice as requiring external validation.
@@ -643,90 +586,6 @@
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
 
-## Arthur Wing Pinero — *Trelawny of the “Wells”*
-
-> “A large black trunk, the lid bulging with its contents[...] some soiled theatrical finery.”
-- theatre introduced as material archive rather than living form → performance survives as residue, not practice
-- “bulging” and “soiled” signal excess and exhaustion rather than value or reverence
-- theatrical identity displaced onto objects → acting reduced to stored remnants
-==> authority of performance already compromised before dialogue begins; theatre appears as cluttered afterlife rather than expressive medium
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
-
-> “Lovely youth should be shown decked uncompromisingly as it was at the time[...] at the risk[...] of pointing the chastening moral that[...] it may appear[...] not to have been beauty at all.”
-- explicit refusal of aesthetic correction → past staged as visibly awkward and unassimilable
-- theatrical beauty historicised into contingency rather than essence
-- acting bodies made to carry historical difference rather than transcend it
-==> performance exposes its own obsolescence; theatrical authority depends on taste that no longer holds
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
-
-> “The SCENE represents the stage of a theatre, the footlights and proscenium arch of the actual stage being the proscenium arch and footlights of the mimic stage.”
-- collapse of representational boundary → no stable ‘outside’ the performance
-- apparatus foregrounded → illusion deliberately dismantled
-- audience forced to confront theatre as mechanism rather than transparent medium
-==> drama stages its own conditions of production; theatrical authority becomes self-exposing and unstable
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
-
-> “The wings and borders[...] should suggest by their shabbiness a theatre fallen into decay[...] lit by a dismal light.”
-- decay built into visual field → theatre figured as ruined space
-- lighting denies warmth or immersion → atmosphere of exhaustion rather than enchantment
-- spatial degradation mirrors cultural exhaustion of melodramatic form
-==> theatre becomes Gothic structure in itself: a site of residue, not renewal
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[*Form, Experiment, Genre]]
-
-> “The scene represents a spacious drawing-room[...] solemn, formal, and depressing[...] the lamps are lighted, but the curtains are not drawn, and outside the windows it is twilight.”
-- domestic interior staged as oppressive rather than intimate
-- half-light and undrawn curtains produce liminal visibility → neither public nor private
-- space disciplines bodies through stillness, boredom, and enforced quiet
-==> realism performs containment through atmosphere rather than persuasion; authority maintained spatially, not rhetorically
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-> “No music when the Vice Chancellor is within doors.”
-- sound explicitly regulated → performance policed through silence
-- aesthetic expression subordinated to institutional authority
-- theatre and music framed as disturbances to civic order
-==> dramatic expression survives only as suppressed potential; authority depends on controlling the sensory field
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
-
-### Context
-- Late-Victorian realist comedy written in response to changing theatrical tastes.
-- Marks a transition from melodrama to restrained realism, policing spectacle in favour of social decorum.
-- Theatre reflects on its own historical obsolescence, staging performance as residue rather than vitality.
-
-#### Main Points
-- *Trelawny* locates dramatic meaning in staging, props, lighting, and spatial regulation rather than dialogue
-- theatre is figured as decaying apparatus: performance survives as residue, discipline, and constraint
-- realism asserts authority by suppressing spectacle, yet is haunted by theatrical excess it cannot erase
-- pairs structurally with *The Bells*: historical exhaustion of form vs sensory compulsion and breakdown
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
-
----
-
-## (Secondary) Kelly Jones — *The Theatrical Gothic in the Nineteenth Century*
-
-> “Attempts to repress the Gothic on stage were met with an increasingly Gothic representation of the theatre itself.”
-- Gothic displaced from content to form → theatre becomes haunted medium
-- failure of realism produces Gothic effects at level of space, spectacle, and embodiment
-==> legitimises reading late-century drama as staging formal breakdown rather than Gothic themes
-- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[*Form, Experiment, Genre]]
-
-> “The autonomy of the actor’s body became threatened as the spectacle expanded.”
-- spectacle overrides actorly control → body subordinated to machinery and effect
-- actor no longer primary source of meaning
-==> theoretical frame for Mathias’s collapse and Pinero’s prop-dominated stage
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
-
-> “The theatre itself becomes a site of Gothic disturbance rather than resolution.”
-- drama no longer resolves anxiety → stages it as persistent malfunction
-==> theatre figures its own limits rather than offering closure
-- [[*Form, Experiment, Genre]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-#### Main Points
-- Jones reframes Gothic as formal pressure, not genre content
-- supports reading drama as medium under strain
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
-
-
-
 ##
 ---
 
@@ -758,13 +617,13 @@ James, Poe, Doyle, Melville
 	- STAKES: Endless deferral prevents reckoning. Authority becomes permanent precisely because knowledge never concludes.
 
 
-### **2. CLOSURE (OR ITS WITHHOLDING) REASSURES EVEN WHEN IT CANNOT RESOLVE**
+### **2. CLOSURE (OR ITS WITHHOLDING) ATTEMPTS REASSURANCE RATHER THAN  RESOLUTION**
 (Endings, containment, genre)  
 Doyle, Braddon, Middlemarch
 
 > **Victorian texts confront the expectation of narrative closure even as ethical and social problems refuse to come to rest.**
 > - _the demand for endings in a world where consequences do not end_
-> - _the need to conclude stories that cannot honestly be concluded_
+> - _the need to conclude stories that cannot honestly/ethically be concluded_
 
 *what breaks when narratives are forced to end*
 
@@ -907,7 +766,7 @@ Middlemarch, Douglass, Melville, Rossetti / Braddon
 
 
 
-##
+## Texts & Their Failures
 
 Christina Rossetti, _In an Artist’s Studio_ → **failure as poetic form**, where grammatical negation hollows the sonnet from within.
 
@@ -974,3 +833,63 @@ Arthur Wing Pinero, _Trelawny of the “Wells”_ → **failure as theatrical
 - _The Bells_
     
 - _Trelawny of the “Wells”_
+
+# Archive
+
+## (Secondary) John Carlos Rowe — *The Other Henry James*
+
+> “as rich with homoerotic suggestiveness”
+- Rowe establishes erotic registers as a recognised feature of James’s prose
+- legitimises sexualised readings without reducing them to content
+- provides critical precedent for reading desire as structuring logic
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+#### Main Points
+- Rowe authorises attention to eroticised language as formal, not sensational  
+- Allows you to situate *Figure* within Jamesian tradition while extending it  
+- [[*Form, Experiment, Genre]]
+
+---
+
+## (Secondary) Pascale Casanova — *The World Republic of Letters*
+
+> “A literary work can be deciphered only on the basis of the whole of the composition, for its rediscovered coherence stands revealed only in relation to the entire literary universe of which it is a part”
+- asserts that meaning is relational rather than extractive
+- rejects single-point revelation in favour of corpus-wide patterning
+- supports reading of “figure in the carpet” as non-detachable structure
+- [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+
+#### Main Points
+- Casanova provides theoretical grounding for relational hermeneutics  
+- Directly opposes the narrator’s possessive interpretive model  
+- Enables your ethical distinction between extraction and relation  
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
+---
+## (Secondary) Rosemary Hennessy & Rajeswari Mohan — “The Construction of Woman in Three Popular Texts of Empire”
+
+> “symbolic rape (Roylott kills Julia by means of a poisonous snake sent through a vent connecting his bedroom to hers)” 
+- reframes the murder as sexualised violence rather than neutral crime
+- identifies architecture as the conduit of harm
+- shifts analysis from exotic weapon to domestic structure
+- supports reading imperial and patriarchal violence as intimate and infrastructural
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+> “the construction of woman” 
+- positions gender as produced through narrative and spatial arrangements
+- foregrounds process rather than identity
+- enables cross-text linkage with Rossetti and Braddon
+- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
+
+### Context
+- Feminist-materialist critique of popular imperial texts.
+- Shifts attention from individual acts of violence to infrastructural and spatial arrangements.
+- Treats gender not as identity but as a process produced by narrative, architecture, and circulation.
+
+#### Main Points
+- Hennessy & Mohan theorise violence as structural rather than exceptional  
+- Their framework supports your emphasis on domestic containment and misdirection  
+- Useful for linking empire, gender, and form across genres  
+- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
+
+---
