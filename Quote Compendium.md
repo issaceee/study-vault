@@ -194,11 +194,6 @@
 - The scientific register is exposed as promiscuous compilation rather than method.
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> (ch. 1 Loomings) “Though I cannot tell why it was exactly[...] I think I can see a little into the springs and motives.”
-- Hesitant, recursive syntax undermines narrative authority from the outset.
-- Knowledge is retrospective, partial, and speculative rather than declarative.
-- [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
-
 > (ch. 1 Loomings) “Those stage managers, the Fates, put me down for this shabby part.”
 - Theatrical metaphor frames life and narrative as pre-assigned roles.
 - Individual agency is subordinated to larger, impersonal structures.
