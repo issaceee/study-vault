@@ -150,7 +150,7 @@
 - Numbers overwhelm the reader into belief; science functions as rhetorical performance rather than reproducible method.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
-> “I had been strengthened in my opinion by certain observations of Mr. Schroeter, of Lilienthal[...] as well as the aeronautic expedition of Messieurs Gay-Lussac and Biot.”
+> “I had been strengthened in my opinion by certain observations of Mr. Schroeter [...] as well as the aeronautic expedition of Messieurs Gay-Lussac and Biot.”
 - Dense citation situates Hans within a web of scientific authority, borrowing legitimacy from named figures and expeditions.
 - Knowledge appears cumulative and communal, yet remains second-hand and unverifiable.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
