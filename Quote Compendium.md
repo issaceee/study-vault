@@ -266,7 +266,7 @@
 - Modern science repeats older failures of system-building without social embeddedness.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
-> (Finale) “The growing good of the world is partly dependent on unhistoric acts.”
+> (Finale) “the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs”
 - Closure refuses heroic resolution; moral influence is diffuse and collective.
 - Dorothea’s impact is real but not monumental.
 - [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
