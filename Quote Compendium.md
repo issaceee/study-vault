@@ -261,7 +261,7 @@
 
 //
 
-> (Lydgate) “And I am more and more convinced that it will be possible to demonstrate the homogeneous origin of all the tissues.”
+> (Lydgate) “to demonstrate the homogeneous origin of all the tissues.”
 - Absolutist scientific ambition mirrors Casaubon’s totalising intellectual project.
 - Modern science repeats older failures of system-building without social embeddedness.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
@@ -277,29 +277,22 @@
 - Realism emerges as an ethical project attentive to ordinary life, requiring mediation rather than total exposure.
 
 #### Main Points
-- *Middlemarch* defines realism as ethical attention to ordinary suffering rather than dramatic exception. [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]  
-- Knowledge (religious, scholarly, scientific) repeatedly overreaches and fails without sympathy and social embeddedness. [[1. AUTHORITY & ITS PERFORMANCE]]  
-- Silence and inarticulacy mark moments where emotional truth precedes conscious understanding. [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]  
-- Time works through accumulation, return, and consequence rather than revolutionary change. [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]  
-- Closure affirms moral influence without heroic transformation. [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
+- *Middlemarch* defines realism as ethical attention to ordinary suffering rather than dramatic exception.
+- Knowledge (religious, scholarly, scientific) repeatedly overreaches and fails without sympathy and social embeddedness. 
+- Silence and inarticulacy mark moments where emotional truth precedes conscious understanding. 
+- Closure affirms moral influence without heroic transformation.
 
 
 
 ## Henry James — *The Figure in the Carpet*
 
-> “The buried treasure was all gold and gems[...] it seemed to grow and grow before him[...] It was great, yet so simple; was simple, yet so great[...] the desire to drain it, in its freshness, to the last drop[...] When once it came out it came out, was there with a splendour[...] I lived with it for months[...] it was my torment.”
+> “The buried treasure [...] seemed to grow and grow before him[...] It was great, yet so simple; was simple, yet so great[...] the desire to drain it, in its freshness, to the last drop[...] When once it came out it came out, was there with a splendour[...] I lived with it for months[...] it was my torment.”
 - extended eroticised metaphor frames interpretation as possession and consumption rather than relation
 - imagery of growth, extraction, and climax (“grow and grow”, “drain”, “came out”) eroticises meaning as a consumable object
 - cyclical syntax and repetition replace progress → desire renews itself rather than resolves
 - temporal dilation (“lived with it for months”) converts interpretation into an ongoing condition of obsession
 ==> James exposes a solitary, self-gratifying hermeneutic mode where desire for meaning overwhelms the possibility of understanding; closure is staged rhetorically but structurally withheld
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[2. CLOSURE, ENDINGS, AND CONTAINMENT]]
-
-> “I was condemned to the logic of my desire.”
-- explicit self-diagnosis of interpretive appetite
-- “condemned” frames desire as coercive rather than chosen
-==> authority collapses inward: interpretation becomes solipsistic, driven by appetite rather than epistemic humility
-- [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
 > “We had perfectly, we had admirably calculated.”
 - collaborative pronoun (“we”) contrasts sharply with the narrator’s solitary “I”
@@ -313,8 +306,7 @@
 ==> counters the narrator’s eroticised fixation; understanding is produced by collaboration and displacement, not possession
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
 
-
-> “The poor man’s state was his consolation.”
+> “The poor man’s state was his consolation, there are really moments when I feel it to be quite my revenge.”
 - withholding of the secret recoded as “revenge”
 - interpretive failure turned outward → the narrator inflicts his own deprivation on others
 ==> closure arrives not as knowledge but as retaliation; narrative ends with ethical corrosion rather than revelation
