@@ -155,7 +155,7 @@
 - Knowledge appears cumulative and communal, yet remains second-hand and unverifiable.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> “The whole of my discovery was due to the accident of my foot becoming entangled[...] most providentially entangled [...] the disclosures now made would have been utterly lost to posterity"
+> “The whole of my discovery was due to the accident of my foot becoming [...] most providentially entangled [...] the disclosures now made would have been utterly lost to posterity"
 - Scientific ‘breakthrough’ attributed to accident and contingency rather than method.
 - The adverb “providentially” introduces theological causation into empirical narrative, collapsing science into chance and belief.
 - [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]; [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]
