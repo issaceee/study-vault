@@ -145,7 +145,7 @@
 
 ## Edgar Allan Poe — “The Unparalleled Adventure of One Hans Pfaall”
 
-> “Now, the mean or average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii[...] the form of the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis[...]”
+> “average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii[...]the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis[...]”
 - Extreme numerical specificity and technical lexis (“equatorial radii”, “ellipse of eccentricity”) simulate empirical authority through precision rather than verifiability.
 - Numbers overwhelm the reader into belief; science functions as rhetorical performance rather than reproducible method.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
