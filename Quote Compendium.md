@@ -350,7 +350,7 @@
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[1. AUTHORITY & ITS PERFORMANCE]]
 
 > (Prefatory Matter) “I am confident that it is essentially true in all its statements.”
-- White abolitionist authentication frames Black voice as requiring external validation.
+- White abolitionist authentication (LLOYD GARRISON & WENDELL PHILLIPS) frames Black voice as requiring external validation.
 - Authority is mediated through paratext rather than intrinsic.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
