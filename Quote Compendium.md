@@ -542,7 +542,6 @@ Douglass, Middlemarch, Braddon
 	- WHY: Absolute morality cannot survive intact within oppressive structures.  
 	- STAKES: Moral purity loses its authority. Compromise replaces heroism as the ethical norm.
 
-
 ### **4. AFTERMATH EXPOSES RESPONSIBILITY THAT EVENTS CANNOT CONTAIN**
 (Time, memory, consequence)  
 Middlemarch, Braddon, Douglass
