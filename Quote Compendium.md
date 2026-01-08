@@ -338,10 +338,11 @@
 - The term “exhibition” frames slavery as enforced spectacle rather than private cruelty.
 - [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
 
-> (Ch. I — Aunt Hester) “It was the blood-stained gate, the entrance to the hell of slavery.”
+> (Ch. I — Aunt Hester) “It was the blood-stained gate, the entrance to the hell of slavery. [...] I wish I could commit to paper the feelings with which I beheld it.” 
 - Spatial metaphor marks initiation rather than exception → slavery is entered, not merely observed.
 - Aunt Hester’s scream functions as a threshold through which historical knowledge is transmitted
 - [[5. TIME, MEMORY, AND HISTORICAL PRESSURE]]; [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]
+
 
 > (Ch. XI — Escape) “I would not disclose the manner of my escape [...] It would close the slightest avenue by which a brother slave might escape.”
 - Strategic refusal converts silence into ethical action.
