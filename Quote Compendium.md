@@ -559,7 +559,7 @@ Middlemarch, Braddon, Douglass
 	- STAKES: Action alone can no longer secure moral legitimacy. Authority drains from decisive moments.
 - Attention to aftermath prevents responsibility from ending with the narrative.  
 	- ELABORATION: Obligation outlives endings, denying moral release. Responsibility continues even after the story stops.  
-	- WHY: Closure would falsely absolve characters and readers from ongoing consequence. 
+	- WHY: Closure would falsely absolve characters and readers from ongoing consequence. w
 	- STAKES: Readers remain ethically implicated beyond the text. Closure loses its power to excuse.
 - Memory persists because ethical reckoning remains incomplete.  
 	- ELABORATION: The past intrudes where harm has not been addressed. Memory becomes a form of pressure rather than recollection.  
