@@ -669,9 +669,6 @@ W. E. B. Du Bois, _The Souls of Black Folk_ → **failure as empiricism**, wh
 
 Leopold Lewis, _The Bells_ → **failure as dramatic explanation**, where sound and spectacle replace reason.
 
-Arthur Wing Pinero, _Trelawny of the “Wells”_ → **failure as theatrical authority**, where performance survives only as discipline and residue.
-
-
 #### Cluster 1 — Silence under constraint
 
 - Rossetti
