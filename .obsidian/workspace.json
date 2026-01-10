@@ -35,8 +35,7 @@
               "title": "Quote Compendium"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "b793c7034bba5b41",
+  "active": "535fbfbb288b06fe",
   "lastOpenFiles": [
-    "Essay Plans.md",
     "Quote Compendium.md",
+    "Essay Plans.md",
     "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
     "Readings/Texts/Paper 3/Patterns/5. TIME, MEMORY, AND HISTORICAL PRESSURE.md",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
