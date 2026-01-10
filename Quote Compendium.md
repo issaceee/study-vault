@@ -384,6 +384,7 @@
 - Meaning is affective and collective rather than analytical.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
+> ("Of the Sorrow Songs") "knowing as little as our fathers what its words may mean, but knowing well the meaning of its music."
 ### Context
 - Hybrid text combining sociology, history, lyric prose, and spirituals at the turn of the twentieth century.
 - Written in the aftermath of Reconstruction, where legal emancipation coexists with ongoing racial violence and exclusion.

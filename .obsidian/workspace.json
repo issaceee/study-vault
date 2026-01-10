@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca4b3abbe41b81b",
+        "id": "92bcf49d83086199",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Essay Plans"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0ca4b3abbe41b81b",
+        "type": "tabs",
+        "children": [
           {
             "id": "b793c7034bba5b41",
             "type": "leaf",
