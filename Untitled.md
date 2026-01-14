@@ -94,6 +94,7 @@ I am confident in the
 the buried treasure [...] seemed to grow and grow before him
 it was great yet so simple, was simple, yet so great
 the desire to drain it, in its freshness, till the last drop
+When once it came out it came out, was there with a splendour
 I had lived with it for months [...] It was my torture
 
 We had perfectly, admirably calculated
