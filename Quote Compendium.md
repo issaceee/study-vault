@@ -17,7 +17,7 @@
 > Not as she is, but was when hope shone bright;  
 > Not as she is, but as she fills his dream."
 - Identity constructed through negation →  constructs a fragile denial of the suffering of the woman that paradoxically reveals its presence →  the woman’s selfhood exists in what is refused articulation; silence becomes a mode of resistance rather than absence
-- consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the petrarchan sonnet that masks the artist’s devouring impulses.
+- consistent repetition of “not” in the last lines of the poem, creates a rhythmic, insistent pulse, that seems to overshadow that of the superficial rhyme scheme of the Petrarchan sonnet that masks the artist’s devouring impulses.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[*Form, Experiment, Genre]]
 
 ### Context
