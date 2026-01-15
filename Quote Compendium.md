@@ -114,7 +114,6 @@
 
 #### Main Points
 - Detective fiction promises rational mastery, yet relies on repression, displacement, and architectural misdirection.  
-- Imperial anxiety is externalised as animalistic sound rather than articulated voice → empire is present but unspeakable.  
 - Closure is achieved not through full understanding, but through moral aphorism and narrative containment. [[*Form, Experiment, Genre]]  
 - Holmes’s authority depends on managing anxiety rather than resolving it → reason explains danger away rather than confronting its source. [[1. AUTHORITY & ITS PERFORMANCE]]
 
