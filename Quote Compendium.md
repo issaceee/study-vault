@@ -86,6 +86,9 @@
 - Modernity and civilisation here appears partial and precarious, and locating the crime in this space, or more particularly, furnishing the crime and mechanisms of harm with "improvements" and "renovations" meant to heighten this false sense of modernity, **creates a fragile facade of safety in the very space that engineers danger**.
 - [[1. AUTHORITY & ITS PERFORMANCE]]; [[*Form, Experiment, Genre]]
 
+> "if both girls had married, this beauty would have had a mere pittance"
+- the murder is not the effect of foreign contagion, as much as the text misdirects it to be, but of English greed.  
+- The text grounds the violence in English domestic structures, that being inheritance and patriarchy
 
 > “Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another.”
 - Moral aphorism retroactively stabilises the narrative → ethical closure imposed after epistemic collapse.
