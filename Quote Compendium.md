@@ -39,6 +39,7 @@
 
 > "a quiet spectator of life’s great drama, disturbed by no feverish desire for an active part in the play"
 - treated as a “quiet spectator” akin to a ghost by the Chrightons. Sarah feels so estranged  from her home that she adopts a foreigner’s perspective toward it: "weird palace in a German legend"
+- Haunting thus becomes a condition of proximity without agency — a position inside history but excluded from its authority.
 
 > “There was nothing supernatural in the manner of their disappearance.”
 - Negative construction (“nothing supernatural”) strips the apparition of voice and intervention → the ghost does not speak or act, but merely replays the past.
