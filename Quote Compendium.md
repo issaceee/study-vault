@@ -241,6 +241,7 @@
 
 > (Ch. XX — Rome / Honeymoon) “She had no distinctly shapen grievance that she could state even to herself.”
 - Dorothea’s suffering precedes articulation → emotional knowledge exists before conscious understanding.
+- affect before emotional clarity
 - Realism captures inarticulacy rather than dramatic self-recognition.
 - [[4. KNOWLEDGE, SILENCE, AND THE UNSPOKEN]]; [[3. SURFACE, DEPTH, AND THE CRISIS OF REALISM]]
 
