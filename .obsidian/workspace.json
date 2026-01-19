@@ -14,14 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Quote Compendium.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Quote Compendium"
             }
+          },
+          {
+            "id": "26ec8dba14dc20dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "b793c7034bba5b41",
+  "active": "26ec8dba14dc20dc",
   "lastOpenFiles": [
     "Untitled.md",
     "Quote Compendium.md",
