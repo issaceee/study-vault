@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quote Compendium.md",
-                "mode": "preview",
+                "file": "Readings/Lecture Notes/Y1T2 Hilary/todo PRE2W1 Early Middle English Set Texts and Contexts - Laȝamon’s Brut, ll. 14175-14242.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quote Compendium"
+              "title": "todo PRE2W1 Early Middle English Set Texts and Contexts - Laȝamon’s Brut, ll. 14175-14242"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Release Notes 1.11.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.50390243530273,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -195,10 +194,13 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "26ec8dba14dc20dc",
+  "active": "b793c7034bba5b41",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Laȝamon Lecture handout.docx",
     "Quote Compendium.md",
+    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE2W1 Early Middle English Set Texts and Contexts - Laȝamon’s Brut, ll. 14175-14242.md",
+    "Readings/Lecture Notes/Y1T2 Hilary",
+    "Untitled.md",
     "Essay Plans.md",
     "Readings/Texts/Paper 3/Patterns/1. AUTHORITY & ITS PERFORMANCE.md",
     "Readings/Texts/Paper 3/Patterns/5. TIME, MEMORY, AND HISTORICAL PRESSURE.md",
@@ -222,8 +224,6 @@
     "Readings/Texts/Paper 3/*Identity, Self.md",
     "Readings/Assignments/Y1T1 Michaelmas/PRE3W7 Class - Realism, Middlemarch.md",
     "Readings/Assignments/Y1T1 Michaelmas/PRE3W8 Tutorial -  Art.md",
-    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
-    "Form, Experiment, Genre.md",
     "Readings/Texts/Paper 3/Patterns",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/header.tex",
@@ -232,7 +232,6 @@
     "Readings/Lecture Notes/Y1T1 Michaelmas/build",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build_obsidian.py",
     "Readings/Assignments/Y1T1 Michaelmas",
-    "Readings/Lecture Notes/Y1T1 Michaelmas",
     "z. Assets/Documents/Pasted image 20251113122446.png",
     "z. Assets/Documents/IMG_2678.jpeg",
     "z. Assets/Documents/Pasted image 20250905195013.png",
