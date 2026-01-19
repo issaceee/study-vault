@@ -35,10 +35,48 @@ big question: extremely pessimistic poem about modern experience. whether in the
 
 linguistic characteristics/pattern in the poem
 - sex & sexuality
+	- describing the gender expectations that organised domestic life after WW1
+	- 
 - water (but mostly no water)
 - city 
+	- homogenous, colourless entity ... city as a fertile ground (culture is dead, especially )
+	- Unreal City, - reference to Boudelair poem
+		- city as being community-centric
+		- communal sort of grief
+		- scale of modern city life is itself unreal?
+		- reference to culture is grounded in descriptions of the city
+	- cars
 - Religious
 - Mechanisation of humanity
 - birds & birdsongs (nightingale, hermit-thrush)
+- Mass Culture
+	- lines 249 - 
+		- automatising of the woman after the sexual encounter
+		- sex as inherently city-like --> lack of life **turning something on and off... dissociation criticisng the modern world and city... distance
+		- conservative politics --> woman who can live alone as a typist, sexual freedom BUT eating food out of tins, couch as bed, sex is dehumanising
+	- but scholars also argue that it might not be as bad as people originally thought
+		- fragmentation and cinema 
+		- Shakespeherian Rag --> popular culture that fills his head
+		- Eliot is adapting and transforming Shakespeare (in the specific section)
+
+
+- water imagery
+	- good - references to a bunch of other references (Fisher King --> a figure of regenaration)
+	- purging process
+
 
 ** as if its teasing a unity but seems quite 
+
+
+"either or else leading to a kind of muddling through towards only very generalised levels of meaning like the poem is about Elliot's personal distress and search for faith or it expresses on morbid post World War II world view and then there's another response that's like you'll get a certain type of wants to look for all the references and really pursue those"
+
+- Pasca Nov
+	- Lonodn as a cultural epicentere --> becomes a dwindling cultural centre --> Ts Elliot and Ezra Pound (americans)
+
+
+* glimmer of regeneration as the americans coming to Ldn after the devastation of WW1 --> american, part of a rising global hegemon, wanting to reorganise the barren-ness of the world*
+
+
+- what else about these poems other than Eliots generalisations
+
+
