@@ -18,3 +18,20 @@
 
 
 im boreddd.... 
+
+
+
+a language is with a navy and army --> political 
+
+
+when a non-standard english is written out phonetically, why isnt standard english written out phonetically
+
+diff type of varities and standardisation
+- how far are the differences due to the variety or to the fact that they are trying to represent the language
+
+
+
+imitate spoken speech - 
+
+
+Joseph Wrights English Dialect Dictionary (1900s)
