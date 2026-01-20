@@ -36,6 +36,33 @@ Bildungsroman but also a charting of the city (// Mrs Dalloway of London)--> try
 
 shift from extreme form of liberalism and openness to extreme closure and censorship 
 
+Mr Norriss cahnges trains
+
+camp register
+- setting of toilette (gender transposition)
+- tone of narrator and mr norris voice 
+	- humour and aphomirism that remind us of Oscar Widle
+	- Wilidian references to show readers decadent traditions and camp traditions
+
+Susan Sontag, Notes of Camp
+- camp as blurring the real and the fake
+- "Being-asPlaying-a-Role"
+- style over content, aestheticism over morality, irony over tragedity
+- diff btw the thing as meaning something, anything and the thing as pure artifice
+
+tableus of various moments - sexual freedom, 
+pornography and sex as something interesting to Isherwood - Berlin as a sex capital
+
+
+Goodbye to Berlin
+- episodic, could almost read it as a series of short stories (in fact, oen or two was written as short stories)
+- autobiographical (calls the narrator cristopher isherwood but then says that its not)
+
+- jazz culture]
+
+
+- the narrator that registers the changes in the city (early signs of jews being dscriminated, communists vs the liberalists --> w documentary precision, but)
+
 
 
 
