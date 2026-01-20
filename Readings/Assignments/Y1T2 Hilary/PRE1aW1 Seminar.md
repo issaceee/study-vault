@@ -37,3 +37,13 @@ imitate spoken speech -
 Joseph Wrights English Dialect Dictionary (1900s)
 
 using non-ideal (e.g. Urban dictionary) --> if you do use it, need to state why u use a non-scholarly reference
+
+SCottish
+
+Dictionary of the Scottish Langauge
+Dictionary of the Old Scottish Tongue
+
+Alex Broadhead
+- argues that Burns is using a synthetic scott --> dialect, archaic scott, 
+- not like any kind of scott that anyone every spoke --> made up version
+	- Burns utilises linguistic stereotypes
