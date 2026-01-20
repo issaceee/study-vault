@@ -62,6 +62,8 @@ Goodbye to Berlin
 
 
 - the narrator that registers the changes in the city (early signs of jews being dscriminated, communists vs the liberalists --> w documentary precision, but)
+- we read him as a fictional character described by a somewhat unreliable narrator in turn created by an implied omniscient author who can erase and cancel out his narrator at will -> Rose Kamel
+
 
 
 
