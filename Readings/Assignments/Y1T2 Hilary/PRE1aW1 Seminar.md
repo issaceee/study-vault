@@ -35,3 +35,5 @@ imitate spoken speech -
 
 
 Joseph Wrights English Dialect Dictionary (1900s)
+
+using non-ideal (e.g. Urban dictionary) --> if you do use it, need to state why u use a non-scholarly reference
