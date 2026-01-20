@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -212,7 +213,7 @@
     "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
     "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "Readings/Texts/Paper 3/*Form, Experiment, Genre.md",
-    "[EXAMP]A10112W1_2017_2018_T.pdf",
+    "z. Assets/[EXAMP]A10112W1_2017_2018_T.pdf",
     "Readings/Texts/Paper 3/Patterns",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/header.tex",

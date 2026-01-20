@@ -1,1 +1,20 @@
 
+- data/evidence driven paper --> 80% is on the nuts and bolts/details of the passage
+	- technical NOT close-reading
+		- avoid making impressionistic assertions
+			- "casket of perfume" --> connotations of death, need to prove it:
+				- casket in dictionary/corpus --> look at the words it typically appears next to, (if it appears next to a lot of words to do with death)
+- any text at all BUT as long as it is an originally english text
+
+- not literary close reading --> make sure at least one of the chosen texts is non-literary (but both can be non-literary as well)
+	- would be useful to have crossover in topic to have a bit of unity
+	- reduce the variables between the text
+		- e.g. gender comparing a women writing a letter in 16th century vs tweet by trump BUT a lot of time is spent on talking about why things are different rather than showing the gender element
+
+- 1a commentary: essay qns but apply it in detail to chosen qns 
+	- critical field and academic context in a few words (need to be deft) - most are in the analysis
+
+** make sure passage answers the qns 
+
+
+im boreddd.... 
