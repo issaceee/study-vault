@@ -184,9 +184,25 @@ Strategies:
 	- how is stance being manufactured (digital discourse)
 4. Metaphors and metaphoric mapping
 	- how metaphors shape/construct preferred versions of reality
+	  
+	- Lakoff and Johnson Spatial metaphors
+		- up is alw good, down is alw bad
 5. Pronouns and power
 	- how are pronouns being used to set up alignments of power, us vs we
+	
+	- endophoric: within the text, within the group
+		- "We = parliament, politicians, you= electorate"
+	- exophoric: outside the text, outside the immediate group (exclusive)
+		- "We == collectivity, the nation, the inclusive "we" – we must ALL act tgt
+	==> prenominal inclusion/exclusion
 6. ideological squares and unpicking 'us' and 'them', and the language of othering
+	- emphasize positive things about US
+	- emphasize negative things about them
+	- demphasize negative things about US
+	- demphasize positive things about them
+	
+	- leader vs electorate
+		- 
 
 
 
