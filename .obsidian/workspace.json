@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/Y1T2 Hilary/todo PRE4W1 C20th and C21st African American Fiction and Drama - The Harlem Renaissance in verse, text and image.md",
+                "file": "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo PRE4W1 C20th and C21st African American Fiction and Drama - The Harlem Renaissance in verse, text and image"
+              "title": "todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -183,8 +184,9 @@
   },
   "active": "81533aafe00eb92f",
   "lastOpenFiles": [
-    "Readings/Assignments/Y1T2 Hilary/PRE1aW1 Seminar.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE4W1 C20th and C21st African American Fiction and Drama - The Harlem Renaissance in verse, text and image.md",
+    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
+    "Readings/Assignments/Y1T2 Hilary/PRE1aW1 Seminar.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todoPRE1aW1 Introduction to English Language (Compulsory Lectures).md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE4W1 Christopher Isherwood Berlin and Beyond.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE2W1 Early Middle English Set Texts and Contexts - Laȝamon’s Brut, ll. 14175-14242.md",
@@ -211,7 +213,6 @@
     "Readings/Texts/Paper 3/Patterns/3. SURFACE, DEPTH, AND THE CRISIS OF REALISM.md",
     "Readings/Texts/Paper 3/Patterns/2. CLOSURE, ENDINGS, AND CONTAINMENT.md",
     "Readings/Texts/Paper 3/*Gender, Sexuality, Body.md",
-    "Readings/Texts/Paper 3/*Faith, Doubt, Religion.md",
     "z. Assets/[EXAMP]A10112W1_2017_2018_T.pdf",
     "Readings/Texts/Paper 3/Patterns",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
