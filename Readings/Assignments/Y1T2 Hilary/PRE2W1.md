@@ -62,3 +62,93 @@ what bits gets told and repeated
 
 climaxes in the narrative
 - are the monster fights narrative climaxes?
+
+Meowler
+- Lament of the ___ woman
+
+The text itself 
+- accident of time, or meaningfully constitutive of our reading
+
+what is heroism - constituted out of what opposes it?
+- ellen - brave or bold - used to describe Grendel
+
+is Heroism 
+
+
+Beot- boast/oath/vow
+maþelode(?) - make a speech
+
+performative utterance (___ austen)
+- certain things that you say that do things to the world, enact change as they are spoken
+	- "I now pronounce u man and wife"
+	- names the heroism - fulfilled at the minute that the boast was made
+
+- with the hand thing Hrothgar --> Beowulf tells Hrothgar the true story, but gives the mother the 
+
+Why write this poem down? (_alcuetz(??)___ of york)
+- What has ingald to do with Christ
+	- ingald as a mythic position
+	- critique o9f monks interacting with multiple spiritual stuff
+- Historia ____ Peganos
+
+	- argument that the entire age of monks was doing the wrong thing
+	- but at the same time, during this time there was the problem of the virtuous pagan
+		- St Archenwald peom
+
+imaginary? cautionary? much to praise in it (pre-christian type of hagiographic figure)?
+
+- B's fight w G ruins herot, even before B comes in, the hall is already ruined
+	- you don't get the body, you don't get the ehad, G's death happens off-screen, you only get the hand that B exhibits
+
+"That was a good king"
+- was it entirely straight-faced? or snarky/sarcastic? or an inside joke?
+- esp. for Hrothgar, whose hall is ruined
+
+Sedmund portion
+- incestuous marriage that the poet hints at (could be funny to contemporary audience)
+
+* **what layers of feeling and experience are irrecoverable to us now? are they recoverable now?**
+	* will translation help? --> hwat(?)
+		* listen? what? Bro?
+	* Maria Von Helley translation (?)
+
+Tolkien advocated for an arcahising translation
+- argues that Beowulf is meant to invoke another word
+	- hapax --> reaching towards a register of langauge that is not everyday
+
+
+
+
+genre
+- Beowulf as an epic poem
+	- Oddysey (Romance(?)) vs Aenied (Epic(?))
+		- epic as a march to a point and tied to a founding of a nation, movement through different conflicts to reach a unity (national or people)
+			- interestingly now, Beowulf takes up the place of a national (english) epic, because there isnt another one (retrospective criticism)
+				- leo co... called it an epic-romance
+				- B contains elements of geneology, hagiographical, biblical pastiche --> genre in B is a vexed question
+			- originally seen as primitive (racialised, other), perhaps becomes it cant tell a linear story
+			- 
+		- romance is inherently digressive, errant, resists being forced into a triumphal progress towards a goal (episodic)
+
+
+W in B
+- Hildeburg
+- Wealhtheow
+- Grendel's Mother
+	- her entire existence threatens B's power and defeat of G
+	- but is only temporary, and exists only so B can cut her down
+	- // to that of The Dragon --> Grendel's mother is framed relationally, but the Dragon 
+		- but also to take note the "grendel's mother" is shorthand as well, she is described multiple ways
+
+a bigendred axis of power - B's mother (glancing mother by Hrothgar --> but B is being placed in a geneology of male; BUT grendel kin subverts this)
+
+- to be a women in the poem --> as if it is an incursion in a world dominated by male
+	- is being a woman/incursion
+		- Wealhtheow has a sense of diplomacy that it seems the men dont
+			- give B the gold cup --> distibution of treasure that binds the lord to his thane comatatese, --> she is the one that shapes the whole course of succession for Hrothgar (but that ends up not rly working)
+			- "as a man should do" --> SHE is the one who sets the 
+				- acts as a custodian of social norms
+		- When H foretells the B's death
+
+Which Woman speaks in the poem?
+- only have one woman speaker in the poem (waelher??)
