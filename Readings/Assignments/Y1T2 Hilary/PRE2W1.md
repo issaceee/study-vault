@@ -159,3 +159,70 @@ Which Woman speaks in the poem?
 	- physical conditions often contort what we think
 	- G's mom sits on his chest
 
+
+Poem has Fitts (numbered divisions within the poem)
+- 42 total
+
+oral tradition vs written
+- oral circulation could be a testiment to its social stature
+- recombination of oral formal memories
+	- repeating the grendel narrative seems to be a usefu way to memorise
+	- repetition of epithets
+	- typescenes that people would have in their mind and can slot in at the apropriate point
+
+
+Fins episode Hildeburh
+
+- but even if there are remanence of some oral performance, does it matter, because all we have are textual evidence
+	- fitt break when beowulf is telling his story to aunfath??
+		- splits in the middle of a sentence in a weird way
+
+
+
+
+
+one of the architectural divisions suggested is the 4 funerals
+- start
+- Fins
+- *The last lament of the survivors
+- Beowulf's funeral
+
+
+translatio empiri
+
+Scyld Scefing as a type of Grendel --> incursion into another's hall, boundaries as a flex
+--> Beowulf enters the shadow hall of G --> has to go through G's shadow retainers
+
+
+why begin with geneology?
+- many of the first speeches that B maeks, has to do with his geneologies
+- what works of genealogy
+	- Adam M?? "hostile homeland" --> reading of G and G mom as an indigenous population who present to the human hall as a disquieting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
