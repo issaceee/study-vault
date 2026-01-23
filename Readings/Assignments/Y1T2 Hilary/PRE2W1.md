@@ -152,3 +152,10 @@ a bigendred axis of power - B's mother (glancing mother by Hrothgar --> but B is
 
 Which Woman speaks in the poem?
 - only have one woman speaker in the poem (waelher??)
+
+- idea of not being able to tell who is doing what to whom
+	- "fingers bursting"
+		- whose bursting whom
+	- physical conditions often contort what we think
+	- G's mom sits on his chest
+
