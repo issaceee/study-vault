@@ -61,3 +61,4 @@ spatial
 Saint-Amour, Paul K. “Weak Theory, Weak Modernism.” _Modernism/Modernity_ 25, no. 3 (2018): 437–59. [https://doi.org/10.1353/mod.2018.0035](https://doi.org/10.1353/mod.2018.0035).
 
 - no anxiety over who is a modernist or who is not
+- opens up a canon
