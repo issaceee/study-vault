@@ -7,3 +7,7 @@
 
 Pound: Imagism movement - attempt to render through langauge a sort of pristine image - what is the appeal of this endeavour at this point of time
 --> Pound describes the rs btw the two lines as a form of acquaision (?)
+
+
+"these" - present tense that distills the experience
+"apparition" - mythic quality of the spacialisation of the poem
