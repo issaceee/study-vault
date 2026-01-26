@@ -62,3 +62,7 @@ Saint-Amour, Paul K. “Weak Theory, Weak Modernism.” _Modernism/Modernity_ 25
 
 - no anxiety over who is a modernist or who is not
 - opens up a canon
+
+==> new modernists seem to paint old modernism as static --> sea rose as being marshalled as the prime example of imagism but also fighting/subverting the gender dynamics in modernism
+==> recuperate modernism. as something to be studied
+----> politics of modernism (pound who is a fascist; but harlem resistance as New Deal Liberal welfare state (more leftists), see art as a way of achieving equal citizenship): if we understand modernism as a reaciton against forces mobilised against modernity - it can go in multiple, contradictory ways - far right or leftist, collective ways
