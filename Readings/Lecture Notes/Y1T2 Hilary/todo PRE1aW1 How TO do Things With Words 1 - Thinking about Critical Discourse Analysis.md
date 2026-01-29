@@ -224,6 +224,6 @@ functionalization: when social actors are represented or defined in relation to 
 
 
 
-
+![[How to Do Things with Words week 1 HANDOUT 2026.docx]]
 
 
