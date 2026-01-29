@@ -208,13 +208,9 @@ Produce **polished, interpretive, Obsidian-ready lecture notes** that combine:
 
 
 
+peliptiton - use of the same root word in 3 different forms
 
 
-
-
-
-1a text
-- astrology readings
 # Transcript
 
 
