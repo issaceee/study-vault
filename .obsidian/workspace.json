@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "PRE1aW1 Seminar"
             }
+          },
+          {
+            "id": "33d980e649b24c1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "81533aafe00eb92f",
+  "active": "33d980e649b24c1f",
   "lastOpenFiles": [
     "Readings/Lecture Notes/Y1T2 Hilary/todoPRE1aW1 Introduction to English Language (Compulsory Lectures).md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
