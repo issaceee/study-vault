@@ -50,3 +50,10 @@ Judith as a correction of the text in Beowulf
 Judith 
 - based on the bible
 - but actually dechristianizes some of it (not led by priests but warriors)
+	- explicit sanction of god is also attributed to Beowulf (like he attributes a lot of his victory to God)
+
+- contrast her emphatic on her chastity, 
+	- warrior
+	- warrior-for-christ tradition (Guethlac A and B --> similar imagery to Judith; St Edmund) --> cross as kind of a thane of the lord --> saintly hero is not necessarily that unusual
+		- but her being a woman --> poem doesn tmention that she is a widow --> masculinises her (lopping off of the beginning is a challenge then)
+		- 
