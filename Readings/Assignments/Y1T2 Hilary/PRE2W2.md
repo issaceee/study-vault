@@ -37,3 +37,9 @@ general consensus is that scribes were conservative
 
 maybe scribe a was working with an older script
 
+Sarah K - Animal Skins and The Reading Self
+Of Pigs and Parchment
+
+
+
+environmental damage ---> inhumanity resists any reading into mindsets (cf. actor-network theory --> agency in the non-human, exists in concert w/ human agency --> 'thing theory')
