@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
+                "file": "Readings/Assignments/Y1T2 Hilary/PRE4W2 Mrs Dalloway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis"
+              "title": "PRE4W2 Mrs Dalloway"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -183,10 +184,11 @@
   },
   "active": "81533aafe00eb92f",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
+    "Readings/Assignments/Y1T2 Hilary/PRE4W2 Mrs Dalloway.md",
     "Readings/Assignments/Y1T2 Hilary/PRE1aW1 Seminar.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW2  How TO do Things With Words 1 - Historical Lens to Linguistic Analysis.md",
     "How to Do Things with Words week 1 HANDOUT 2026 - Tagged.pdf",
-    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
     "How to Do Things with Words week 1 HANDOUT 2026.docx",
     "HT2 Texts and Time (1) 2026-1.pptx",
     "Readings/Lecture Notes/Y1T2 Hilary/todoPRE1aW1 Introduction to English Language (Compulsory Lectures).md",
