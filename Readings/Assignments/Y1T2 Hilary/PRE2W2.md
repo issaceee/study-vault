@@ -43,3 +43,6 @@ Of Pigs and Parchment
 
 
 environmental damage ---> inhumanity resists any reading into mindsets (cf. actor-network theory --> agency in the non-human, exists in concert w/ human agency --> 'thing theory')
+
+
+Judith as a correction of the text in Beowulf
