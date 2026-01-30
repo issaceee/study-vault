@@ -46,3 +46,7 @@ environmental damage ---> inhumanity resists any reading into mindsets (cf. acto
 
 
 Judith as a correction of the text in Beowulf
+
+Judith 
+- based on the bible
+- but actually dechristianizes some of it (not led by priests but warriors)
