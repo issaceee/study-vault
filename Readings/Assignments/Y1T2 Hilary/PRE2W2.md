@@ -64,4 +64,6 @@ Judith
 				- language of christ reaching backward where it shouldnt
 				- eternal drama of salvation might put a different gloss 
 			- Saint Beaouwulf, Hagriography (Peter Ramey)
-			- Francis - Beowulf the wrath of god and the fall of agnels (B is being construed not as a victim of Pagan anger, but in fact as someone who bears with him the might of God and the wrath of God, Grendel bearing god's ire, Beowulf is a divinely sanctioned fulfilment of that ire) --> sit with the reality that B is a
+			- Francis - Beowulf the wrath of god and the fall of agnels (B is being construed not as a victim of Pagan anger, but in fact as someone who bears with him the might of God and the wrath of God, Grendel bearing god's ire, Beowulf is a divinely sanctioned fulfilment of that ire) 
+			- --> sit with the reality that B is a post-christian poem. (presentation of Holophranes) --> does B seem closer to H than to J? (B & J are aligned in how readers are supposed to relate to them - B as a pagan warrior who can be done away with)
+	- 
