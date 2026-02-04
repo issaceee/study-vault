@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Assignments/Y1T2 Hilary/PRE1aW3 Seminar.md",
+                "file": "Readings/Assignments/Y1T2 Hilary/PRE2W2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE1aW3 Seminar"
+              "title": "PRE2W2"
+            }
+          },
+          {
+            "id": "597cba148747ed41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW3 Lecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo PRE1aW3 Lecture"
             }
           }
         ]
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a628997d923a822",
@@ -184,20 +197,20 @@
   },
   "active": "81533aafe00eb92f",
   "lastOpenFiles": [
-    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW3 Lecture.md",
+    "Readings/Assignments/Y1T2 Hilary/PRE2W1.md",
     "Readings/Assignments/Y1T2 Hilary/PRE1aW3 Seminar.md",
+    "Readings/Assignments/Y1T2 Hilary/PRE1aW1 Seminar.md",
+    "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW3 Lecture.md",
     "Writing identity in language HANDOUT WEEK 3 2026 - Tagged.pdf",
     "Readings/Assignments/Y1T2 Hilary/PRE2W2.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W2 Mrs Dalloway.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW1 How TO do Things With Words 1 - Thinking about Critical Discourse Analysis.md",
-    "Readings/Assignments/Y1T2 Hilary/PRE1aW1 Seminar.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW2  How TO do Things With Words 1 - Historical Lens to Linguistic Analysis.md",
     "How to Do Things with Words week 1 HANDOUT 2026 - Tagged.pdf",
     "How to Do Things with Words week 1 HANDOUT 2026.docx",
     "HT2 Texts and Time (1) 2026-1.pptx",
     "Readings/Lecture Notes/Y1T2 Hilary/todoPRE1aW1 Introduction to English Language (Compulsory Lectures).md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W2 Seminar.md",
-    "Readings/Assignments/Y1T2 Hilary/PRE2W1.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W1.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W1 Tutorial.md",
     "Readings/Lecture Notes/Y1T2 Hilary/todo PRE4W1 C20th and C21st African American Fiction and Drama - The Harlem Renaissance in verse, text and image.md",
