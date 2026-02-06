@@ -20,4 +20,24 @@ Mark McGurl - The Novel Art
 Emergence of literary sociology
 - Bourdeian descriptions of aesthetic value - production of literature takes place in a cultural field, writers make actions in this field in order to accrue value against others
 - Vs. Stein puts forward aeshtetic value and skills that are different
+
+earlier chapters
+- Alice naive response to art that Stein eventually coaches
+- Siraganian - Matisse as like Alice who doesnt know
+
+Getrude Stein
+- projects 
+
+the book is invested in bridging the divide btw avant garde and mass-
+- nobody wanting to publish anything she writes
+- this is the book that convinces the world to buy and publish
+	- GS trying to educate/discipline the mass audience as to the value of mass art.
+	- sensual delight in the picture of a naked woman
+
+complicated 
+
+the salon
+- Pascal Cassanova reading
+- games of aesthetic distinction (picasso doesnt hang, some people hang to provoke outrage)
+	- official vs unofficial art
 	- 
