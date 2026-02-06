@@ -109,3 +109,39 @@ putting the head into a bag of food
 shadow sociality --> band that we see feasting together and sharing emotional bond, individuals becoming disambiguited --> is the band of the enemy
 
 Is J like G (intruding onto the heroic camp) or like B (entering into the G's mother)
+
+
+Juliana
+- defeat of the devil - attempted conversion through dialogue(?) 
+- against the (jews) literature genre that evolves later on
+	- dialogic 
+- places her as a quasi-priestly function --> she affects the transformation of the devil's -- eucharistic function, by correctly reading the true substance of the devil acting as an angel she can affect the transformation of the devil
+
+Although he might try something good spiritually, I am immediately prepared to scrutinize all his inner thoughts, how fortified his heart may be inside, 400 how the resistance is constituted. I open the gate of that wall through malice; the tower is pierced, the entrance opened; then I first through the flurry of arrows send into his heart bitter thoughts 405 through various desires of the mind, so that to himself it seems better to practice vices, lusts of the body, than the praise of God.
+- war, invasion and penetration (integrity of nation, fortress and body)
+
+Piousness and christian Piousness
+- TBOM --> national identity is not super emphasised (repeatedly called heathens)
+	- shari Horner (Spiritual Couth and ....) --> female monastic audience (?) but also written in a context of women enclosures, monastic communities (body etc.) were continually being invaded
+		- confirm women religious in their devotion to god but also their security in their female monastic communities
+
+spaces in the poem - the prison space that 
+- monastic enclosure as willed imprisonement
+
+is martrydom incompatible with heroism(?)
+- heorism and submission, fame and suibmission
+
+
+Guthlac A
+
+
+
+
+**Soloman and Saturn --> runes**
+- charms and code runes
+- signification and mystification
+
+
+
+
+affective piety
