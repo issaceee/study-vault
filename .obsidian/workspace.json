@@ -25,12 +25,14 @@
             "id": "7663ce0ceb4db400",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Readings/Assignments/Y1T2 Hilary/PRE4W4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "PRE4W4"
             }
           },
           {
@@ -210,6 +212,7 @@
   },
   "active": "7663ce0ceb4db400",
   "lastOpenFiles": [
+    "Readings/Assignments/Y1T2 Hilary/PRE4W4.md",
     "Readings/Assignments/Y1T2 Hilary/PRE2W3 Seminar.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W2 Mrs Dalloway.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W2 Seminar.md",
@@ -243,7 +246,6 @@
     "Readings/Texts/Paper 3/Patterns/5. TIME, MEMORY, AND HISTORICAL PRESSURE.md",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.md",
-    "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.backup.md",
     "z. Assets/[EXAMP]A10112W1_2017_2018_T.pdf",
     "Readings/Texts/Paper 3/Patterns",
     "Readings/Lecture Notes/Y1T1 Michaelmas/build/merged.pdf",
