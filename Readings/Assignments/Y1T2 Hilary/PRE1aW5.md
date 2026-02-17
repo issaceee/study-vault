@@ -13,3 +13,4 @@ poetic metaphor has died?
 metpahorical meanings being listed in dictionaries as actual meanings (interesting stage in the words development)
 
 cite btw 4 & 8 secondary --> 1.5-2k (includes footnotes)
+must state date and country, what the audience would have been
