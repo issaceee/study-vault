@@ -68,6 +68,10 @@ idea of the different kind of communities that they con struct but dont construc
 		- interpersonal relationship with the bishop --> confirm her for the rite
 		- and also relationship witht he outside who comes to the cell 
 		- and also relationship between anchorites 
+
+	- excludes from his vision, people who commit sexual sin --> marriage is unbearable but not sinful --> (you) the vividness of being forced to occupy the body that is beaten, contorted by pregnancy --> not quite as atypical as we might expect (molastia _____ affliction of marriage ______ ) 
+	- ==if it were written by a male spriritual advisor, there is a strange attention to the embodiement of the female body --> not disinterested in womens experience and the texture of womans experience==
+
 - Ancrene Wisse
 	- demonstrates that relationship with the religious advisor and the devotee
 	- "do not make your anchorhold as a school" --> anchorhold as becomeing a site of dialogue 
@@ -79,4 +83,11 @@ idea of the different kind of communities that they con struct but dont construc
 	- however much u might be able to interact with others, ultimately the anchorites are subjected/not on their terms --> can't seek people's company out 
 	- but at the same time, the purveiw sort of widens, position of spiritual responbsibility --> through that 1 relationship with god, they have access toe veery living thing --> materially restricted but imaginatively capacious
 	- AW is not an intellectually narrow text, but draws on many textual traditions --> shifting metaphors of the souls relationship with christ
-	- 
+	- anchorites, grounding and introspection (reflect on status as a creation, primarily as having an intrinsic relationship to god and secondarily a vowed relationshio) is the first step, and then perhaps can shift outwards
+		- if not bound by what you can see and what you can hear then perhaps the imagination and sense can expand
+
+
+- role of the male spiritual advisor --> intimacy in how this figure imagines his way into the space --> granular level of detail how women should proceed in their daily life
+	- male spiritual advisor 
+	- AW --> multiple revision --> corpus revision --> is the revision responding to questions of the female adresses --> have female addresees participated in the copying --> cross-gendered textual community 
+	- look at across the catherine group texts
