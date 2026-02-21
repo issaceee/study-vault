@@ -23,4 +23,12 @@ copenhagen --> dramatisation of a white modernist artist that is fetishizing bla
 
 role of desire and sexuality 
 - “And then it happened. He stopped and kissed her, a long kiss, holding her close. She fought against him with all her might. Then, strangely, all power seemed to ebb away, and a long-hidden, half-understood desire welled up in her with the suddenness of a Quicksand 175 dream. Helga Crane's own arms went up about the man's neck. When she drew away, consciously confused and embarrassed, everything seemed to have changed in a space of time which she knew to have been only seconds. Sudden anger seized her. She pushed him indignantly aside and with a little pat for her hair and dress went slowly down to the others” (“Quicksand”, p. 174) 
-	- sex-race marketplace
+	- sex-race marketplace --> commodification and marketability of black female sexuality --> act of defiance in the way that Black man were seen as sexual predators
+	- enshrined ideal of race motherhood 
+	- individualistic, sexual desire
+
+- desire as a charged arena in which identity is struggling to define itself  
+
+aesthetic taste and distinctiveness in a dehumanising institution --> arent sensistive to her specificity as an individual 
+- Helga cant be defined in any one category, just perenially satisfied, she would resist being defined as any categorisation --> she rejects her other forms of social rejection and warps into a conventional life that she cant escape....
+
