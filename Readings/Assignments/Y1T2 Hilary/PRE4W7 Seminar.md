@@ -67,5 +67,25 @@ rejection and disatisfaction with the thing that previously could give him
 
 
 
+“They ain’t at Sweet Home. Schoolteacher ain’t got em.”
+
+“Maybe there’s worse.”
+
+“It ain’t my job to know what’s worse. It’s my job to know what is and to keep them away from what I know is terrible. I did that.”
+
+“What you did was wrong, Sethe.”
+
+“I should have gone back there? Taken my babies back there?”
+
+“There could have been a way. Some other way.”
+
+“What way?”
+
+“You got two feet, Sethe, not four,” he said, and right then a forest sprang up between them; trackless and quiet. Later he would wonder what made him say it. The calves of his youth? Or the conviction that he was being observed through the ceiling? How fast he moved from his shame to hers. From his cold-house secret to her too-thick love. (pg.194 Vintage Classics ed.)
+
+- the mismatch between the communication of the actual event
+- the idea of animalisation of Sethe that is utilised by Paul D that is similarly utilised by enslavers...
+- 
+
 
 
