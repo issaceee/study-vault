@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "PRE4W6 Tutorial"
             }
+          },
+          {
+            "id": "07b96c20cb16788d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "92eec0d0cce5a941",
+  "active": "07b96c20cb16788d",
   "lastOpenFiles": [
     "Quote Compendium.md",
     "Readings/Assignments/Y1T2 Hilary/PRE4W6 Tutorial.md",
