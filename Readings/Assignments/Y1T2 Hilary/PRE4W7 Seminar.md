@@ -85,7 +85,37 @@ rejection and disatisfaction with the thing that previously could give him
 
 - the mismatch between the communication of the actual event
 - the idea of animalisation of Sethe that is utilised by Paul D that is similarly utilised by enslavers...
-- 
+
+
+vehicle for repressed historical memory that acts as a disruptive historical force
+--> buyt also need to note that what is forgotten is the actual act of trauma itself, not the tales and stories that are told --> unresovled traumatic event that carries it over.... 
+==> i think also the idea that remembering seemed unwise is interesting - why isit unwise to rememebr trauma
+
+
+
+
+
+
+radical reading
+- Cassanova - deterritorialised literary cultures
+- cultural perciluarity, literature becomes the preferred mode for examine cultural percularianess and uniqueness
+- after WW2 system of capitalism that loves/celebrates diversity --> appropriation of diversity 
+
+
+Beloved as a thereutapic nature - understanding the Black experience as a way to understand them and how to manage them as future elites
+- Represent and Destroy
+
+vision of traumatised AA community that has witnessed the breakdown of familial life
+- The New Right --> the Black family as the pathological issue of the US
+- 1980s - conviction that the Black Family unit is broken
+
+
+anti-traumatic reading of Black - The New Life
+
+Beloved - not denying the importance of trauma, but just because of trauma doesnt mean they have no agency
+- Sethe act's to kill her children IS an act of self-assertion of her agency when facing this dehumanised
+- break through this rhetoric of conservatives - there is no such thing as historical trauma and oppression - but also the liberal view - trauma faced by the Black community has been answered.
+
 
 
 
