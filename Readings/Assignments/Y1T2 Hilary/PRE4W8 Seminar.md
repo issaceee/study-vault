@@ -140,6 +140,11 @@ Morgan:
 	- “‘Sure, didn't I take my own mother’s name, Mother. And never any harm did it do me.’ ‘Is that so? “What have I against girls?’ he went on. ‘My own mother was a girl, once. And I dare say the same must be true of you and half of all belonging to us.’” (Keegan, 2021, p. 70)
 	- feminist? 
 
+literary culture today as dying (?)
+- heavy handed books
+
+
+
 
 
 
