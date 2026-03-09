@@ -1,5 +1,37 @@
 
 
+
+# GENERAL PRELIM
+
+-  
+
+practice close reading questions
+
+- engagement with the question - a bit of close reading - picking out interesting aspects and
+
+- secoondary primary texts - e.g if doing Woolf, then add like some non-fiction from her work...
+
+- dont need to memorise chunks of text from secondary readings, better to just paraphrase and introduce the keywords....
+
+- need to cite secondary article (text name, year, author)
+	- 
+
+always better to nuance and show complication
+
+
+- always better to choose narrow rather to branch out
+
+
+
+non-canon texts might be a plus - but prepare to argue why it is literature and should be considered literature in response to the question
+- im thinking in terms of readership (?) nuance (?) perspective it grants (?) - audienceship (?)
+
+
+
+
+
+
+
 # PRE3
 
 ## Christina Rossetti — *In an Artist’s Studio*

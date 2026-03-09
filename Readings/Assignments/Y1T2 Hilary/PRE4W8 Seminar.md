@@ -131,6 +131,13 @@ Morgan:
 
 - Keagen's role as a writer // Furlogn's saving
 
+- the book as historical fiction?
+
+
+
+
+
+
 " im not saying he isnt heroic but that this is a self destructive man who is breaking down"
 
 - the idea of tragedy - how you build up towards the final act but at the end the act is futile because the girl isnt really turly saved
@@ -139,6 +146,26 @@ Morgan:
 - the // to crhsitian imagery and the saviour complex of Jesus
 	- “‘Sure, didn't I take my own mother’s name, Mother. And never any harm did it do me.’ ‘Is that so? “What have I against girls?’ he went on. ‘My own mother was a girl, once. And I dare say the same must be true of you and half of all belonging to us.’” (Keegan, 2021, p. 70)
 	- feminist? 
+
+- why is the protaganist a man and not a woman?
+	- the idea of distance? and the precarious role of women in society
+	- and how 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 literary culture today as dying (?)
 - heavy handed books
