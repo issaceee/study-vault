@@ -29,8 +29,22 @@ non-canon texts might be a plus - but prepare to argue why it is literature and 
 
 
 
+# PRE4
+
+##  Postcolonial Identity & Trauma
 
 
+Elizabeth Outka's - Temporal Hybridity
+- "[t]he present moment is at once a dangerous blending of many times, but also, paradoxically, a refusal of those moments to blend, signalling the past traumatic event’s refusal to be integrated into an unfolding narrative"
+
+this sentiment echoes Michael Rothberg's "Traumatic Realism" - of which the canny and uncanny coexist together, held together but suspended far apart
+
+==> a sense across the time period of a fractured postcolonial identity punctured by trauma yet delicately held together by ______
+
+1. Roy Arundhati - A Grain of Wheat 
+2. A God of Small Things
+
+- Singapore Postcolonial Modernist Narrative - The Garden of EVening Mists
 
 # PRE3
 
