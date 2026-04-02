@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Quote Compendium"
             }
+          },
+          {
+            "id": "2a374a822874124b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "92eec0d0cce5a941",
+  "active": "2a374a822874124b",
   "lastOpenFiles": [
     "Readings/Assignments/Y1T2 Hilary/PRE4W8 Seminar.md",
     "Readings/Texts/Paper 2/Liuzza, _Beowulf_..md",
