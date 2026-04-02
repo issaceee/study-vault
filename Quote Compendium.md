@@ -44,7 +44,45 @@ this sentiment echoes Michael Rothberg's "Traumatic Realism" - of which the cann
 1. Roy Arundhati - A Grain of Wheat 
 2. A God of Small Things
 
-- Singapore Postcolonial Modernist Narrative - The Garden of EVening Mists
+- Singapore/Malaya Postcolonial Modernist Narrative - The Garden of EVening Mists
+
+
+## Ngugi wa Thiong'o - A Grain of Wheat 
+
+
+> “the whole world [...] under the control of his hand” (93)
+- introduction of Gikonyo as a carpenter - // figure of Christ and teleological narratives of redemption and renewal
+- "under the control" - sense of active, individual agency /x historical movement / temporal flow
+
+
+
+## Roy Arundhati - The God of Small Things 
+
+
+>“always seemed to know what smooth shapes waited inside the wood for him” (86)
+- "always" --> collapsing of future and present, figures and future is always already inherent in the present moment
+- // sense of colonial fracture (the future/past trauma already inhibits every singular moment that Velutha undergoes)
+
+>“It was a boat. A tiny wooden vallom.  
+>
+>The boat that Estha sat on and Rahel found.  
+>
+>The boat that Ammu would use to cross the river. To love by night the man her children loved by day  
+>
+>So old a boat that it had taken root. Almost. 
+>
+>A gray old boatplant with boat owers and boatfruit. And underneath, a boat-shaped patch of withered grass. A scurrying, hurrying boatworld. “ (210)
+
+- use of narrative listing, chain of events to Ammu's and Velutha's transgressive sexual act that cannot be avoided
+- use of future tense collapses future and present into the same narrative moment - crossing is foretold before it is lived, and thus the catastrophe is embedded within the object of the boat itself
+- **boat in this case not only enables transgression, but already carries within it the knowledge of consequence**
+
+- idea of "taken root" collapses mobility into stasis - that which should carry the narrative forward becomes embedded
+- YET boatplant bears "boatfruit" indicating a passage of time
+
+>  “a boat-shaped patch of bare dry earth, cleared and ready for love. As though Esthappen and Rahel had prepared the ground for them. Willed this to happen”
+
+
 
 # PRE3
 
