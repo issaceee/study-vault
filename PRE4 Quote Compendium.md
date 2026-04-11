@@ -1,5 +1,693 @@
 
+Try 2
 
+## E.M. Forster — *Howards End*
+
+### QUOTES
+
+>‘This is not quite our house yet,’ said Helen. ‘When Miss Avery called, I felt we are only a couple of tourists.’  
+>“We shall be that everywhere, and forever.’ ‘But affectionate tourists—’  
+>‘But tourists who pretend each hotel is their home.’  
+>‘I can’t pretend very long,’ said Helen.  
+
+>“I know that tomorrow I shall see the moon rise out of Germany.”
+
+- “tourists” → external spectatorship → subject positioned outside ownership → belonging becomes observational, not inherent  
+- “pretend” → conscious performance → continuity depends on sustained illusion rather than structural grounding  
+- “each hotel” → interchangeability → domestic space emptied of specificity → place becomes generic rather than rooted  
+- “I can’t pretend very long” → temporal limit → performance collapses → belonging cannot be sustained over time  
+- “everywhere, and forever” → paradox → displacement universalised → modernity produces permanent instability  
+- “tomorrow… Germany” → intrusion of global geography → place cannot contain identity → belonging always interrupted  
+
+⇒ Place is not failed stability, but a **structure that must remain unstable to function at all**  
+⇒ Belonging is ethical only when it refuses to harden into ownership  
+
+---
+
+> “[t]he peace of the country was entering into her. It has no commerce with memory, and little with hope. Least of all is it concerned with the hopes of the next five minutes”
+
+- “entering into her” → passive construction → subject is shaped rather than agentive → place produces affect rather than being controlled  
+- “no commerce with memory” → severing from past → continuity is not historical  
+- “little with hope” → severing from future → no teleological orientation  
+- “next five minutes” → contraction of temporal scale → radical presentness  
+
+⇒ Place produces meaning only when it **refuses temporal extension**  
+⇒ Continuity emerges not from permanence, but from **repeated presentness**  
+
+---
+
+> “Why horrible? It’s ordinary light from the moon.”  
+> 
+> “‘But it moves.’ ‘But it is a clenched fist.’ […] ‘a blue snake; then another’ […]  
+> 
+> ‘Is there life in the moon?’ ‘Not by Time, Death, Judgement and the smaller snakes.’ […]  
+> 
+> By a rending effort of the will he woke the rest of the-room up. […] the horror vanished outwards”
+
+- “ordinary light” → rational stabilisation → attempt to contain perception within realism  
+- “moves” → instability → perception begins to slip  
+- “clenched fist” → violence → environment becomes threatening  
+- “blue snake” → multiplication of threat → perception spirals beyond control  
+- “Time, Death, Judgement” → abstraction made immediate → existential forces invade space  
+- “rending effort” → violent reassertion of will → subject attempts to restore order  
+- “woke the room up” → space previously inert → environment lacks inherent meaning  
+- “horror vanished outwards” → displacement → subject refuses internalisation  
+
+⇒ Without meaningful place, reality is not revealed but **overwhelms**  
+⇒ Space fails to mediate → subject is exposed to **raw temporality and mortality**  
+
+---
+
+> “Its murmur came ‘now’, and ‘now’ once more […] ‘now’ as-the moonlight fell upon their father’s sword […] the two disentangled, and were clear for a few moments at midnight”
+
+- “now… now… now” → repetition → temporal segmentation → time becomes manageable  
+- “fell upon their father’s sword” → inheritance mediated through moment → past integrated without dominance  
+- “disentangled” → separation → clarity produced through differentiation  
+- “few moments” → strict limitation → stability is temporary  
+
+⇒ Proper place does not eliminate time but **filters and structures it**  
+⇒ Meaning exists only in **brief, controlled alignments of time and space**  
+
+---
+
+> “She seemed to belong not to the young people and their motor, but to the house […] she worshipped the past”
+
+- “belong… to the house” → inversion → subject owned by place → loss of autonomy  
+- “motor” → mobility and modernity → contrast with static belonging  
+- “worshipped the past” → religious absolutism → temporal fixation  
+
+⇒ Absolute belonging produces not stability, but **immobility and collapse**  
+
+---
+
+> “To be parted from your house […] worse than dying”
+
+- hyperbolic equivalence → identity fully collapsed into place  
+- inheritance → place becomes destiny  
+
+⇒ Fixity transforms continuity into **exclusion and fragility**  
+
+---
+
+> “She knows everything. She is everything. She is the house […] I cannot believe that knowledge such as hers will perish with knowledge such as mine.”
+
+- “everything” → totalisation → fantasy of complete knowledge  
+- “she is the house” → fusion → transcendence of individuality  
+- “perish” → anxiety → resistance to temporality  
+
+⇒ The novel stages but refuses the fantasy of **timeless, totalised place**  
+
+---
+
+### CONTEXT
+
+- Modernity destabilises domestic space through mobility, empire, and capitalism  
+- Country house = site of contested continuity  
+- Place becomes a problem: how to sustain meaning without fixing it  
+
+---
+
+### MAIN POINT
+
+- Place must remain **provisional to sustain continuity**  
+- Fixity → collapse  
+- Absence → exposure  
+- Meaning exists only in **temporary, mediated inhabitation**  
+
+---
+
+### SECONDARY CRITICS
+
+> “pure, natural” English national identity (Hegglund 400)
+
+- idealised purity already unstable  
+
+> “infected by the mass culture it seeks to exclude” (Hegglund 400)
+
+- contamination → no insulated space  
+
+> “bring[ing] different times…” (Outka 330)
+
+- temporal layering as constructed continuity  
+
+> “continuous connection to a modified past” (Outka 330)
+
+- continuity depends on alteration  
+
+
+
+## Virginia Woolf — *Mrs Dalloway*
+
+### QUOTES
+
+> “I’ll give it you!”  
+> “He did not want to die.”  
+> “Life was good. The sun hot.”  
+> “Only human beings–what did they want?”
+
+- “give” → transactional language → death framed as exchange → parody of social relation  
+- “He did not want to die” → individual desire → conflict with imposed structures  
+- “Life was good. The sun hot.” → sensory immediacy → meaning reduced to physical experience  
+- “Only human beings–what did they want?” → collective vs singular → subject excluded from “human beings”  
+
+⇒ The conditions for kindness (shared recognisability) collapse at the moment they are invoked  
+
+---
+
+> “Death was an attempt to communicate; people feeling the impossibility of reaching the centre which, mystically, evaded them; closeness drew apart; rapture faded, one was alone”
+
+- “attempt to communicate” → communication persists but fails → effort without success  
+- “centre” → imagined shared meaning → structurally unreachable  
+- “closeness drew apart” → paradox → proximity produces separation  
+- “one was alone” → generalisation → isolation as condition  
+
+⇒ Ethical relation becomes not difficult but **structurally impossible**  
+
+---
+
+> “Fear no more the heat of the sun […] [Septimus] made her feel the beauty; made her feel the fun”
+
+- intertextual echo → mediated connection → not direct recognition  
+- “feel… feel” → affective transmission → replaces understanding  
+
+⇒ Minimal ethical relation persists only as **shared sensation**, not social exchange  
+
+---
+
+> “must go back”
+
+- modal necessity → reintegration into social world  
+- rupture cannot be sustained  
+
+⇒ Insight exists only in **temporary suspension of social structures**  
+
+---
+
+### CONTEXT
+
+- Post-WWI fragmentation of subjectivity  
+- Urban modernity → breakdown of shared frameworks  
+- Kindness depends on recognition, which is no longer stable  
+
+---
+
+### MAIN POINT
+
+- Kindness depends on recognisability (“of a kind”)  
+- Recognisability collapses  
+- What remains is fleeting, non-social connection  
+
+---
+
+### SECONDARY CRITICS
+
+> “an action… subtle or small” (Fernald 39)
+
+- kindness defined as social act  
+
+> “communication or an exchange” (Fernald 39)
+
+- requires recognition  
+
+> “mere kindness” (Fernald 34)
+
+- preserves hierarchy  
+
+> “real kindness” (Fernald 50, 49)
+
+- deeper but structurally fragile  
+
+
+
+## Gertrude Stein — *Autobiography of Alice B. Toklas*
+
+### QUOTES
+
+> “always been possessed by the intellectual passion for exactitude in the description of inner and outer reality”
+
+- “intellectual passion” → aesthetic value grounded in cognition  
+- “exactitude” → precision → value emerges through disciplined perception  
+- “inner and outer reality” → collapse of distinction → perception governs both  
+
+⇒ Aesthetic value is not inherent but **produced through method**  
+
+---
+
+> “remarks are not literature”
+
+- “remarks” → secondary judgment → dismissed  
+- literature defined as primary act of perception  
+
+⇒ Interpretation does not produce value → **attention does**  
+
+---
+
+> “[o]bservation and construction make imagination”
+
+- causality → imagination produced through process  
+- pairing → perception + organisation  
+
+⇒ Creativity is **constructed, not spontaneous**  
+
+---
+
+> “set[s] a sentence… as a sort of tuning fork and metronome”
+
+- measurement → temporality regulated  
+- form precedes meaning  
+
+⇒ Writing becomes **disciplined temporal practice**  
+
+---
+
+> “looking and looking”
+
+- repetition → sustained attention  
+- duration → value emerges over time  
+
+⇒ Aesthetic value is **temporal and accumulative**  
+
+---
+
+> “a picture is either worth three hundred francs or three hundred thousand francs”
+
+- binary → instability of value  
+- market arbitrariness  
+
+⇒ Market reflects but does not determine value  
+
+---
+
+> “there is art and there is official art”
+
+- distinction → institutional vs emergent value  
+
+⇒ Aesthetic value must remain **unfixed to emerge**  
+
+---
+
+### CONTEXT
+
+- Modernist experimentation with authorship  
+- Art market instability  
+- Salon culture as alternative evaluative space  
+
+---
+
+### MAIN POINT
+
+- Aesthetic value emerges through **disciplined, repeated attention over time**  
+- Always provisional, never fixed  
+
+---
+
+### SECONDARY CRITICS
+
+> “modernist work of art comprised of multiple voices” (Barros 177)
+
+- authorship dispersed  
+
+> “refus[al] singular narrative” (Coffman 52)
+
+- multiplicity of perspective  
+
+> “reorientation of vision” (Coffman 49)
+
+- perception retrained  
+
+
+
+
+## James Joyce — *A Portrait of the Artist as a Young Man*
+
+### QUOTES
+
+> “We are alone. Come.”  
+> “We are your kinsmen”
+
+- “We” → collective pronoun → nation constructs itself as unified subject → imposes identity externally  
+- “alone” → paradox → nation frames itself as isolated while addressing isolated individual → produces the condition it claims to resolve  
+- “Come” → imperative → coercive demand → speech enforces participation  
+- “kinsmen” → familial language → belonging naturalised → identity framed as pre-existing obligation  
+
+⇒ National identity operates as a **linguistic structure that demands response**  
+⇒ Speech produces belonging as **coercion, not recognition**
+
+---
+
+> Stephen does not respond, but merely writes it down […] 10 days passes before the next entry
+
+- writing down speech → mediation → transforms coercive utterance into object  
+- refusal to respond → withholding of assent → resistance through non-participation  
+- “10 days” → temporal gap → silence extended → refusal intensified  
+
+⇒ Writing creates **distance from coercive speech**  
+⇒ Silence becomes not absence but **active resistance**
+
+---
+
+> Stephen’s mother “prays now” […] “Amen. So be it”
+
+- “prays now” → present tense → continuity of ritual → inherited structure persists  
+- prayer not quoted → absorbed into narration → loss of autonomous authority  
+- “Amen. So be it” → formulaic closure → submission, but mediated  
+
+⇒ Writing does not eliminate authority but **reorganises it**  
+⇒ Tradition persists but becomes **internalised rather than imposed**
+
+---
+
+> “forge in the smithy of my soul the uncreated conscience of my race”
+
+- “forge” → labour and construction → identity actively produced  
+- “my soul” → inward turn → national identity relocated into individual subjectivity  
+- “uncreated” → paradox → identity not inherited but yet to exist  
+- “my race” → collective reframed through individual creation  
+
+⇒ National meaning survives only as **future-oriented aesthetic project**  
+⇒ Continuity depends on **withdrawal from collective structures**
+
+---
+
+### CONTEXT
+
+- Irish colonial context → nationalism as coercive discourse  
+- Speech tied to institutions (church, school, nation)  
+- Writing offers:
+  - delay  
+  - revision  
+  - resistance  
+
+---
+
+### MAIN POINT
+
+- National identity emerges as **linguistic pressure rather than stable belonging**  
+- Writing allows Stephen to:
+  - mediate  
+  - resist  
+  - reconfigure identity  
+- Hope persists, but only through **individual aesthetic production**  
+
+---
+
+### SECONDARY CRITICS
+
+> “a linguistic biography” (Leahy 455)
+
+- development through language → supports movement from speech to writing  
+
+> “disdain[ing] certain aural dimensions of language” (Leahy 454)
+
+- speech tied to authority → rejected in favour of writing  
+
+
+
+## Samuel Beckett — *Waiting for Godot*
+
+### QUOTES
+
+> “Have you not done tormenting me with your accursed time? […] One day we shall die, the same day, the same second”
+
+- “accursed time” → personification → time as hostile force → rejection of temporal order  
+- “same day, same second” → collapse of sequence → simultaneity → no progression  
+
+⇒ Time no longer structures experience → becomes **indifferent and flattening**
+
+---
+
+> “They give birth astride of a grave, the light gleams an instant, then it's night once more”
+
+- birth/death collapsed → life reduced to instant  
+- “gleams an instant” → fleeting existence → no development  
+
+⇒ Teleology destroyed → existence reduced to **momentary exposure**
+
+---
+
+> VLADIMIR: […] “tell him to sing. […] Or to think. Or to recite.”  
+> POZZO: “But he is dumb.”
+
+- accumulation of actions → expectation of expression  
+- “dumb” → total absence → collapse from excess to silence  
+
+⇒ Language fails completely → no meaning can be produced  
+
+---
+
+> ESTRAGON: “Why will you never let me sleep?”  
+> VLADIMIR: “I felt lonely.”
+
+- sleep → withdrawal from world → refusal of presence  
+- “lonely” → motivation for speech → not communication but avoidance  
+
+⇒ Language persists not to convey meaning but to **ward off isolation**
+
+---
+
+> VLADIMIR: “Well? Shall we go?”  
+> ESTRAGON: “Yes, let's go.”  
+> “They do not move.”
+
+- contradiction → speech vs action → paralysis  
+- repetition → endless deferral  
+
+⇒ Hope exists only as **formal structure without realisation**
+
+---
+
+### CONTEXT
+
+- Post-independence Ireland → collapse of nationalist hope  
+- Theatre → no mediation through writing → compulsory speech  
+- Modernist exhaustion of:
+  - language  
+  - temporality  
+  - meaning  
+
+---
+
+### MAIN POINT
+
+- Language continues but no longer produces meaning  
+- Time collapses into repetition  
+- Hope persists only as **empty structure (“waiting”)**  
+- Existence becomes **endurance without resolution**
+
+---
+
+### SECONDARY CRITICS
+
+> “aporetic hope” (Randolph 117)
+
+- hope without justification → persists despite collapse  
+
+> “unable to legitimate hope or despair” (Randolph 117)
+
+- neither hope nor despair stable → suspension  
+
+> “the suffering of being” (Kiberd 474)
+
+- exposure without structure → supports collapse of identity  
+
+
+
+## Nella Larsen — *Quicksand*
+
+### QUOTES
+
+> “that strange transforming experience, […] that magic sense of having come home” […] “to go. At once”
+
+- repetition across episodes → cyclical structure → illusion of resolution  
+- “transforming” / “magic” → temporary transcendence → unstable  
+- “to go. At once” → abrupt syntax → immediate rupture  
+
+⇒ Identity structured by **repeated formation and collapse**  
+
+---
+
+> “arms were stretched towards her with savage frenzy […] crawled over the floor like reptiles […] mixture of breaths […] contact of bodies […] concerted convulsions”
+
+- accumulation of sensory detail → overwhelming physicality  
+- “savage frenzy” → loss of control → regression  
+- “reptiles” → dehumanisation → dissolution of individuality  
+- “mixture / contact / convulsions” → engulfment → collapse of boundaries  
+
+⇒ Collective experience overwhelms subject → **self dissolved in excess**
+
+---
+
+> “remained motionless, watching, as if she lacked the strength to leave the place”
+
+- passivity → suspension of agency  
+- “lacked the strength” → exhaustion → inability to resist  
+
+⇒ Collapse occurs not through decision but **exhaustion**
+
+---
+
+> “miraculous calm […] simple happiness, a happiness unburdened by the complexities of the lives she had known”
+
+- “miraculous” → artificial resolution  
+- “unburdened” → relief through removal of complexity  
+
+⇒ Happiness emerges through **erasure of self-conscious identity**
+
+---
+
+> “Less of self and more of Thee”
+
+- religious inversion → surrender of self  
+- identity dissolved into collective  
+
+⇒ Resolution is not transcendence but **self-erasure**
+
+---
+
+### CONTEXT
+
+- Harlem Renaissance → racial, gendered constraints  
+- Identity negotiated across multiple social spaces  
+- Mythic reading (Ariadne) frames but cannot contain narrative  
+
+---
+
+### MAIN POINT
+
+- Identity requires constant negotiation → unsustainable  
+- Collapse occurs through exhaustion  
+- Ending replaces mythic resolution with **biological repetition and endurance**
+
+---
+
+### SECONDARY CRITICS
+
+> “labyrinthian prison” (Roos 583)
+
+- identity structured by constraint  
+
+> “fleeting moments” (Roos 584)
+
+- temporary agency  
+
+> “circumscribed by polarizing expectations of purity” (Roos 583)
+
+- identity constrained by binary systems  
+
+
+
+## Arundhati Roy — *The God of Small Things*
+
+### QUOTES
+
+>“It was a boat. A tiny wooden vallom.  
+>
+>The boat that Estha sat on and Rahel found.  
+>
+>The boat that Ammu would use to cross the river. To love by night the man her children loved by day  
+>
+>So old a boat that it had taken root. Almost.  
+>
+>A gray old boatplant with boat flowers and boatfruit. And underneath, a boat-shaped patch of withered grass. A scurrying, hurrying boatworld.”
+
+- “The boat that…” → repetition → accumulation → object gathers temporal layers  
+- “would use” → future embedded in present → inevitability  
+- “taken root. Almost.” → paradox → mobility collapses into stasis  
+- “boatplant / boatfruit” → hybridisation → temporal layering rather than progression  
+- “boat-shaped patch” → absence inscribed → space pre-marked  
+- “scurrying, hurrying” → apparent movement → contained, cyclical time  
+
+⇒ Object becomes **site where time collapses into simultaneity**
+
+---
+
+> “a boat-shaped patch of bare dry earth, cleared and ready for love […] As though Esthappen and Rahel had prepared the ground […] Willed this to happen”
+
+- “cleared and ready” → inevitability → event preconditioned  
+- “prepared the ground” → retroactive causality  
+- “Willed this to happen” → agency projected backwards  
+
+⇒ Event is not caused → it is **already embedded in temporal structure**
+
+---
+
+> “already gone”
+
+- contradiction → presence marked by absence  
+- collapse of chronology  
+
+⇒ Time circulates around **loss that cannot be resolved**
+
+---
+
+### CONTEXT
+
+- Postcolonial India → caste + colonial legacy  
+- Trauma → prevents temporal integration  
+- British teleological narrative → disrupted  
+
+---
+
+### MAIN POINT
+
+- Time is layered, recursive, and saturated  
+- Past never becomes past  
+- Narrative refuses redemption → only **ongoing aftermath**  
+
+---
+
+### SECONDARY CRITICS
+
+> “temporal hybridity” (Outka 23)
+
+- simultaneity of time  
+
+> “dangerous blending of many times” (Outka 23)
+
+- temporal instability  
+
+> “refusal… to blend” (Outka 23)
+
+- trauma resists integration  
+
+
+
+## Ngũgĩ wa Thiong’o — *A Grain of Wheat*
+
+### QUOTES
+
+> “Six years he had waited for this day […] life’s meaning was contained in his final return […] Nothing else had mattered […] return to silence […] valley of silence […] silence was eternal”
+
+- “Six years… Six years” → repetition → teleological structure  
+- “life’s meaning… final return” → future as site of fulfilment  
+- “Nothing else had mattered” → past erased  
+- “return to silence” → collapse of expectation  
+- “valley of silence” → spatialised rupture  
+- “crossed?” → uncertainty → failed movement  
+- “eternal” → temporal freezing → rupture persists  
+
+⇒ Time moves forward but becomes **permanently burdened**
+
+---
+
+### CONTEXT
+
+- Kenyan independence → expectation of rupture  
+- betrayal within nationalism  
+- teleological history disrupted  
+
+---
+
+### MAIN POINT
+
+- Teleology collapses at moment of fulfilment  
+- Future inherits past fracture  
+- Time continues without redemption  
+
+---
+
+
+# 
 ---
 
 ## E.M. Forster — *Howards End*
