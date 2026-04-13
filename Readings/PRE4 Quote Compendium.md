@@ -8,9 +8,7 @@
 >‘This is not quite our house yet,’ said Helen. ‘When Miss Avery called, I felt we are only a couple of tourists.’  
 >“We shall be that everywhere, and forever.’ ‘But affectionate tourists—’  
 >‘But tourists who pretend each hotel is their home.’  
->‘I can’t pretend very long,’ said Helen.  
-
->“I know that tomorrow I shall see the moon rise out of Germany.”
+>‘I can’t pretend very long,’ said Helen. ‘Sitting under this tree one forgets, but I know that tomorrow I shall see the moon rise out of Germany.
 
 - “tourists” → external spectatorship → subject positioned outside ownership → belonging becomes observational, not inherent  
 - “pretend” → conscious performance → continuity depends on sustained illusion rather than structural grounding  
