@@ -697,6 +697,9 @@
 - “Imagism demanded a verbal precision and an impersonalism which lead the way to a more incisive and dynamic form of expression. In her work H.D. gives "direct treatment of the thing, whether subjective or objective"; she tries to "use absolutely no word that does not contribute to the presentation" (Pound, 1945: 3).” (Gumpert, p. 69)
 - 
 
+
+“allows them to have their own experiencesand as images to have their own meaning because no worn-out significations of hundred years of poetic usage are imposed on them” (Gündar, p. 72)
+
 # PRESSURES & HINGES
 
 ## 1. CONTINUITY IS CONSTRUCTED UNDER PRESSURE, NOT GIVEN
