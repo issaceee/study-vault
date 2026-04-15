@@ -690,6 +690,13 @@
 
 
 
+
+
+## H.D
+
+- “Imagism demanded a verbal precision and an impersonalism which lead the way to a more incisive and dynamic form of expression. In her work H.D. gives "direct treatment of the thing, whether subjective or objective"; she tries to "use absolutely no word that does not contribute to the presentation" (Pound, 1945: 3).” (Gumpert, p. 69)
+- 
+
 # PRESSURES & HINGES
 
 ## 1. CONTINUITY IS CONSTRUCTED UNDER PRESSURE, NOT GIVEN
