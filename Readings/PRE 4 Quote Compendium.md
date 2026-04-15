@@ -700,6 +700,9 @@
 
 “allows them to have their own experiencesand as images to have their own meaning because no worn-out significations of hundred years of poetic usage are imposed on them” (Gündar, p. 72)
 
+
+“The sheltered garden provides its flowers with “beauty without strength”, whereas the wild garden which is a place of ultimate harshness is the place of production both in a literal and metaphorical sense. In this wild garden where H.D. escapes to find a shelter from the inherited Victorian ideals regarding aesthetic values and femininity, the chaos leads to gaining strength and being more robust.” (Gündar, p. 75)
+
 # PRESSURES & HINGES
 
 ## 1. CONTINUITY IS CONSTRUCTED UNDER PRESSURE, NOT GIVEN
