@@ -703,6 +703,18 @@
 
 “The sheltered garden provides its flowers with “beauty without strength”, whereas the wild garden which is a place of ultimate harshness is the place of production both in a literal and metaphorical sense. In this wild garden where H.D. escapes to find a shelter from the inherited Victorian ideals regarding aesthetic values and femininity, the chaos leads to gaining strength and being more robust.” (Gündar, p. 75)
 
+“In the Romantic tradition, once we arrive at subjectivity we generally stay there, so the sudden deflection away from overt subjectivity is startling, and marks this poem as distinctly “modern.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 123)
+
+“et the rigorous exclusion of any overt subjectivity in part II seems, in some ways, the main point: such subjectivity inevitably carries with it the illusion that I am free to make my world, and the burden of this poem is, precisely, that we-or the speaker at least —is not free, must hope and pray that an external power, the wind, will “rend open the heat.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 123)
+
+“H.D. experiments with ways of allowing things to, in effect, speak to each other, in a way that forecasts Pound’s later experiments with “subject rhyme.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 124)
+
+“As we return again and again to the sea/flower juxtaposition, the poems themselves create complex sequences of differences and similarities, and it is from these patterns that the meanings emerge.” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 125)
+
+“Yet the individual poems in the series do not make assertive symbolic claims on us; they are for the most part content to present the thing itself. Rather it is the resonances among the poems in the series that create this aura of significance. In this way H.D. is able to have it both ways: to keep her images sharply focused, even as she suggests possibilities of implication extending beyond these images.” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 125)
+
+“In “Evening,” we see a tradition of women’s writing moving toward a consciousness of its own possibilities. But we also see, I would argue, a distinctively Imagist poetics, one that opened up powerful new possibilities for all poets, women and men.” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 127)
+
 # PRESSURES & HINGES
 
 ## 1. CONTINUITY IS CONSTRUCTED UNDER PRESSURE, NOT GIVEN
