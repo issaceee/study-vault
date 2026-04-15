@@ -705,7 +705,7 @@
 
 “In the Romantic tradition, once we arrive at subjectivity we generally stay there, so the sudden deflection away from overt subjectivity is startling, and marks this poem as distinctly “modern.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 123)
 
-“et the rigorous exclusion of any overt subjectivity in part II seems, in some ways, the main point: such subjectivity inevitably carries with it the illusion that I am free to make my world, and the burden of this poem is, precisely, that we-or the speaker at least —is not free, must hope and pray that an external power, the wind, will “rend open the heat.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 123)
+“Yet the rigorous exclusion of any overt subjectivity in part II seems, in some ways, the main point: such subjectivity inevitably carries with it the illusion that I am free to make my world, and the burden of this poem is, precisely, that we-or the speaker at least —is not free, must hope and pray that an external power, the wind, will “rend open the heat.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 123)
 
 “H.D. experiments with ways of allowing things to, in effect, speak to each other, in a way that forecasts Pound’s later experiments with “subject rhyme.”” (“THE IMAGIST POETICS OF H.D.'S "SEA GARDEN"”, p. 124)
 
