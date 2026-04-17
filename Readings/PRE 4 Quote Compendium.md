@@ -53,7 +53,7 @@
 
 ---
 
-> “Its murmur came ‘now’, and ‘now’ once more […] ‘now’ as-the moonlight fell upon their father’s sword […] the two disentangled, and were clear for a few moments at midnight”
+>Its murmur came ‘now’, and ‘now’ once more as they trod the gravel, and ‘now’ as-the moonlight fell upon their father’s sword. [...] The house had enshadowed the tree at first, but as the moon rose higher the two disentangled, and were clear for a few moments at midnight.
 
 - “now… now… now” → repetition → temporal segmentation → time becomes manageable  
 - “fell upon their father’s sword” → inheritance mediated through moment → past integrated without dominance  
