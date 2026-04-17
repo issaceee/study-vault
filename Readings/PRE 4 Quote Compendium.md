@@ -37,13 +37,7 @@
 
 ---
 
-> “Why horrible? It’s ordinary light from the moon.”  
-> 
-> “‘But it moves.’ ‘But it is a clenched fist.’ […] ‘a blue snake; then another’ […]  
-> 
-> ‘Is there life in the moon?’ ‘Not by Time, Death, Judgement and the smaller snakes.’ […]  
-> 
-> By a rending effort of the will he woke the rest of the-room up. […] the horror vanished outwards”
+>Then began one of those disintegrating dialogues. Part of him said: ‘Why horrible? It’s ordinary light from the moon.’ ‘But it moves.’ ‘So does the moon.’ ‘But it is a clenched fist.’ [...] Presently a blue snake appeared; then another, parallel to it. ‘Is there life in the moon?’ ‘Of course.’ ‘But I thought it was uninhabited.’ ‘Not by Time, Death, Judgement and the smaller snakes.’ [...]  By a rending effort of the will he woke the rest of the-room up. Jacky, the bed, their food, their clothes on the chair, gradually entered his consciousness, and the horror vanished outwards [...]
 
 - “ordinary light” → rational stabilisation → attempt to contain perception within realism  
 - “moves” → instability → perception begins to slip  
