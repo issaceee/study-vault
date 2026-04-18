@@ -1,4 +1,56 @@
 
+Nationalism
+
+
+American vs British
+
+Craig S Abott provides an overview of the English-Language literary magazines of the first few decades of the twentieth century, revealing that literary critics were absorbed by questions of US national "character" or "spirit".
+- 1910s and 1920s: dozens of American anthologies fought to name distinct positive qualities of a new US poetry
+- years before, hardly any issues went by without some comparative analysis of American poetry and its British precursors addressing fundamental definitional problems: Does American poetry exist? Is it any good? Will England Like it?
+
+--> arose because US was seen not to have its own culture, but rather to be the fledgling hier of its many parent cultures
+- contradictory geographical inheritance
+	- native, underdeveloped, and antiurban spirit of the US landscape VS physical, familial connections btw US citizens and ancestors from the "old country" ==> Modern Americanism that is both ungrounded and self-eroding.
+- US landscape thus seems to resist Arnoldian sense of culture
+	
+** Question thus arises as to the place of expatriate writers. If American culture is to be defined in these two opposing manners - both from the soil, and through blood and generations.
+- "promulgated through (English) national language, literature, and art, US writers, particularly expatriates, seen to share this culture are often described in terms of their genetic or spiritual ties to other nations’ taste. By this logic, wherever the US succeeds at artistic modernity, it is least American.**” (Kusch, 2010, p. 49)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## E.M. Forster — *Howards End*
