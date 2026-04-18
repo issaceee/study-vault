@@ -11,9 +11,10 @@ Craig S Abott provides an overview of the English-Language literary magazines of
 --> arose because US was seen not to have its own culture, but rather to be the fledgling hier of its many parent cultures
 - contradictory geographical inheritance
 	- native, underdeveloped, and antiurban spirit of the US landscape VS physical, familial connections btw US citizens and ancestors from the "old country" ==> Modern Americanism that is both ungrounded and self-eroding.
-- US landscape thus seems to resist Arnoldian sense of culture
+- U
 	
 ** Question thus arises as to the place of expatriate writers. If American culture is to be defined in these two opposing manners - both from the soil, and through blood and generations.
+- S landscape thus seems to resist Arnoldian sense of culture
 - "promulgated through (English) national language, literature, and art, US writers, particularly expatriates, seen to share this culture are often described in terms of their genetic or spiritual ties to other nations’ taste. By this logic, wherever the US succeeds at artistic modernity, it is least American.**” (Kusch, 2010, p. 49)
 
 
