@@ -19,21 +19,182 @@ Craig S Abott provides an overview of the English-Language literary magazines of
 
 
 
-Nationalism and Modernism
+# Nationalism and Modernism Essay
+
+## Intro
+Modernist literature is frequently understood in terms of fragmentation—of time, subjectivity, and narrative coherence. Yet equally crucial, though less frequently foregrounded, is its sustained engagement with the instability of **space itself**. Both E.M. Forster’s _Howards End_ (1910) and H.D.’s _Sea Garden_ (1916) emerge from a historical moment in which the relationship between subject, place, and identity was becoming increasingly untenable. While critics have often read _Howards End_ as negotiating the tension between continuity and modernity, and H.D.’s imagism as retreating into aesthetic abstraction, this essay argues that both texts are centrally concerned with the **provisionality of place**. However, they respond to this instability in radically different ways. Forster attempts to preserve place as a site of continuity, while insisting that it remain unfixed and non-proprietary; H.D., by contrast, produces a spatial field that resists localisation altogether, dissolving the possibility of grounding identity in geography. Taken together, these texts reveal that modernism is not merely concerned with fractured consciousness, but with a deeper **collapse in the conceptual stability of space itself**, with far-reaching implications for politics, belonging, and national identity.
+
+---
+
+## I. _Howards End_: Place, Ownership, and the Ethics of Provisionality
+
+At first glance, _Howards End_ appears to invest heavily in place as a stabilising force. The house itself is repeatedly imbued with symbolic and emotional weight, functioning as a locus of continuity in an otherwise rapidly changing world. Ruth Wilcox is described as “trailing noiselessly over the lawn,” seeming to “belong not to the young people… but to the house, and to the tree that overshadowed it.” The verb “belong” suggests an almost ontological fusion between subject and place, reinforced by the parallel structure “to the house, and to the tree.” This pairing collapses human and natural space into a unified field of identity.
+
+Yet the novel simultaneously exposes the dangers of such fusion. Ruth’s attachment to place is explicitly temporal as well as spatial: she “worshipped the past,” aligning identity not only with location but with historical continuity. Her belief that separation from place is “worse than dying” reveals the absolutism of this position. The hyperbolic comparison transforms place into destiny, suggesting that identity is inseparable from inheritance. In this sense, fixed place becomes ethically problematic, as it authorises exclusion: those without access to such continuity—like Leonard Bast—are implicitly denied full participation in social life.
+
+Forster systematically dismantles this model. When Margaret and Helen finally inhabit Howards End, their dialogue resists any notion of stable possession:
+
+> “This is not quite our house yet… we are only a couple of tourists.”  
+> “We shall be that everywhere, and forever… tourists who pretend each hotel is their home.”
+
+The repetition of “tourists” destabilises the idea of belonging. A tourist is, by definition, a temporary inhabitant, one who occupies space without ownership. The addition of “forever” paradoxically universalises this condition, suggesting that _all_ inhabitation is provisional. The phrase “pretend each hotel is their home” introduces performativity: belonging is not an inherent condition but an enacted one.
+
+The metaphor of the “hotel” is particularly significant. Unlike the ancestral house, the hotel is a space of circulation, anonymity, and exchange. It resists permanence and inheritance, embodying a modern form of spatial relation defined by mobility rather than rootedness. Yet the novel does not simply reject meaning altogether; instead, it insists on a form of attachment that is explicitly temporary. Helen qualifies their status as “affectionate tourists,” introducing an emotional dimension that complicates the detachment implied by tourism. Meaning is not abolished, but it is rendered provisional.
+
+This provisionality is reinforced in Margaret’s experience of “peace”:
+
+> “The peace of the country… has no commerce with memory, and little with hope. Least of all is it concerned with the hopes of the next five minutes.”
+
+The repeated negations—“no commerce,” “little,” “least of all”—systematically strip peace of temporal extension. It is not grounded in the past (“memory”) nor oriented toward the future (“hope”), but exists entirely in the present moment. The phrase “no commerce” is particularly telling: it frames memory as a form of exchange, suggesting that continuity itself is transactional. By denying this exchange, the text situates peace outside systems of accumulation and ownership.
+
+Thus, Howards End produces a model of place that is meaningful only insofar as it resists permanence. Place must hold meaning, but it must not become fixed; it must enable continuity, but not harden into destiny.
+
+---
+
+## II. The Failure of Ungrounded Space: Leonard Bast
+
+If Howards End represents provisional inhabitation, Leonard Bast embodies the consequences of its absence. His living space is described as fundamentally unstable:
+
+> “all the flats in either road might be pulled down, and new buildings… might arise where they had fallen.”
+
+The modal “might” introduces contingency, while the repetition of construction and destruction emphasises impermanence. Unlike Howards End, this space lacks continuity, history, or symbolic weight.
+
+The moonlight scene intensifies this instability:
+
+> “It’s ordinary light from the moon… But it moves… But it is a clenched fist… a blue snake… another, parallel to it.”
+
+The repeated “but” marks a progressive destabilisation of perception. The moonlight, initially “ordinary,” becomes increasingly threatening, transforming into images of violence. The “clenched fist” suggests aggression, while the “blue snake” introduces a sense of uncanny animation. These images do not arise from the moon itself, but from Leonard’s inability to stabilise meaning within his environment.
+
+Crucially, Leonard responds by expelling this instability:
+
+> “the horror vanished outwards.”
+
+Rather than internalising or interpreting the experience, he projects it outward, suggesting a failure of mediation. His room cannot absorb or structure meaning; it merely reflects it back in distorted form. The polysyndeton listing—“Jacky, the bed, their food, their clothes on the chair”—reduces the space to a collection of functional objects. These items signify survival rather than life, lacking the symbolic density of Howards End.
+
+Leonard’s space is therefore not simply unstable, but **meaningless**. It lacks the provisional continuity that allows Forster’s house to function. This contrast reveals the novel’s central tension: place must be unstable to avoid exclusion, yet it must also sustain meaning to remain livable.
+
+## ✍️ EXPANSION: Moon, Knowledge, and the Limits of Continuity
+
+The instability of Leonard’s space becomes even more philosophically charged when read through the symbolic weight of the moon, which recurs across _Howards End_ as a figure not merely of illumination, but of **temporal exposure**. In Leonard’s room, the moonlight does not simply reveal objects; it transforms them into manifestations of an overwhelming metaphysical order:
+
+> “Is there life in the moon?”  
+> “Not by Time, Death, Judgement and the smaller snakes.”
+
+The capitalisation of “Time, Death, Judgement” elevates these abstractions into almost mythic presences, suggesting that Leonard’s experience is not merely psychological but ontological. The moon here functions as a medium through which these forces become perceptible, yet crucially, this perception is **unmediated by meaningful place**. Leonard encounters temporality, mortality, and moral reckoning not as structured experience, but as raw, incomprehensible intrusion.
+
+This is what his space fails to do: it cannot **mediate Time**. It cannot absorb or structure these forces into meaning. Instead, they appear as hallucinated images—“a clenched fist,” “a blue snake”—figures that oscillate between abstraction and materiality without ever stabilising. The room’s failure is not simply its material poverty, but its inability to **transform temporal experience into inhabitable meaning**.
+
+By contrast, Howards End itself does not eliminate these forces but **filters them**. In the moonlit scene at the house:
+
+> “Its murmur came ‘now’, and ‘now’ once more… as the moonlight fell upon their father’s sword.”
+
+The repetition of “now” fragments time into discrete moments, yet these moments are **contained within a shared spatial experience**. The moonlight moves—“fell upon,” “disentangled”—but does not threaten. Instead, it produces clarity, even separation: “the house… and the tree… were clear for a few moments.”
+
+The phrase “for a few moments” is crucial. Even here, where space successfully mediates time, the effect is temporary. The clarity cannot be sustained. This reveals the deeper logic of Forster’s spatial thinking: **place does not defeat Time, Death, or Judgement—it only delays their force**.
+
+This becomes even more explicit in Margaret’s reflection on Ruth Wilcox:
+
+> “She knows everything. She is everything. She is the house… I cannot believe that knowledge such as hers will perish with knowledge such as mine.”
+
+Margaret’s insistence that Ruth’s knowledge will not “perish” reflects a desire for continuity that exceeds the provisional model the novel otherwise sustains. The repetition—“she knows everything. She is everything”—elevates Ruth into a figure of totalisation, almost mythic in her fusion with place. Yet the syntax betrays uncertainty: “I cannot believe.” This is not a statement of fact, but an act of resistance against an inevitable conclusion.
+
+Forster’s irony lies precisely here. Margaret’s belief is **not confirmed by the novel**. Instead, it exposes the human desire to escape temporality—to imagine that knowledge, identity, or place can outlast death. But the novel repeatedly undermines this possibility. Ruth dies when removed from Howards End; her knowledge is not transmitted through legal or social structures; her “belonging” cannot survive displacement.
+
+Thus, the novel ultimately suggests that **all forms of knowledge perish**, regardless of whether they are rooted in place or not. The distinction between Ruth’s fused identity and Leonard’s rootless existence collapses at the level of mortality. Both are subject to Time, Death, and Judgement; the difference lies only in how these forces are experienced.
+
+This is the novel’s most radical claim: not that one way of living is superior, but that **all modes of inhabitation are temporary**. Whether one lives as Ruth—embedded in place—or as Leonard—adrift within modernity—the outcome is the same. Place can mediate experience, can soften the encounter with temporality, but it cannot ultimately resist it.
+
+In this sense, Forster does not resolve the tension between continuity and modernity, but reframes it as an **illusion necessary for living**. Place must appear meaningful, must sustain continuity, but this continuity is always provisional, always temporary. The ethical imperative is not to secure permanence, but to inhabit transience without turning it into exclusion.
 
 
+## III. H.D.’s _Sea Garden_: The Dissolution of Place
 
+Where Forster negotiates this tension, H.D. radicalises it. _Sea Garden_ does not attempt to preserve place as a site of continuity; instead, it produces a spatial field that is fundamentally **unfixed, liminal, and resistant to localisation**.
 
+This is evident in the refusal of place-names. Unlike Forster, H.D. offers no identifiable geography. Instead, her landscapes consist of coasts, winds, dunes—spaces defined by transition rather than stability. In “Sea Rose,” the flower is:
 
+> “flung on the sand,  
+> you are lifted  
+> in the crisp sand  
+> that drives in the wind.”
 
+The verb “flung” suggests violence and displacement, while “lifted” introduces a precarious elevation. The repetition of “sand” emphasises instability: sand shifts, erodes, and cannot anchor roots. The phrase “drives in the wind” reinforces this motion, situating the rose within a dynamic environment that resists permanence.
 
+Similarly, in “Hermes of the Ways,” space is defined through transition:
 
+> “you stand at the turn of the way,”
 
+The “turn” is not a location but a movement, a point of change. Hermes, as a boundary figure, embodies this instability. His material composition—“carved / of wind and of air”—undermines solidity, producing a figure that is both present and elusive.
 
+The poem continues:
 
+> “the wind waits for you  
+> and the sea waits for you,”
 
+The repetition of “waits” suggests anticipation without resolution. The landscape is not fixed but suspended, poised between states. Hermes does not anchor the scene; he inhabits its indeterminacy.
 
+---
 
+## IV. Subject Rhyme and Spatial Indeterminacy
+
+The instability of space in _Sea Garden_ is reinforced structurally through **subject rhyme**. Images recur across poems—“hard sand,” “wind,” “salt”—but do not resolve into a unified system. In “Sea Lily,” the flower is described as:
+
+> “lifted up above the waves,”
+
+echoing the “flung” and “lifted” motion of the sea rose. Yet these repetitions do not stabilise meaning; they proliferate it. Each image retains its autonomy, resisting assimilation into a coherent symbolic framework.
+
+This structure mirrors the spatial logic of the poems themselves. Just as the landscapes resist localisation, the images resist conceptual closure. Meaning emerges relationally, across differences, rather than through synthesis. The result is a textual field in which both space and meaning are fundamentally unstable.
+
+## ✍️ EXPANSION: Radical Indeterminacy and the Refusal of Ground
+
+If Forster’s novel exposes the provisionality of place, H.D.’s _Sea Garden_ goes further, revealing that **place itself may no longer function as a meaningful category at all**. Where Howards End retains the possibility of temporary grounding, H.D.’s landscapes operate in a state of continuous displacement, resisting not only ownership but localisation itself.
+
+This is evident in the persistent emphasis on **violence and exposure** in her imagery. In “Sea Rose,” the flower is not merely “marred” but:
+
+> “flung on the sand,”  
+> “lifted… in the crisp sand  
+> that drives in the wind.”
+
+The verb “flung” suggests an external force, an act of displacement that denies the possibility of rootedness. The rose is not planted; it is thrown. The repetition of “sand” reinforces this instability: sand is not a medium of growth but of erosion. It shifts, disperses, and cannot sustain permanence. Even the act of being “lifted” does not stabilise the rose, but exposes it further to the “wind” that “drives” through the scene.
+
+This is not simply a harsh landscape; it is a **space that actively resists habitation**. The subject cannot settle within it, because the ground itself is unstable. This marks a fundamental departure from Forster: whereas Howards End negotiates provisional inhabitation, H.D. presents a world in which inhabitation itself becomes impossible.
+
+This logic is intensified in “Hermes of the Ways.” The god, traditionally a figure of mediation, is here rendered as a figure of **pure liminality**:
+
+> “the wind waits for you  
+> and the sea waits for you,”
+
+The repetition of “waits” produces a suspended temporality. The landscape is not in motion toward resolution; it is held in anticipation. Yet this anticipation is never fulfilled. Hermes does not resolve the space; he inhabits its indeterminacy.
+
+Even more striking is the refusal of spatial hierarchy. The poem does not organise space into foreground and background, subject and object. Instead, everything exists on the same plane: wind, sea, sand, Hermes. This flattening of spatial relations mirrors the structure of subject rhyme, in which no single image dominates.
+
+This becomes clearer when read across the collection. The “hard sand” of “Hermes” reappears in other poems; the “wind” that “drives” the rose returns as a shaping force elsewhere; the repeated imagery of “lifted” objects—flowers, forms, fragments—creates a sense of continual upward displacement without grounding. These repetitions do not stabilise meaning, but create a **network of echoes** that extend beyond any single poem.
+
+Unlike traditional poetic structure, which moves toward resolution, H.D.’s use of subject rhyme produces a field in which meaning is **deferred indefinitely**. Each image gestures toward others, but never resolves into a unified system. The result is a poetics of **permanent incompletion**.
+
+This incompletion has profound implications for the concept of place. In _Sea Garden_, space is not something that can be inhabited, owned, or even meaningfully located. It is a **process**, not a container. The coastal setting is crucial here: the coast is neither land nor sea, but a shifting boundary between them. It is constantly reshaped, eroded, and reformed. As such, it embodies a form of spatial instability that resists all attempts at grounding.
+
+This spatial logic extends to identity itself. Just as the rose cannot root itself in the sand, the subject cannot root itself in place. Identity becomes as provisional as the landscape, defined not by location but by relation. The subject is not anchored but **circulated** within a field of forces.
+
+In this sense, H.D.’s poetics anticipates not only écriture féminine but also a broader modernist rethinking of space. Where nineteenth-century realism depended on stable environments, H.D. presents a world in which such stability has collapsed. Space no longer guarantees meaning; it destabilises it.
+
+This is where her work most clearly exceeds Forster. If Howards End still attempts to hold onto place as a provisional anchor, _Sea Garden_ reveals that such anchoring is no longer viable. The subject cannot even pretend to be “at home,” because the very concept of home has dissolved.
+
+Thus, H.D. does not simply radicalise Forster’s insight—she **renders it obsolete**. Place is no longer provisional; it is fundamentally **unrecoverable as ground**. What remains is a field of shifting relations, in which meaning must be continually renegotiated.
+
+## V. From Provisionality to Collapse: The Stakes of Modern Space
+
+The contrast between Forster and H.D. reveals a shift in the conceptualisation of space itself. Forster retains the possibility of place as a provisional site of meaning; H.D. suggests that such grounding is no longer possible. This shift has significant political implications.
+
+Nationalism depends on the idea that identity is rooted in stable territory. Forster’s model of provisional place undermines this logic, suggesting that belonging must remain open and non-exclusive. H.D. goes further, dissolving the very concept of territorial grounding. Her refusal to name place, her emphasis on liminal spaces, and her structural indeterminacy all challenge the assumption that identity can be anchored in geography.
+
+This reflects a broader historical transformation. The early twentieth century saw increasing mobility, imperial expansion, and cultural exchange, destabilising traditional notions of place. H.D.’s coastal landscapes, constantly eroded and reshaped, embody this condition. Space is no longer a stable container of identity, but a dynamic, shifting field.
+
+---
+
+## Conclusion
+
+Both _Howards End_ and _Sea Garden_ engage with the instability of place at the heart of modernity. Forster attempts to preserve place as a site of continuity, but only by insisting on its provisionality; H.D. abandons this project altogether, producing a poetics of spatial indeterminacy. Taken together, these texts reveal that modernism is not simply concerned with fragmented consciousness, but with a more fundamental crisis in the concept of space itself. Place can no longer serve as a stable ground for identity, belonging, or meaning. Instead, it becomes a site of negotiation, performance, and, ultimately, dissolution.
 
 
 
