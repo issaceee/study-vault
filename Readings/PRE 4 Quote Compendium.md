@@ -41,6 +41,106 @@ Nationalism and Modernism
 
 
 
+# Feminism Essay
+
+## Intro
+
+“Woman must put herself into the text,” writes Hélène Cixous, “as into the world and into history.” Yet if écriture féminine is grounded in the body—if, as Cixous insists, women must “write through their bodies”—how are we to account for texts that appear to evade embodiment altogether? This essay brings together H.D.’s _Sea Garden_, Ursula K. Le Guin’s _Lavinia_, and Madeline Miller’s _Circe_ precisely because they inhabit a shared literary terrain: each reworks Greco-Roman mythic frameworks in order to renegotiate the conditions of feminine expression. Greek myth, long structured by phallogocentric authority, provides a site in which voice, embodiment, and narrative authority are already contested; to rewrite myth is therefore to rewrite the very terms under which femininity is represented. These texts not only reclaim mythological figures but also reconfigure the textual “space” in which feminine subjectivity can emerge.
+
+While Le Guin and Miller explicitly reclaim female bodies and voices within mythic narratives, H.D.’s _Sea Garden_operates at an earlier, more formal level, producing a poetics that resists closure, hierarchy, and mastery. This essay argues that H.D. functions as a crucial precursor to what Cixous later theorises as écriture féminine. Her imagist poetics anticipates its formal logic—multiplicity, openness, and resistance to totalisation—even in the absence of explicit corporeality. Le Guin and Miller, writing later, make explicit what remains latent in H.D.: a mode of writing that reclaims the body, voice, and narrative authority from phallogocentric structures. Taken together, these texts reveal écriture féminine not as a fixed category but as an evolving practice, moving from modernist indeterminacy to embodied articulation.
+## I. H.D.: Imagism, Otherness, and the Prehistory of Écriture Féminine
+
+H.D.’s designation as the “perfect imagiste” has often been taken to imply formal purity, a strict adherence to Poundian principles of precision, clarity, and “direct treatment of the thing.” Yet such a reading risks obscuring the extent to which H.D.’s imagism does not simply exemplify but fundamentally **reconfigures** the possibilities of the movement. As Hatlen argues, Imagism itself “grew up around H.D.’s early poems” , suggesting that her work does not passively inherit a poetic doctrine but actively generates it. This section proposes that H.D.’s imagist poetics constitutes a crucial precursor to what Cixous later theorises as écriture féminine: not because it writes through the body, but because it establishes a formal logic of **multiplicity, relationality, and resistance to closure** that anticipates feminine writing at the structural level.
+
+A defining feature of H.D.’s poetics is her refusal to subordinate the object to subjective meaning. In “Sea Rose,” the flower is described as “marred and with stint of petals,” a phrase that immediately disrupts the conventional lyric association of the rose with beauty and plenitude. The diction of “marred” introduces damage as constitutive rather than accidental, while “stint” suggests both scarcity and deliberate withholding. This refusal of excess is reinforced through the accumulation of privative adjectives: the rose is “meagre,” “thin,” “sparse of leaf.” Rather than elevating the object into symbolic significance, H.D. strips it of interpretive surplus, leaving it resistant, opaque, and materially present.
+
+Crucially, the poem does not resolve this resistance into meaning. The final comparison—“more precious / than a wet rose / single on a stem”—does not universalise the sea rose’s value but situates it within a contingent, relational hierarchy. The poem offers no interpretive closure; instead, it foregrounds the instability of value itself. In this sense, H.D.’s imagism resists the phallogocentric impulse to master and stabilise meaning, producing instead a textual field in which objects remain irreducibly other.
+
+This preservation of otherness is even more striking in “Hermes of the Ways,” where H.D. explicitly engages Greek myth while simultaneously destabilising it. Hermes, traditionally a figure of mediation—between gods and mortals, language and meaning—is refigured here as a radically indeterminate presence embedded within landscape. The opening lines:
+
+> “The hard sand breaks,  
+> and the grains of it  
+> are clear as wine,”
+
+foreground a tactile materiality that resists abstraction. The “hard sand” asserts resistance, while the verb “breaks” introduces fragmentation rather than unity. The simile “clear as wine” does not collapse the sand into another object but produces a momentary sensory correspondence that preserves difference. The grains remain grains, even as they evoke another register of perception.
+
+Hermes himself is described in similarly unstable terms:
+
+> “you are carved  
+> of wind and of air,”
+
+The verb “carved” implies solidity, permanence, and form, yet the materials—“wind” and “air”—are inherently formless. This produces a paradoxical image: a figure that is both shaped and ungraspable, present and elusive. Hermes is neither fully embodied nor entirely abstract; he exists in a liminal state that resists categorisation. This instability reflects his mythological function as a boundary figure, but H.D. intensifies it to the point where the boundary itself becomes indeterminate.
+
+The poem continues:
+
+> “you stand at the turn of the way,”
+
+Here, Hermes is explicitly positioned at a point of transition. The phrase “turn of the way” suggests neither origin nor destination but movement itself. Hermes does not guide the traveller toward a fixed end; he inhabits the moment of turning, the space of indeterminacy. This spatial positioning is crucial. It mirrors the formal structure of the poem, which refuses linear progression in favour of a series of discrete yet interconnected images.
+
+This is where the concept of **subject rhyme** becomes central to H.D.’s poetics. Rather than producing meaning within a single poem, H.D. allows images to resonate across poems, creating a network of relations that exceeds any individual text. Hermes, as a figure of transition and mediation, finds echoes in other poems: the “sea rose” lifted “on the sand,” the “sea lily” “lifted up above the waves,” the recurring imagery of wind, salt, and hardness. These images do not coalesce into a unified symbolic system; instead, they produce a pattern of repetition and variation in which meaning emerges relationally.
+
+Subject rhyme thus operates as a structural analogue to écriture féminine. Just as Cixous describes feminine writing as resisting linearity and closure, H.D.’s poems refuse to resolve their images into a single interpretive framework. Each image remains autonomous, yet participates in a broader field of resonance. Meaning is not imposed but generated through the interplay of differences. This relational structure resists the hierarchical logic of phallogocentric discourse, which seeks to stabilise meaning through binary opposition and conceptual mastery.
+
+Importantly, this resistance is achieved without recourse to the body. H.D.’s poetry is strikingly non-corporeal. There is little sense of interiority, desire, or embodied experience in the conventional sense. Instead, subjectivity is displaced into the external world, distributed across objects that retain their autonomy. This displacement challenges the assumption that feminine writing must be grounded in bodily expression. While Cixous insists that women must “write through their bodies,” H.D. demonstrates that a similar disruption of phallogocentric structures can be achieved through formal means.
+
+At the same time, H.D.’s poetics does not simply negate embodiment; it reconfigures it. The intense sensory attention to objects—the “hard sand,” the “clear” grains, the tactile “carved” figure—suggests a form of perception that is deeply material, even if not explicitly bodily. The boundary between subject and object is not erased but destabilised. The perceiving self does not dominate the object; it encounters it as other, entering into a relation that is neither hierarchical nor assimilative.
+
+In this sense, H.D. anticipates écriture féminine as a **prehistory rather than a direct instantiation**. Her work creates the formal conditions under which feminine writing becomes possible: a refusal of closure, a resistance to mastery, and a commitment to multiplicity. By preserving the otherness of the object and distributing meaning across a network of relations, she opens a textual space that later writers—such as Le Guin and Miller—will fill with explicitly embodied forms of expression.
+
+H.D.’s imagism, then, is not merely a stylistic movement but a radical reconfiguration of poetic logic. It challenges the foundational assumptions of phallogocentric discourse, not by foregrounding the body, but by dismantling the structures through which meaning is stabilised and controlled. In doing so, it establishes a precursor to écriture féminine, demonstrating that feminine writing begins not with the body itself, but with the transformation of the forms through which bodies—and meanings—can be articulated.
+## II. Le Guin: Récit, Histoire, and Writing as Becoming
+
+If H.D. disperses subjectivity across a field of external objects, Ursula K. Le Guin’s _Lavinia_ reconstitutes it through the act of narration itself. Where H.D.’s poetics resists the consolidation of subjectivity, Le Guin stages its emergence as a function of writing, collapsing the distinction between récit (the act of telling) and histoire (the sequence of events told). In doing so, she not only reclaims narrative authority from a phallogocentric tradition but also redefines the very conditions under which feminine subjectivity can exist.
+
+Traditionally, récit and histoire are understood as distinct levels of narrative: the former referring to discourse, the latter to story. In _Lavinia_, however, this distinction is systematically dismantled. Lavinia’s assertion—“I am, now, only in this line of words I write”—foregrounds this collapse with striking clarity. The adverb “now” situates her existence in the present moment of narration, while the restrictive “only” emphasises that her being is entirely contingent upon the act of writing. Lavinia does not narrate a pre-existing self; rather, she _comes into being_ through narration. Histoire is not prior to récit—it is generated by it.
+
+This ontological dependence on narration is further intensified in her claim that “my being is as I write and you read it.” The coordination of “write” and “read” through the conjunction “and” establishes a relational model of subjectivity, in which the reader becomes a co-creator of the text. Lavinia’s existence is not self-contained but distributed across writer, text, and reader, destabilising the boundaries between them. This echoes Cixous’ insistence on writing as a site of multiplicity, where meaning is not fixed but continually produced through exchange. Yet Le Guin moves beyond Cixous by embedding this multiplicity within narrative structure itself: the text performs the very openness it describes.
+
+At the same time, _Lavinia_ explicitly engages with the problem of authorship as a form of patriarchal control. Lavinia’s relationship with Virgil—the male poet who originally authored her story—becomes the site of a struggle over narrative authority. When she declares that she must “break out and speak,” the phrase operates on multiple levels. The verb “break out” suggests both physical escape and textual rupture, indicating a refusal to remain confined within Virgil’s narrative. The subsequent “speak” foregrounds voice as the medium of this resistance. Speech becomes an act of self-assertion, challenging the silence imposed by the original text.
+
+This challenge is made even more explicit when Lavinia insists on “tak[ing] the word from him.” The verb “take” signals an active appropriation, reversing the traditional dynamic in which the male author controls the narrative. Language itself becomes the contested terrain. By seizing “the word,” Lavinia does not merely reinterpret her story; she reclaims the means of its production. This aligns with Cixous’ call for women to “put [themselves] into the text,” yet Le Guin complicates this gesture by showing that such insertion requires a prior act of displacement—of removing authority from the patriarchal voice.
+
+Le Guin’s disruption of récit and histoire also has significant implications for temporality. Lavinia’s narrative does not unfold in a linear sequence but moves fluidly between past, present, and future. Her interactions with Virgil occur outside chronological time, creating a narrative space in which different temporalities coexist. This temporal multiplicity mirrors the structural multiplicity of the text, reinforcing the idea that identity is not fixed but continuously reconstituted. In this sense, Le Guin extends the indeterminacy of H.D.’s imagist field into the realm of narrative time.
+
+Yet unlike H.D., Le Guin does not entirely abandon the possibility of subjectivity. Instead, she reconstructs it on new terms. Lavinia’s identity is neither fully stable nor entirely dispersed; it is relational, contingent, and dynamic. This is particularly evident in her reflection that she is “in this line of words,” a phrase that simultaneously asserts presence and acknowledges limitation. The “line” suggests linearity and constraint, yet it also implies continuity, a thread that can be extended and reworked. Writing becomes both a boundary and a means of transcendence.
+
+This duality is further reflected in Lavinia’s relationship to her own incompleteness. She describes herself as “unfinished,” a condition that might traditionally signify lack or deficiency. However, Le Guin reconfigures this incompleteness as generative. Because Lavinia is not fully determined by Virgil’s text, she retains the capacity to write herself differently. Her statement that “if you never finish it, it will never end” transforms incompletion into possibility. The repetition of “never” emphasises the refusal of closure, aligning with the broader logic of écriture féminine as an open, ongoing process.
+
+In this respect, Le Guin’s text occupies a crucial intermediary position between H.D. and Miller. Where H.D. disperses subjectivity into a field of images, Le Guin gathers it within the act of writing, but without reintroducing the hierarchical structures that imagism resists. Subjectivity is reconstructed, but it remains fluid, relational, and contingent. The body, while not absent, is not yet central; it exists in a mediated form, tied to language and narrative rather than directly expressed.
+
+This mediation is precisely what allows Le Guin to bridge the gap between H.D.’s formal indeterminacy and Miller’s embodied writing. By collapsing récit and histoire, she demonstrates that subjectivity can be both constructed and open, both present and unfinished. Writing becomes the site at which identity is negotiated, rather than a medium for expressing a pre-existing self.
+
+In doing so, _Lavinia_ not only reclaims narrative authority but redefines the terms of feminine writing. It shows that écriture féminine is not simply a matter of writing the body, but of transforming the structures through which meaning and identity are produced. Le Guin thus extends and deepens the trajectory initiated by H.D., preparing the ground for Miller’s full articulation of embodied jouissance
+
+## III. Miller: Embodiment, Voice, and the Excess of Jouissance
+
+Where H.D. disperses subjectivity across objects and Le Guin relocates it within narration, Miller’s _Circe_ marks a decisive return to the body as the central site of feminine expression. Yet this is not a simple recovery of embodiment; rather, Miller stages the body as a contested space, one that must be actively reclaimed from the phallogocentric structures that have historically defined and constrained it. In doing so, _Circe_ realises in explicit, material terms what remains formal and latent in H.D.: a mode of writing that not only resists closure but generates meaning through bodily excess, fluidity, and transformation.
+
+Circe’s power is repeatedly located in the body, but crucially, not as a stable or pre-given essence. Her first awareness of witchcraft is described as something that “woke in the depths of my blood,” a phrase that foregrounds both interiority and latency. The verb “woke” suggests that this power is not acquired but activated, already present yet unrecognised. At the same time, the “depths” of the body remain inaccessible and unbounded, resisting the kind of containment or definition associated with phallogocentric discourse. The body here is not a fixed identity but a reservoir of potential, aligning with Cixous’ insistence that feminine writing is “infinitely dynamized” and resistant to enclosure.
+
+This latent power becomes increasingly articulated through Circe’s relationship to voice. Early in the novel, Circe is characterised by her marginality and silence, dismissed as possessing “a mortal’s voice” among divine beings. Yet it is precisely this voice that becomes the medium of her transformation. When she declares, “I sang, which had never been allowed before,” the act of singing marks both a literal and symbolic rupture. The subordinate clause “which had never been allowed before” foregrounds prohibition, situating her prior silence within a structure of control. The simple declarative “I sang,” however, asserts agency, reclaiming voice as an act of self-definition.
+
+This voice is not merely expressive but generative. Circe describes how her singing “filled the rooms of my house,” transforming space through sound. The verb “filled” suggests expansion and occupation; the house, traditionally a site of confinement, becomes instead a space activated by her presence. In contrast to H.D.’s dispersed spatial field, where subjectivity dissolves into landscape, Circe re-centres space around the body, yet does so without reinstating hierarchy. The body does not dominate space; it permeates and transforms it, producing a relational rather than oppositional dynamic.
+
+Miller further emphasises the processual nature of this embodied power through her depiction of magic. Circe explains that witchcraft “must be made and worked, planned and searched out, dug up, dried, chopped and ground, cooked, spoken over, and sung.” The accumulation of verbs creates a sense of continuous labour and transformation, refusing any notion of fixed or stable identity. The asyndetic listing—“dug up, dried, chopped and ground”—produces a rhythm of excess, aligning closely with Cixous’ conception of jouissance as a form of “giving, expending, dispensing… without concern about ends or closure.” Magic, like feminine writing, is not a finished product but an ongoing process, one that resists finality.
+
+Importantly, this process is grounded in the body, but not in a reductive or essentialist sense. Circe repeatedly links her magic to both “the sap moving in the plants” and “the blood in my veins,” collapsing the boundary between human and natural, internal and external. This movement recalls H.D.’s earlier displacement of subjectivity into the external world, yet Miller reverses the direction: rather than dissolving the self into objects, she draws the external world into the body. The body becomes a site of convergence, a point at which multiple forms of life and energy intersect.
+
+This convergence is most powerfully articulated in Circe’s assertion that witchcraft is “mostly will,” a statement that reframes power as both bodily and volitional. The collective pronoun in “we knew what will was” situates this power within a shared feminine experience, suggesting that the capacity for transformation is not individual but communal. At the same time, the simplicity of the syntax—“we knew”—contrasts with the complexity of the processes described earlier, foregrounding knowledge as both intuitive and embodied.
+
+Circe’s sexuality further complicates this embodied writing. Traditionally cast as a seductress who entraps men, Miller reclaims this aspect of her myth by reframing desire as agency rather than transgression. Circe’s encounters with men are marked not by submission but by control; her transformation of Odysseus’ men into animals is both literal and symbolic, reversing the dynamic of domination. Yet Miller resists reducing this power to a simple inversion of patriarchy. Instead, she emphasises the fluidity and ambiguity of desire, aligning it with the broader logic of jouissance.
+
+This ambiguity culminates in Circe’s final act of self-transformation. When she declares, “I lift the brimming bowl to my lips and drink,” the image is both ritualistic and deeply corporeal. The adjective “brimming” suggests excess, fullness, and potential overflow, while the act of drinking signifies incorporation. Unlike H.D.’s objects, which resist absorption, Circe actively internalises transformation, making the body itself the site of change. This act is self-directed; she chooses mortality, reclaiming agency over her own existence.
+
+Crucially, the novel does not resolve this transformation. The narrative ends without confirming the outcome of Circe’s choice, leaving her future open and indeterminate. This refusal of closure aligns with the formal logic established by H.D. and extended by Le Guin. Even as Miller reintroduces the body, she maintains the openness and multiplicity characteristic of écriture féminine. The body becomes not a point of resolution but a site of ongoing becoming.
+
+In this sense, _Circe_ does not simply fulfil Cixous’ call to “write through the body”; it redefines what such writing entails. The body is not a stable origin but a dynamic field, one that generates meaning through excess, transformation, and relationality. By grounding feminine writing in the materiality of the body while preserving its openness, Miller completes the trajectory initiated by H.D. and reconfigured by Le Guin, demonstrating that écriture féminine is both embodied and irreducibly indeterminate.
+
+## Conclusion
+
+Taken together, H.D., Le Guin, and Miller trace a trajectory from modernist indeterminacy to contemporary embodiment. H.D.’s imagism anticipates the formal logic of écriture féminine by resisting closure and preserving otherness. Le Guin transforms this logic into narrative process, collapsing récit and histoire to produce relational subjectivity. Miller completes the movement by reclaiming the body as a site of power, articulating jouissance through embodied transformation.
+
+H.D. thus emerges as a crucial precursor to Cixous: her work establishes the conditions under which feminine writing becomes possible. Écriture féminine, in this sense, is not defined solely by the body, but by its resistance to closure, hierarchy, and control. It is a mode of writing that moves from image to text to body, continually redefining the possibilities of feminine expression.
 
 
 
@@ -51,9 +151,7 @@ Nationalism and Modernism
 
 
 
-
-
-
+# ---
 ## E.M. Forster — *Howards End*
 
 ### QUOTES
