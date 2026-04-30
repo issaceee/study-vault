@@ -39,8 +39,14 @@ recognisable product finding itself in a place u wouldnt expect it to be
 - uncanny presence
 
 
+modernist sunchronisim --> a way of bringing together multiple systems of belief
 
+collages as domestic, low-art practice --> creation of new out of the old
 
+texts that are high-culture but full of practices that are low-culture
+--> frtactured identity
+
+cultural arbitrariness - openness to rewriting it, to the cultural hybridity and subjectivity -->  create forms that while they might misunderstand and appropriate cultural subjectivities, but introduce new ways to work cultural sensistivites
 
 
 
