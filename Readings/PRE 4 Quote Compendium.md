@@ -2226,3 +2226,15 @@ by the year 2000s, the highest forms of literary writings are indistinguishable 
 
 
 genre fiction - emerging form of the ni
+
+
+"I too" - Langston Hughs
+
+
+
+
+
+WWII
+
+wake of WWII - national movements around the world that is a breaking from colonial history
+
