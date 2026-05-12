@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/PRE 3 Quote Compendium.md",
+                "file": "Readings/PRE 4 Quote Compendium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE 3 Quote Compendium"
+              "title": "PRE 4 Quote Compendium"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "1a"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "5434a86a7c0c9c5e",
+  "active": "63d3fd839fe1f20b",
   "lastOpenFiles": [
     "Readings/PRE 3 Quote Compendium.md",
     "1a.md",

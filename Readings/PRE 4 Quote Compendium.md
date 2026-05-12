@@ -1,4 +1,12 @@
 
+
+
+
+
+
+
+
+
 Nationalism
 
 
@@ -2162,3 +2170,10 @@ A gray old boatplant with boat flowers and boatfruit. And underneath, a boat-sha
 > “collapse of chronology” (implicit from Outka framework)
 
 - supports reading of disrupted temporality across postcolonial texts  
+
+
+
+
+
+# ---
+# Revision
