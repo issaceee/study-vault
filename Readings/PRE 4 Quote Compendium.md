@@ -2210,3 +2210,19 @@ Suggested readings:
 	- 1st Wave: Walter Benjamin - Charles Baudelaire: The painter of Modern Life
 	- 
 
+
+Feminism
+
+sophistication
+1 st wave feminism - before WWII , udnerstood their writing as having this effect on the world 
+
+
+
+
+Genre fiction - 20th fiction - lesser and worse fiction --> movement into the genre itself is intself a way to fight culture in these forms
+- Genres are 20th and 21st century myths --> popular forms in their most dominant modes have internalised patriarchal --> rewriting these myths have a way of changing the world
+
+by the year 2000s, the highest forms of literary writings are indistinguishable (Severance is a zombie novel; )
+
+
+genre fiction - emerging form of the ni
