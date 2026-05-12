@@ -2177,3 +2177,36 @@ A gray old boatplant with boat flowers and boatfruit. And underneath, a boat-sha
 
 # ---
 # Revision
+
+the city
+
+19th century - slave labour, rural economy vs the capitalist
+
+radical political project trying to bring african americans into citizenship - Jim Crow and the Jim Crow laws
+
+racially discriminating - the great migration (characters from the south going to the north)
+
+
+industrialisation and ...
+
+postmodernism is associated with a history of capitalism - raw material goods is replaced with immaterial 
+- Crying of Lot 49 - looks like a radio circuit
+
+
+postindustrial 
+
+
+expansion of what the city means
+
+
+Suggested readings:
+- Country in the City - Williams
+- Frederick Jameson - Postmodernism (architecture chapter - the postmodern city)
+- City of Courts - Mike Davis (?) - Noir
+- PLanet of Slums 
+	- by the turn of the 21st century, the city has proliferated slums
+- Flâneur - figure of the modernist artist 
+	- in the midst of the chaos and uproar, able to observe it from a place of dispassion
+	- 1st Wave: Walter Benjamin - Charles Baudelaire: The painter of Modern Life
+	- 
+
