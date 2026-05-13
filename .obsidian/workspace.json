@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8163a21dbd8831c5",
+        "id": "79899df31fdb0261",
         "type": "tabs",
         "children": [
           {
-            "id": "63d3fd839fe1f20b",
+            "id": "08e638f91563a4b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/PRE 4 Quote Compendium.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PRE 4 Quote Compendium"
-            }
-          },
-          {
-            "id": "5434a86a7c0c9c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1a"
+              "title": "New tab"
             }
           }
         ]
@@ -196,11 +178,11 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "63d3fd839fe1f20b",
+  "active": "08e638f91563a4b3",
   "lastOpenFiles": [
-    "Readings/PRE 3 Quote Compendium.md",
     "1a.md",
     "Readings/PRE 4 Quote Compendium.md",
+    "Readings/PRE 3 Quote Compendium.md",
     "Readings/Texts/Paper 1/PRE1b Revision Lecture.md",
     "Readings/Texts/Paper 1/PRE1b Tutorial Revision.md",
     "Readings/Texts/Paper 1/Untitled.md",
