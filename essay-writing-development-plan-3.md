@@ -65,6 +65,27 @@ Not everything in this collection reduces to the pattern above. Two things are g
 
 ---
 
+## HOW TO BUILD THE CAPACITY TO MAKE AN ORIGINAL CLAIM ABOUT A FIELD
+
+This isn't a trait you either have or don't — it's already visible, inconsistently, across your own essays. The question is how to make it reliable.
+
+**Evidence you already do this:** Quicksand ("Much scholarship echoes this view... Nevertheless, while Roos reads Quicksand through the Ariadne myth... I argue that the novel's ending ultimately resists a tragic and mythic coherence that such a framework assumes") and Howards End (Hegglund vs. Outka, positioned against each other) both do it well. Quicksand in particular is the last essay in the file — direct evidence the skill grew over the year, unprompted, after the Stein tutor's note asking for exactly this kind of sentence.
+
+**The mechanism, made explicit — two steps, every time:**
+1. Steelman the existing reading precisely — name the scholar, state their strongest version, not a vague "some critics say."
+2. Find the one specific textual detail the existing reading can't metabolize, and use that friction point — not a general dissatisfaction — as the pivot into your own claim. (Quicksand's pivot: Roos reads the ending as tragic sacrifice; the text actually ends on biological repetition — a detail the sacrifice-frame has no room for.)
+
+**Concrete practices — pick two or three, not all at once:**
+
+1. **10-minute field map before writing.** For any set text: 3–4 lines, "critics tend to read this as ___," one line per position, even guessed from lecture framing. Originality is only visible against a mapped terrain — without the map you can't tell if a reading is new or just unlabeled.
+2. **Keep a running friction log, separate from any essay.** Whenever a secondary source triggers "wait, but what about—", write the unfinished sentence down immediately. This is literally how the Quicksand pivot and the "one race of men" aside in Bulosan happened — the skill is catching the noticing, not inventing it.
+3. **Steelman before you pivot, explicitly.** Write "the strongest version of [scholar]'s reading is ___" before writing your own claim. Weak original claims usually come from a strawmanned existing reading. The Howards End note ("not entirely clear how different from Outka's") suggests the steelmanning step got skipped there.
+4. **Practice on pairs of scholars who disagree with each other**, not just one scholar you're extending. Locating a third position between two existing ones (Hegglund/Outka; the Kipling three lenses) is a smaller creative leap than generating a claim from nothing.
+5. **Redefine "original" as "precise," not "unprecedented."** Nearly every strong critical claim is a recombination — a detail from one register (form, archive, a minor character) unsettling a reading built on another (theme, plot, a major character). Kapwa answering what Chuang-Tzu couldn't; the "sleep" reading against Roos's "circularity" — both small, specific recombinations, not invention from scratch.
+6. **Do it as a standalone drill sometimes, no essay attached.** Once a fortnight: field-map guesses plus one friction sentence on a text you already know, zero stakes. The instinct fires more reliably without exam pressure and juggling frameworks at once (Quicksand, Howards End were both lower-pressure contexts than the Prelims essays) — practicing it in isolation is how it becomes reflexive under pressure later.
+
+---
+
 ## NEW CHALLENGES TO GROW INTO
 
 These four aren't random new skills — each one is a different terrain for practicing the same underlying move the core diagnosis points to: **trusting a narrower, sharper, more selective claim over a comprehensive one.** Reading them this way should make them feel connected rather than like four separate assignments.
