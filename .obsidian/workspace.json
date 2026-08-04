@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay-writing-development-plan.md",
+                "file": "essay-writing-development-plan-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "essay-writing-development-plan"
+              "title": "essay-writing-development-plan-2"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "08e638f91563a4b3",
   "lastOpenFiles": [
     "Archive, Promos/Essay Plans.md",
+    "essay-writing-development-plan-2.md",
     "essay-writing-development-plan.md",
     "Archive, Promos/1b.md",
     "Archive, Promos.md",
@@ -223,7 +224,6 @@
     "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE4W7 Seminar.md",
     "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE4W6 Tutorial.md",
     "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE4W2 Mrs Dalloway.md",
-    "Archive, Promos/Readings/Lecture Notes/Y1T2 Hilary/todo PRE1aW3 Lecture.md",
     "CoSEM-to-AntConc-Metadata-Mapper/demographic_metadata.tsv",
     "CoSEM-to-AntConc-Metadata-Mapper/CoSEM_v5/COSEM_v5_chunk_999.txt",
     "CoSEM-to-AntConc-Metadata-Mapper/CoSEM_v5/COSEM_v5_chunk_993.txt",
