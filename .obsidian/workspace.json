@@ -25,12 +25,14 @@
             "id": "9b726eb8fc5e5d7b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "knowing-yourself-2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "knowing-yourself-2"
             }
           }
         ],
@@ -198,8 +200,10 @@
   },
   "active": "9b726eb8fc5e5d7b",
   "lastOpenFiles": [
-    "Archive, Promos/Essay Plans.md",
     "essay-writing-development-plan-3.md",
+    "knowing-yourself-2.md",
+    "knowing-yourself.md",
+    "Archive, Promos/Essay Plans.md",
     "essay-writing-development-plan-2.md",
     "essay-writing-development-plan.md",
     "Archive, Promos/1b.md",
@@ -237,8 +241,6 @@
     "Archive, Promos/Readings/Texts/Paper 2/Liuzza, _Beowulf_..md",
     "Archive, Promos/Readings/Lecture Notes/Y1T1 Michaelmas/PRE2W2 Cultural Contexts Invasion & Kingship.md",
     "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE2W8 class.md",
-    "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE4W7 Seminar.md",
-    "Archive, Promos/Readings/Assignments/Y1T2 Hilary/PRE4W6 Tutorial.md",
     "CoSEM-to-AntConc-Metadata-Mapper/demographic_metadata.tsv",
     "CoSEM-to-AntConc-Metadata-Mapper/CoSEM_v5/COSEM_v5_chunk_999.txt",
     "CoSEM-to-AntConc-Metadata-Mapper/CoSEM_v5/COSEM_v5_chunk_993.txt",
