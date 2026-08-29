@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "knowing-yourself-2"
             }
+          },
+          {
+            "id": "aa3082803be84026",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "9b726eb8fc5e5d7b",
+  "active": "aa3082803be84026",
   "lastOpenFiles": [
     "essay-writing-development-plan-3.md",
     "knowing-yourself-2.md",
